@@ -6,5 +6,5 @@ permalink: /classes/
 
 **Current:**
 
-- BIOL 367 ([Winter 2018]
+- BIOL 367 ([winter 2018]
 
