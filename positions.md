@@ -6,7 +6,7 @@ permalink: /positions/
 
 
 <a id="postdocs"></a>
-This research lab will start at the Concordia University, Montreal. on August 1st, 2017. Our group will use evolution and decades of work on model organisms as a guide for synthetic biology in simplified cells.
+**This research lab will start at the Concordia University, Montreal. on August 1st, 2017. Our group will use evolution and decades of work on model organisms as a guide for synthetic biology in simplified cells.**
 
 The basic premise of our research is illustrated as follows:
 
