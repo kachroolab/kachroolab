@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Joining the lab
-permalink: /positions1/
+permalink: /positions/
 ---
 
 
