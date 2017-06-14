@@ -51,7 +51,14 @@ permalink: /people/
             <div class="icon-tooltip"><p>Github</p></div>         
           </a> 
         {% endif %}
-        
+        {% if person.twitter %}
+          <a href="https://twitter.com/{{ person.twitter }}" class="people-icon">
+            <svg>
+              <use xlink:href="#svg-twitter-icon"/>
+            </svg> 
+            <div class="icon-tooltip"><p>Twitter</p></div>         
+          </a> 
+        {% endif %}
       </li>
     {% endfor %}
   </ul>
