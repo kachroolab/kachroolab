@@ -4,7 +4,7 @@ title: Classes
 permalink: /classes/
 ---
 
-**Current:**
+**Upcoming:**
 
-- BIOL 367 ([winter 2018]
+- BIOL 367 ([winter 2018](/classes/BIOL367_winter_2018.html))
 
