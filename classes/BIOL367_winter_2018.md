@@ -13,4 +13,4 @@ Readings:
 
 Book 1: [The Eighth Day of Creation: Makers of the Revolution in Biology](https://www.amazon.com/Eighth-Day-Creation-Revolution-Commemorative/dp/0879694785)
 
-Book 2: [Genes X](https://www.amazon.com/Lewins-GENES-Jocelyn-E-Krebs/dp/0763766321/ref=pd_lpo_sbs_14_img_0?_encoding=UTF8&psc=1&refRID=N1DR6BQZKBE4PZBPDNN4)
+Book 2: [Genes XII](https://www.amazon.com/Lewins-GENES-XII-Jocelyn-Krebs/dp/1284104494/ref=dp_ob_image_bk)
