@@ -1,6 +1,6 @@
 # Site settings
 title: The Kachroo Lab
-address: Concordia University, Montreal, Canada.
+address: Concordia University, @<a href="https://www.concordia.ca/research/casb.html">Center for Applied Synthetic Biology.</a> Montreal, Canada.
 email: aashiqh.kachroo@concordia.ca
 description: > # this means to ignore newlines until "baseurl:"
   Center for Applied Synthetic Biology.<br>
