@@ -11,4 +11,4 @@ Syllabus and schedule: Coming soon
 
 Readings:
 
-**xxx**  
+**The Eighth Day of Creation: Makers of the Revolution in Biology**  
