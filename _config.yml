@@ -7,7 +7,6 @@ description: > # this means to ignore newlines until "baseurl:"
   The Department of Biology<br>
   Concordia University, Loyola Campus<br>
   7141 Sherbrooke St W, Montreal, QC H4B 1R6, Canada<br>
-  Room:
 baseurl: "" # the subpath of your site, e.g. /blog/
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: Kachroo_Lab
