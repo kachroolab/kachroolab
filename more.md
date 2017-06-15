@@ -3,7 +3,7 @@ layout: page
 title: More
 permalink: /more/
 ---
-- [About the website] (About_the_website.html)
+- [About the website](About_the_website.html)
 - [Software](/software/)
 - [Photos](https://instagram.com/kachroolab/)
 - [Classes](/classes/)
