@@ -4,7 +4,7 @@ title:  About the lab
 permalink: /positions/About_the_lab.html
 ---
 ![proposal overview figure modified](https://user-images.githubusercontent.com/28112083/27199556-12800894-51dc-11e7-9647-b41383d0e0de.jpg)
-**Why?**
+**Big picture**
 
 The most deeply evolutionarily conserved human genes encode essential cellular machinery whose failures are linked to diverse diseases, such as cancer to cardiovascular disease. Recent systematic studies have discovered extensive genetic polymorphism in these genes yet studying how these variations contribute to cellular function and overall human health remains a challenge. Our group will focus on studying these conserved human genes along with many of their variants, by systematically “humanizing” yeast cells, replacing each of the essential yeast genes in turn by its human version.
 
