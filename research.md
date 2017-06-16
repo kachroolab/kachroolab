@@ -1,7 +1,7 @@
 ---
 layout: page
-title:  Research
-permalink: /positions/research.html
+title:  About the lab
+permalink: /positions/About_the_lab.html
 ---
 ![proposal overview figure modified](https://user-images.githubusercontent.com/28112083/27199556-12800894-51dc-11e7-9647-b41383d0e0de.jpg)
 **Why?**
