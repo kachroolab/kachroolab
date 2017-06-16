@@ -12,5 +12,7 @@ Syllabus and schedule: Coming soon
 Reading material:
 
 Book 1: [The Eighth Day of Creation: Makers of the Revolution in Biology](https://www.amazon.com/Eighth-Day-Creation-Revolution-Commemorative/dp/0879694785)
+
 Book 2: [Genes XII](https://www.amazon.com/Lewins-GENES-XII-Jocelyn-Krebs/dp/1284104494/ref=dp_ob_image_bk)
+
 Book 3: [Molecular Biology](https://www.amazon.com/Molecular-Biology-WCB-Cell/dp/0073525324)
