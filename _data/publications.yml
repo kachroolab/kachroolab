@@ -9,7 +9,7 @@
   year: 2016
   title: Efforts to make and apply humanized yeast.
   ref: "Brief Funct. Genomics 348:921–925"
-  doi: https://doi.org/10.1093/bfgp/elv041
+  doi: 10.1093/bfgp/elv041
   pmcid: PMC4803062
   
 - author: A. H. Kachroo, J. M. Laurent, C. M. Yellman, A. G. Meyer, C. O. Wilke, E. M. Marcotte
@@ -18,4 +18,6 @@
   ref: "Science 348:921–925"
   doi: 10.1126/science.aaa0769
   pmcid: PMC4718922
+  
+- 
   
