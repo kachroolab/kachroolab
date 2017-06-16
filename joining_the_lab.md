@@ -10,7 +10,7 @@ The Kachroo lab will open in August, 2017 at Concordia University, Montreal, Can
 Prospective postdocs should contact Aashiq Kachroo by email (aashiqh.kachroo@concordia.ca). Send a current CV and a brief summary of research interests.  
 
 **Graduate students.**
-Kachroo lab will be looking for talented graduate students soon. Follow this website for upcoming avaiable positions.
+Kachroo lab will be looking for talented graduate students soon. Follow this website for upcoming available positions.
 
 **Undergraduates.**
 Undergraduates are welcome. Contact Aashiq Kachroo and inquire about current opportunities.
