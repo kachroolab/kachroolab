@@ -14,7 +14,7 @@ Yeast is by far the most well-studied eukaryotic cell. Given the relative ease t
 
 **Why humanize yeast?**
 
-Functional replaceability of human genes in budding yeast provides a tractable phenotype to test the fitness of that gene in a simplified eukaryotic cell. The resulting strains will serve as new physical reagents for studying the human genes in a simplified organismal context, opening up high-throughput assays of human gene function, analyzing the impact of human genetic variation on gene function. These humanized yeast will serve as test tubes for screening and repurposing of drugs and the rapid determination of mechanisms of drug resistance. 
+Functional swappability of human genes in budding yeast provides a tractable phenotype to test the fitness of that gene in a simplified eukaryotic cell. The resulting strains will serve as new physical reagents for studying the human genes in a simplified organismal context, opening up high-throughput assays of human gene function, analyzing the impact of human genetic variation on gene function. These humanized yeast will serve as test tubes for screening and repurposing of drugs and the rapid determination of mechanisms of drug resistance. 
 
 **Broad implications**
 
