@@ -10,11 +10,11 @@ The most deeply evolutionarily conserved human genes encode essential cellular m
 
 **Why yeast?**
 
-Yeast is by far the most well-studied eukaryotic cell. Given the relative ease to genetically modify yeast, along with extensive genetic conservation with humans, it has been an invaluable model system for researchers for decades. Yet, apart from isolated examples, the extent to which deeply divergent orthologs can stand in for each other is largely unknown. Our recent work on systematic humanization of yeast genes showed that many human genes (~50%) can functionally replace their equivalents in yeast. 
+Yeast is by far the most well-studied eukaryotic cell. Given that it is relatively easy to genetically modify yeast, along with extensive genetic conservation with humans, yeast has been an invaluable model system for researchers for decades. Yet, apart from isolated examples, the extent to which deeply divergent orthologs can stand in for each other is largely unknown. Our recent work on systematic humanization of yeast genes showed that many human genes (~50%) can functionally replace their equivalents in yeast. 
 
 **Why humanize yeast?**
 
-Functional swappability of human genes in budding yeast provides a tractable phenotype to test the fitness of that gene in a simplified eukaryotic cell. The resulting strains will serve as new physical reagents for studying the human genes in a simplified organismal context, opening up high-throughput assays of human gene function, analyzing the impact of human genetic variation on gene function. These humanized yeast will serve as test tubes for screening and repurposing of drugs and the rapid determination of mechanisms of drug resistance. 
+Functional swappability of human genes in budding yeast provides a tractable phenotype to test the fitness of that gene in a simple eukaryotic cell. The resulting strains will serve as new physical reagents for studying the human genes in a simplified organismal context, opening up high-throughput assays of human gene function, analyzing the impact of human genetic variation on gene function. These humanized yeast will serve as test tubes for screening and repurposing of drugs and the rapid determination of mechanisms of drug resistance. 
 
 **Broad implications**
 
