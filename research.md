@@ -8,9 +8,13 @@ permalink: /positions/research.html
 
 The most deeply evolutionarily conserved human genes encode essential cellular machinery whose failures are linked to diverse diseases, such as cancer to cardiovascular disease. Recent systematic studies have discovered extensive genetic polymorphism in these genes yet studying how these variations contribute to cellular function and overall human health remains a challenge. Our group will focus on studying these conserved human genes along with many of their variants, by systematically “humanizing” yeast cells, replacing each of the essential yeast genes in turn by its human version.
 
+**Why yeast?**
+
+Yeast is by far the most well-studied eukaryotic cell. Given the relative ease to genetically modify yeast, along with extensive genetic conservation with humans, it has been an invaluable model system for decades. Yet, apart from isolated examples, the extent to which deeply divergent orthologs can stand in for each other is largely unknown. However, our recent work on systematic humanization of yeast genes showed that many human genes (~50%) can functionally replace their equivalents in yeast. 
+
 **Why humanize yeast?**
 
-Yeast is by far the most well-studied eukaryotic cell. It is relatively easy to genetically modify yeast with extensive genetic conservation with humans. Therefore, it is perhaps not a surprise that many human genes can functionally replace their equivalents in yeast. Functional replaceability of human genes in budding yeast provides a tractable phenotype to test the fitness of a human gene in a simplified eukaryotic cell. The resulting strains will serve as new physical reagents for studying the human genes in a simplified organismal context, opening up high-throughput assays of human gene function, analyzing the impact of human genetic variation on gene function. These humanized yeast will serve as test tubes for screening and repurposing of drugs and the rapid determination of mechanisms of drug resistance. 
+Functional replaceability of human genes in budding yeast provides a tractable phenotype to test the fitness of that gene in a simplified eukaryotic cell. The resulting strains will serve as new physical reagents for studying the human genes in a simplified organismal context, opening up high-throughput assays of human gene function, analyzing the impact of human genetic variation on gene function. These humanized yeast will serve as test tubes for screening and repurposing of drugs and the rapid determination of mechanisms of drug resistance. 
 
 **Broad implications**
 
