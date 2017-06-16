@@ -3,6 +3,6 @@ layout: page
 title: Positions
 permalink: /positions/
 ---
-- [Our Research](research)
+- [Research](research)
 - [Joining the lab](joining_the_lab)
 
