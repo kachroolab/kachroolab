@@ -10,7 +10,7 @@ The most deeply evolutionarily conserved human genes encode essential cellular m
 
 **Why yeast?**
 
-Yeast is by far the most well-studied eukaryotic cell. Given the relative ease to genetically modify yeast, along with extensive genetic conservation with humans, it has been an invaluable model system for decades. Yet, apart from isolated examples, the extent to which deeply divergent orthologs can stand in for each other is largely unknown. However, our recent work on systematic humanization of yeast genes showed that many human genes (~50%) can functionally replace their equivalents in yeast. 
+Yeast is by far the most well-studied eukaryotic cell. Given the relative ease to genetically modify yeast, along with extensive genetic conservation with humans, it has been an invaluable model system for researchers for decades. Yet, apart from isolated examples, the extent to which deeply divergent orthologs can stand in for each other is largely unknown. Our recent work on systematic humanization of yeast genes showed that many human genes (~50%) can functionally replace their equivalents in yeast. 
 
 **Why humanize yeast?**
 
