@@ -1,4 +1,4 @@
-  - name: Saccharomyces cerevisiae
+- name: Saccharomyces cerevisiae
   role: Model Organism
   url: "http://www.yeastgenome.org"
   twitter: "yeastgenome"
