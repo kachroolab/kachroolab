@@ -1,3 +1,9 @@
+  - name: Saccharomyces cerevisiae
+  role: Model Organism
+  url: "http://www.yeastgenome.org"
+  twitter: "yeastgenome"
+  
+  
 - name: Aashiq H. Kachroo
   role: Principal Investigator
   url: "https://www.linkedin.com/in/AashiqHKachroo/"
