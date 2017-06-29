@@ -3,7 +3,11 @@ layout: post
 title:  "Humanization of yeast genes"
 date:   2017-06-13 14:08:00
 ---
-In 2015, we published an article on [systematic replacement of essential genes in baker's yeast with corresponding human orthologs.](http://www.sciencemag.org/content/348/6237/921.full) This work demonstrated that nearly 50% of the essential yeast genes can be replaced by their human counterparts, despite over a billion years of evolutionary divergence between humans and yeast. **My lab at Concordia university will expand on this work to fully humanize genetic systems in yeast.** 
+In 2015, we published an article on [systematic replacement of essential genes in baker's yeast with corresponding human orthologs.](http://www.sciencemag.org/content/348/6237/921.full) This work demonstrated that nearly 50% of the essential yeast genes can be replaced by their human counterparts, despite over a billion years of evolutionary divergence between humans and yeast. We discovered that metabolic pathways and protein complexes were either entirely replaceable or not.
+
+![proposal figure 2](https://user-images.githubusercontent.com/28112083/27707719-f7648a2a-5cdb-11e7-999b-c2f48c818fbd.png)
+
+**My lab at Concordia university will expand on this work to fully humanize genetic systems in yeast.** 
 
 This article was highlighted at many news and other media outlets, links to which are provided below:
 
