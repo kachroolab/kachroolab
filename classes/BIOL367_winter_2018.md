@@ -6,7 +6,7 @@ date:   2018
 This is the home page for class BIOL 367, Molecular Biology.
 
 ## Syllabus
-[Syllabus_BIOL367_Winter2018](https://github.com/kachroolab/kachroolab/files/1612052/BIOL.367.Molecular.Biology.course.outline_winter.2018.pdf)
+[Syllabus_BIOL367_Winter2018](https://github.com/kachroolab/kachroolab/files/1613362/BIOL.367.Molecular.Biology.course.outline_winter.2018.pdf)
 ## Discussion Group info
 Check your discussion subgroup details [here](https://github.com/kachroolab/kachroolab/files/1613166/Discussion.Group.details.xlsx)
 ## 8th Jan 2018
