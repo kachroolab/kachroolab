@@ -10,6 +10,7 @@ This is the home page for class BIOL 367, Molecular Biology.
 ## Lecture1
 [Lecture 1](https://github.com/kachroolab/kachroolab/files/1612233/Lecture.01.pdf)
 
+General Reading (not necessary for the exams).
 [Reading material 1-Avery](https://github.com/kachroolab/kachroolab/files/1612069/Avery.1944.pdf)
 
 [Reading material 2-WatsonCrick](https://github.com/kachroolab/kachroolab/files/1612072/WatsonCrick.1953.pdf)
