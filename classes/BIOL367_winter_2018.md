@@ -9,9 +9,9 @@ This is the home page for class BIOL 367, Molecular Biology.
 [Syllabus_BIOL367_Winter2018](https://github.com/kachroolab/kachroolab/files/1612052/BIOL.367.Molecular.Biology.course.outline_winter.2018.pdf)
 ## Lecture1
 [Lecture 1]()
-[Reading material]()
-
-Reading material:
+[Reading material 1]()
+[Reading material 2]()
+## Books
 
 Book 1: [The Eighth Day of Creation: Makers of the Revolution in Biology](https://www.amazon.com/Eighth-Day-Creation-Revolution-Commemorative/dp/0879694785)
 
