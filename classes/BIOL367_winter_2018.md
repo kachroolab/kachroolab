@@ -5,7 +5,7 @@ date:   2018
 ---
 This is the home page for class BIOL 367, Molecular Biology.
 
-Syllabus and schedule: Coming soon
+## Syllabus
 
 ## Lectures
 
