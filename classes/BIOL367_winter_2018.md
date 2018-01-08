@@ -7,6 +7,7 @@ This is the home page for class BIOL 367, Molecular Biology.
 
 ## Syllabus
 [Syllabus_BIOL367_Winter2018](https://github.com/kachroolab/kachroolab/files/1612052/BIOL.367.Molecular.Biology.course.outline_winter.2018.pdf)
+## 8th Jan 2018
 ## Lecture1
 [Lecture 1](https://github.com/kachroolab/kachroolab/files/1612233/Lecture.01.pdf)
 
@@ -17,6 +18,8 @@ General Reading (not necessary for the exams).
 [Reading material 2-WatsonCrick](https://github.com/kachroolab/kachroolab/files/1612072/WatsonCrick.1953.pdf)
 
 [Reading material 3-Chargaff](https://github.com/kachroolab/kachroolab/files/1612189/Chargaff.1950.pdf)
+## 10th Jan 2018
+## Lecture2
 ## Books
 
 Book 1: [The Eighth Day of Creation: Makers of the Revolution in Biology](https://www.amazon.com/Eighth-Day-Creation-Revolution-Commemorative/dp/0879694785)
