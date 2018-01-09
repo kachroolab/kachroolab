@@ -7,9 +7,9 @@ This is the home page for class BIOL 367, Molecular Biology.
 
 ## Syllabus
 [Syllabus_BIOL367_Winter2018](https://github.com/kachroolab/kachroolab/files/1613362/BIOL.367.Molecular.Biology.course.outline_winter.2018.pdf)
-# Discussion Group info
+## Discussion Group info
 Check your discussion subgroup details [here](https://github.com/kachroolab/kachroolab/files/1616770/Discussion.Group.details.xlsx)
-# 8th Jan 2018
+## 8th Jan 2018
 [Lecture 1](https://github.com/kachroolab/kachroolab/files/1612233/Lecture.01.pdf)
 
 General Reading (not necessary for the exams).
@@ -19,13 +19,13 @@ General Reading (not necessary for the exams).
 [Reading material 2-WatsonCrick](https://github.com/kachroolab/kachroolab/files/1612072/WatsonCrick.1953.pdf)
 
 [Reading material 3-Chargaff](https://github.com/kachroolab/kachroolab/files/1612189/Chargaff.1950.pdf)
-# 10th Jan 2018
+## 10th Jan 2018
 [Lecture 2](https://github.com/kachroolab/kachroolab/files/1616893/Lecture.02.pdf)
 
 General Reading (not necessary for the exams).
 
 [Arsenic bacterium](https://github.com/kachroolab/kachroolab/files/1616901/Arsenic.Bacterium.pdf)
-## Homework Assignment and Discussion #1
+# Homework Assignment and Discussion #1
 [Homework Assignmnet #1](https://github.com/kachroolab/kachroolab/files/1616978/Homework.Assignment.1.pdf)
 
 ## Books
