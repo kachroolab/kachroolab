@@ -27,6 +27,7 @@ General Reading (not necessary for the exams).
 [Arsenic bacterium](https://github.com/kachroolab/kachroolab/files/1616901/Arsenic.Bacterium.pdf)
 # Homework Assignment and Discussion #1
 [Homework Assignmnet #1](https://github.com/kachroolab/kachroolab/files/1616978/Homework.Assignment.1.pdf)
+Homework Assignment reading material [Link 1](http://www.sciencemag.org/news/2014/05/designer-microbes-expand-lifes-genetic-alphabet), [Link 2](https://github.com/kachroolab/kachroolab/files/1616990/New.letters.for.life.s.alphabet.pdf), [Link 3](https://www.theatlantic.com/national/archive/2014/05/dna-letters-discovery-expands-genetic-alphabet/361892/)
 
 ## Books
 
