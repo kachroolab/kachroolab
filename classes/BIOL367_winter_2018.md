@@ -21,6 +21,11 @@ General Reading (not necessary for the exams).
 [Reading material 3-Chargaff](https://github.com/kachroolab/kachroolab/files/1612189/Chargaff.1950.pdf)
 ## 10th Jan 2018
 [Lecture 2](https://github.com/kachroolab/kachroolab/files/1616893/Lecture.02.pdf)
+
+General Reading (not necessary for the exams).
+
+[Arsenic bacterium](https://github.com/kachroolab/kachroolab/files/1616901/Arsenic.Bacterium.pdf)
+
 ## Books
 
 Book 1: [The Eighth Day of Creation: Makers of the Revolution in Biology](https://www.amazon.com/Eighth-Day-Creation-Revolution-Commemorative/dp/0879694785)
