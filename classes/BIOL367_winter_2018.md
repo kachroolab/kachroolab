@@ -21,7 +21,9 @@ General Reading (not necessary for the exams).
 [Reading material 3-Chargaff](https://github.com/kachroolab/kachroolab/files/1612189/Chargaff.1950.pdf)
 ## 10th Jan 2018
 [Lecture 2](https://github.com/kachroolab/kachroolab/files/1619371/Lecture.02.pdf)
+
 [DNA video MITxbio](https://youtu.be/o_-6JXLYS-k)
+
 General Reading (not necessary for the exams).
 
 [Arsenic bacterium](https://github.com/kachroolab/kachroolab/files/1616901/Arsenic.Bacterium.pdf)
