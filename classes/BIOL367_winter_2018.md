@@ -10,7 +10,7 @@ This is the home page for class BIOL 367, Molecular Biology.
 ## Office hours
 Each week Friday 3pm - 4pm in GE 110.01 seminar room at Concordia Loyola campus. Note that my office hours will be meetings as a 'group'. If you prefer to talk to me one-one about a grade or any personal issues concerning the course, just email me and we can schedule a date for the meeting.
 ## Discussion Group info
-Check your discussion subgroup details at moodle. Message will be sent with updated group list.
+Check your discussion subgroup details at moodle.
 ## 8th Jan 2018
 [Lecture 1](https://github.com/kachroolab/kachroolab/files/1612233/Lecture.01.pdf)
 
@@ -36,8 +36,8 @@ Homework Assignment reading material [Link 1](http://www.sciencemag.org/news/201
 [Lecture 3] DNA properties and Replication Pt. 1
 ## Books
 
-Book 1: [The Eighth Day of Creation: Makers of the Revolution in Biology](https://www.amazon.com/Eighth-Day-Creation-Revolution-Commemorative/dp/0879694785)
+Book 1: [The Eighth Day of Creation: Makers of the Revolution in Biology](https://www.amazon.com/Eighth-Day-Creation-Revolution-Commemorative/dp/0879694785) for historical perspective.
 
-Book 2: [Molecular Biology by Robert F. Weaver](https://www.amazon.com/Molecular-Biology-WCB-Cell/dp/0073525324)
+Book 2: [Molecular Biology by Robert F. Weaver](https://www.amazon.com/Molecular-Biology-WCB-Cell/dp/0073525324) is an official textbook for the class.
 
-Book 3: [Molecular Biology of the Gene](https://www.amazon.com/Molecular-Biology-Gene-James-Watson-ebook/dp/B00C1826MY/ref=mt_kindle?_encoding=UTF8&me=)
+Book 3: [Molecular Biology of the Gene](https://www.amazon.com/Molecular-Biology-Gene-James-Watson-ebook/dp/B00C1826MY/ref=mt_kindle?_encoding=UTF8&me=) alternate text book.
