@@ -32,7 +32,8 @@ General Reading (not necessary for the exams).
 # Homework Assignment and Discussion #1
 [Homework Assignmnet #1](https://github.com/kachroolab/kachroolab/files/1616978/Homework.Assignment.1.pdf)
 Homework Assignment reading material [Link 1](http://www.sciencemag.org/news/2014/05/designer-microbes-expand-lifes-genetic-alphabet), [Link 2](https://github.com/kachroolab/kachroolab/files/1616990/New.letters.for.life.s.alphabet.pdf), [Link 3](https://www.theatlantic.com/national/archive/2014/05/dna-letters-discovery-expands-genetic-alphabet/361892/), [Link 4](https://www.quantamagazine.org/is-a-bigger-genetic-code-better-get-ready-to-find-out-20180102/?utm_content=buffer95f6b&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
-
+## 15th Jan 2018
+[Lecture 3] DNA properties and Replication Pt. 1
 ## Books
 
 Book 1: [The Eighth Day of Creation: Makers of the Revolution in Biology](https://www.amazon.com/Eighth-Day-Creation-Revolution-Commemorative/dp/0879694785)
