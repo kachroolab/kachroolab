@@ -11,6 +11,8 @@ This is the home page for class BIOL 367, Molecular Biology.
 Each week Friday 3pm - 4pm in GE 110.01 seminar room at Concordia Loyola campus. Note that my office hours will be meetings as a 'group'. If you prefer to talk to me one-one about a grade or any personal issues concerning the course, just email me and we can schedule a date for the meeting.
 ## Discussion Group info
 Check your discussion subgroup details at moodle.
+## EXAM DATES
+Here is a list of quiz and exam dates. [BIOL367 Quiz & Exam dates](https://github.com/kachroolab/kachroolab/files/1627280/BIOL367.Quiz.Exam.dates.pdf)
 ## 8th Jan 2018
 [Lecture 1](https://github.com/kachroolab/kachroolab/files/1612233/Lecture.01.pdf)
 
