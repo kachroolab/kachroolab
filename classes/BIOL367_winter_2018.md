@@ -46,6 +46,8 @@ Homework Assignment reading material [Link 1](http://www.sciencemag.org/news/201
 
 [Reading material DNA sequencing](https://github.com/kachroolab/kachroolab/files/1639518/DNA.seq.at.40.pdf)
 
+[DNA learning center 3D animations](https://www.dnalc.org/resources/3d/)
+
 ## Books
 
 Book 1: [The Eighth Day of Creation: Makers of the Revolution in Biology](https://www.amazon.com/Eighth-Day-Creation-Revolution-Commemorative/dp/0879694785) for historical perspective.
