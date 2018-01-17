@@ -39,6 +39,9 @@ Homework Assignment reading material [Link 1](http://www.sciencemag.org/news/201
 
 [Reading material Arthur Kornberg's famous papers](https://profiles.nlm.nih.gov/ps/retrieve/Narrative/WH/p-nid/208)
 
+## 17th Jan 2018
+[Lecture 4](https://github.com/kachroolab/kachroolab/files/1639502/Lecture.04.pdf)
+
 ## Books
 
 Book 1: [The Eighth Day of Creation: Makers of the Revolution in Biology](https://www.amazon.com/Eighth-Day-Creation-Revolution-Commemorative/dp/0879694785) for historical perspective.
