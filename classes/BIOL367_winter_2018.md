@@ -42,6 +42,10 @@ Homework Assignment reading material [Link 1](http://www.sciencemag.org/news/201
 ## 17th Jan 2018
 [Lecture 4](https://github.com/kachroolab/kachroolab/files/1639502/Lecture.04.pdf)
 
+[Reading material PCR](https://www.dnalc.org/resources/spotlight/index.html)
+
+[Reading material DNA sequencing](https://github.com/kachroolab/kachroolab/files/1639518/DNA.seq.at.40.pdf)
+
 ## Books
 
 Book 1: [The Eighth Day of Creation: Makers of the Revolution in Biology](https://www.amazon.com/Eighth-Day-Creation-Revolution-Commemorative/dp/0879694785) for historical perspective.
