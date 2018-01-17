@@ -46,6 +46,7 @@ Homework Assignment reading material [Link 1](http://www.sciencemag.org/news/201
 
 [Reading material DNA sequencing](https://github.com/kachroolab/kachroolab/files/1639518/DNA.seq.at.40.pdf)
 
+For videos go to DNA Learning Center 3D animations.
 
 ## Books
 
