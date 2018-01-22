@@ -51,6 +51,8 @@ For videos go to DNA Learning Center 3D animations.
 ## 22nd Jan 2018
 [Lecture 5](https://github.com/kachroolab/kachroolab/files/1652464/Lecture.05.pdf) DNA replication, repair and recombination (chapter 7)
 
+Homework assignmnet #1 due today.
+
 ## Books
 
 Book 1: [The Eighth Day of Creation: Makers of the Revolution in Biology](https://www.amazon.com/Eighth-Day-Creation-Revolution-Commemorative/dp/0879694785) for historical perspective.
