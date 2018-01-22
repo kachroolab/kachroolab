@@ -48,6 +48,9 @@ Homework Assignment reading material [Link 1](http://www.sciencemag.org/news/201
 
 For videos go to DNA Learning Center 3D animations.
 
+## 22nd Jan 2018
+[Lecture 5]() DNA replication, repair and recombination (chapter 7)
+
 ## Books
 
 Book 1: [The Eighth Day of Creation: Makers of the Revolution in Biology](https://www.amazon.com/Eighth-Day-Creation-Revolution-Commemorative/dp/0879694785) for historical perspective.
