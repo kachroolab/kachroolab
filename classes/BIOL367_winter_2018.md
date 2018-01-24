@@ -49,9 +49,14 @@ Homework Assignment reading material [Link 1](http://www.sciencemag.org/news/201
 For videos go to DNA Learning Center 3D animations.
 
 ## 22nd Jan 2018
-[Lecture 5](https://github.com/kachroolab/kachroolab/files/1652581/Lecture.05.pdf). DNA replication, repair and recombination (chapter 7)
+[Lecture 5](https://github.com/kachroolab/kachroolab/files/1652581/Lecture.05.pdf). DNA replication, repair and recombination (chapter 20)
 
 Homework assignmnet #1 due today.
+
+## 24th Jan 2018
+[Lecture 6](https://github.com/kachroolab/kachroolab/files/1660214/Lecture.06.pdf). DNA replication, repair and recombination RECAP (chapter 20)
+
+QUIZ #1 today after the lecture at HB130 (12:20p - 12:55p)
 
 ## Books
 
