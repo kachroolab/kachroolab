@@ -64,7 +64,8 @@ QUIZ #1 today after the lecture at HB130 (12:20p - 12:55p)
 # Homework Assignment and Discussion #2
 [Homework Assignmnet #2](https://github.com/kachroolab/kachroolab/files/1673976/Homework.Assignment.2.pdf).
 
-Check this video at Youtube for the basic understanding of CRISPR (https://www.youtube.com/watch?v=6SL2eEUvycI).
+Check this video at Youtube for the basic understanding of CRISPR
+(https://www.youtube.com/watch?v=6SL2eEUvycI).
 
 ## Books
 
