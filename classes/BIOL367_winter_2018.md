@@ -37,7 +37,7 @@ Homework Assignment reading material [Link 1](http://www.sciencemag.org/news/201
 ## 15th Jan 2018
 [Lecture 3](https://github.com/kachroolab/kachroolab/files/1632180/Lecture.03.pdf) DNA properties and Replication Pt. 1 (Chapter 2.4 and 20)
 
-[Reading material Arthur Kornberg's famous papers](https://profiles.nlm.nih.gov/ps/retrieve/Narrative/WH/p-nid/208)
+[Reading material Arthur Kornberg's famous papers](https://profiles.nlm.nih.gov/ps/retrieve/Narrative/WH/p-nid/208). Read the main paper only for exams.
 
 ## 17th Jan 2018
 [Lecture 4](https://github.com/kachroolab/kachroolab/files/1639502/Lecture.04.pdf)
@@ -59,7 +59,7 @@ Homework assignmnet #1 due today.
 QUIZ #1 today after the lecture at HB130 (12:20p - 12:55p)
 
 ## 29th Jan 2018
-[Lecture 7](https://github.com/kachroolab/kachroolab/files/1674042/Lecture.07.pdf). More on Replication & Recombinant DNA technology (chapter ?)
+[Lecture 7](https://github.com/kachroolab/kachroolab/files/1674042/Lecture.07.pdf). More on Replication & Recombinant DNA technology (chapter 4, 20)
 
 # Homework Assignment and Discussion #2
 [Homework Assignmnet #2](https://github.com/kachroolab/kachroolab/files/1673976/Homework.Assignment.2.pdf).
