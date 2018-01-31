@@ -70,7 +70,7 @@ Check this video at Youtube for the basic understanding of CRISPR.
 
 ## 31st Jan 2018
 
-First Mid-term exam today starting at 11:55a to 12:55p at HB130. Books and notes are allowed however, no tablets, PCs, phones or any other use of internet is not allowed.
+First Mid-term exam today starting at 11:55a to 12:55p at HB130. Books and notes are allowed. However, tablets, PCs, phones or any other use of internet is not allowed.
 
 ## Books
 
