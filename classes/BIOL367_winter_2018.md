@@ -73,8 +73,10 @@ Check this video at Youtube for the basic understanding of CRISPR.
 First Mid-term exam today starting at 11:55a to 12:55p at HB130. Books and notes are allowed. However, tablets, PCs, phones or any other use of internet is not allowed.
 
 ## 5th Feb 2018
-[Lecture 8](https://github.com/kachroolab/kachroolab/files/1695618/Lecture.08.pdf). Recombinant DNA technology & Transcription (chapter 6, 7 & 10)
+[Lecture 8](https://github.com/kachroolab/kachroolab/files/1703492/Lecture.08.pdf). Recombinant DNA technology & Transcription (chapter 6, 7 & 10)
 
+## 7th Feb 2018
+[Lecture 9](https://github.com/kachroolab/kachroolab/files/1703495/Lecture.09.pdf). Prokaryotic Transcription Regulation (chapter 6 & 7)
 ## Books
 
 Book 1: [The Eighth Day of Creation: Makers of the Revolution in Biology](https://www.amazon.com/Eighth-Day-Creation-Revolution-Commemorative/dp/0879694785) for historical perspective.
