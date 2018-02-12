@@ -81,6 +81,18 @@ First Mid-term exam today starting at 11:55a to 12:55p at HB130. Books and notes
 [Reading Material 1](https://www.ncbi.nlm.nih.gov/books/NBK21683/)
 
 [Reading Material 2](https://www.ncbi.nlm.nih.gov/books/NBK21954/)
+
+## 12th Feb 2018
+# Homework Assignment 2 due today at 11:45am at HB130
+
+[Lecture 10](https://github.com/kachroolab/kachroolab/files/1716794/Lecture.10.pdf). Prokaryotic Transcriptional Regulation II (chapter 6 & 7)
+
+[Reading Material 1]()
+
+[Reading Material 2]()
+
+[Reading Material 3]()
+
 ## Books
 
 Book 1: [The Eighth Day of Creation: Makers of the Revolution in Biology](https://www.amazon.com/Eighth-Day-Creation-Revolution-Commemorative/dp/0879694785) for historical perspective.
