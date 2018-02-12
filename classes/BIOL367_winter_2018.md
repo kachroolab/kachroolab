@@ -87,11 +87,11 @@ First Mid-term exam today starting at 11:55a to 12:55p at HB130. Books and notes
 
 [Lecture 10](https://github.com/kachroolab/kachroolab/files/1716794/Lecture.10.pdf). Prokaryotic Transcriptional Regulation II (chapter 6 & 7)
 
-[Reading Material 1]()
+[Reading Material 1](https://github.com/kachroolab/kachroolab/files/1716801/Lac.repressor.1966.PNAS.pdf) Lac repressor.
 
-[Reading Material 2]()
+[Reading Material 2](https://github.com/kachroolab/kachroolab/files/1716802/Lamda.repressor.Ptashne.nature.1967.pdf) Lambda repressor.
 
-[Reading Material 3]()
+[Reading Material 3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3104267/) A tale of two repressors.
 
 ## Books
 
