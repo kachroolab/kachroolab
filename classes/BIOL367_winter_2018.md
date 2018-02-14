@@ -6,7 +6,8 @@ date:   2018
 This is the home page for class BIOL 367, Molecular Biology.
 
 ## Syllabus
-[Syllabus_BIOL367_Winter2018-UPDATED 25JAN2018](https://github.com/kachroolab/kachroolab/files/1665557/BIOL.367.Molecular.Biology.course.outline_winter.2018_25JAN2018.pdf). Check the updated turorial section with schedules for RECAP and reduced discussion times for homework assignments. We will now do more probelms and analytical questions in the tutorial section. Karamat will take those lectures. Notice the changes in the Grading as well. The Discussion section grade contribution is now reduced to 5% and the mid-term exam increased to 40% contribution. 
+[Syllabus_BIOL367_Winter2018-UPDATED 14FEB2018](https://github.com/kachroolab/kachroolab/files/1724605/BIOL.367.Molecular.Biology.course.outline_winter.2018_14FEB2018.pdf). Notice the changes in the Grading as well. The Discussion section grade contribution is now reduced to 10% and the mid-term exam increased to 35% contribution.
+
 ## Office hours (Each Friday 3:00p-4:00p in GE110.01)
 Each week Friday 3pm - 4pm in GE 110.01 seminar room at Concordia Loyola campus. Note that my office hours will be meetings as a 'group'. If you prefer to talk to me one-one about a grade or any personal issues concerning the course, just email me and we can schedule a date for the meeting.
 ## Discussion Group info
