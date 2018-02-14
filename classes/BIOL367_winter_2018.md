@@ -93,6 +93,12 @@ First Mid-term exam today starting at 11:55a to 12:55p at HB130. Books and notes
 
 [Reading Material 3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3104267/) A tale of two repressors.
 
+## 14th Feb 2018
+# Quiz#2 today at 12:15am at HB130
+
+Problem set to discuss today instead of the lecture (11:45 - 12:15 am at HB 130).
+
+[Proboem Set BIOL367](https://github.com/kachroolab/kachroolab/files/1724519/Problem.set.Lambda.Repressor.BIOL367.pdf)
 ## Books
 
 Book 1: [The Eighth Day of Creation: Makers of the Revolution in Biology](https://www.amazon.com/Eighth-Day-Creation-Revolution-Commemorative/dp/0879694785) for historical perspective.
