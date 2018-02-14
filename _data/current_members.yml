@@ -2,17 +2,21 @@
   role: Model Organism
   url: "http://www.yeastgenome.org"
   twitter: "yeastgenome"
+
+- name: Schizosaccharomyces pombe
+  role: Model Organism
+  url: "https://www.pombase.org"
+  twitter: "PomBase"
   
 - name: Brittany Greco
   role: Undergraduate-BIOL490
   url: "https://www.linkedin.com/in/brittany-greco-243164133/"
-  twitter: "@brittanygreco18"
+  twitter: "brittanygreco18"
   
 - name: Mudabir Abdullah
   role: Graduate student
   url: 
-  twitter: "@MMudabir"
-  
+  twitter: "MMudabir"
   
 - name: Aashiq H. Kachroo
   role: Principal Investigator
