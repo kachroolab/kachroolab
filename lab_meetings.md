@@ -4,7 +4,7 @@ title:  Lab Meeting Schedule
 permalink: /more/lab_meetings.html
 ---
 
-Kachroo Lab meetings will be on Mondays' 12:30-2:30pm.
+# Kachroo Lab meetings will be on Mondays' 12:30-2:30pm at GE 110.01
 <br><br>
 
 ### Winter & Spring 2018
