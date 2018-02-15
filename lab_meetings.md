@@ -12,6 +12,6 @@ Kachroo Lab meetings will be on Mondays' 12:30-2:30pm.
 |------+---+--------------------+---+----------------------+---+-------|
 | Date      |             |Meeting type        |            |Presenters |                   |Notes      |
 |:----------|----|:------------------|----|:--------------------|---|:------|
-| 19/01/18           ||      Lab progress               || Aashiq Kachroo       ||
+| 19/02/18           ||      Lab progress               || Aashiq Kachroo       ||
 |   ||  || ||
 |   ||  || - ||
