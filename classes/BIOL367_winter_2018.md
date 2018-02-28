@@ -100,6 +100,11 @@ First Mid-term exam today starting at 11:55a to 12:55p at HB130. Books and notes
 Problem set to discuss today instead of the lecture (11:45 - 12:15 am at HB 130).
 
 [Proboem Set BIOL367](https://github.com/kachroolab/kachroolab/files/1724519/Problem.set.Lambda.Repressor.BIOL367.pdf)
+
+## 28th Feb 2018
+
+[Lecture 11](https://github.com/kachroolab/kachroolab/files/1767783/Lecture.11.pdf. Prokarytic and Eukaryotic transcription.
+
 ## Books
 
 Book 1: [The Eighth Day of Creation: Makers of the Revolution in Biology](https://www.amazon.com/Eighth-Day-Creation-Revolution-Commemorative/dp/0879694785) for historical perspective.
