@@ -103,7 +103,7 @@ Problem set to discuss today instead of the lecture (11:45 - 12:15 am at HB 130)
 
 ## 28th Feb 2018
 
-[Lecture 11](https://github.com/kachroolab/kachroolab/files/1767783/Lecture.11.pdf. Prokarytic and Eukaryotic transcription.
+[Lecture 11](https://github.com/kachroolab/kachroolab/files/1767783/Lecture.11.pdf). Prokarytic and Eukaryotic transcription.
 
 ## Books
 
