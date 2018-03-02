@@ -15,3 +15,16 @@ permalink: /more/lab_meetings.html
 | 26/02/18      ||      Lab progress/Lab setup   ||    Aashiq Kachroo      ||
 | 05/03/18           ||      Lab setup/work report/paper         ||     Aashiq/Mudabir/Brittany    ||
 | 12/03/18           ||      Lab setup/work report/paper        ||      Aashiq/Mudabir/Brittany    ||
+
+
+# Kachroo Lab paper discussions will be on Fridays' 11:30-12:30pm at GE 110.01
+<br><br>
+
+### Winter & Spring 2018
+
+|------+---+--------------------+---+----------------------+---+-------|
+| Date      |             |Meeting type        |            |Presenters |                   |Notes      |
+|:----------|----|:------------------|----|:--------------------|---|:------|
+| 26/02/18      ||      Lab progress/Lab setup   ||    Aashiq Kachroo      ||
+| 05/03/18           ||      Lab setup/work report/paper         ||     Aashiq/Mudabir/Brittany    ||
+| 12/03/18           ||      Lab setup/work report/paper        ||      Aashiq/Mudabir/Brittany    ||
