@@ -105,6 +105,10 @@ Problem set to discuss today instead of the lecture (11:45 - 12:15 am at HB 130)
 
 [Lecture 11](https://github.com/kachroolab/kachroolab/files/1767783/Lecture.11.pdf). Prokarytic and Eukaryotic transcription.
 
+## 5th Mar 2018
+
+[Lecture 12](https://github.com/kachroolab/kachroolab/files/1781541/Lecture.12.pdf). Eukaryotic transcription.
+
 ## Books
 
 Book 1: [The Eighth Day of Creation: Makers of the Revolution in Biology](https://www.amazon.com/Eighth-Day-Creation-Revolution-Commemorative/dp/0879694785) for historical perspective.
