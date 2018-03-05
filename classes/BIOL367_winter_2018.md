@@ -107,7 +107,7 @@ Problem set to discuss today instead of the lecture (11:45 - 12:15 am at HB 130)
 
 ## 5th Mar 2018
 
-[Lecture 12](https://github.com/kachroolab/kachroolab/files/1781541/Lecture.12.pdf). Eukaryotic transcription.
+[Lecture 12](https://github.com/kachroolab/kachroolab/files/1781615/Lecture.12.pdf). Eukaryotic transcription.
 
 [Reading Material 1](https://github.com/kachroolab/kachroolab/files/1781562/Transcriptio.Euk1.pdf) Transcription regulation.
 
