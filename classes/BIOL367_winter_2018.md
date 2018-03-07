@@ -116,7 +116,7 @@ Problem set to discuss today instead of the lecture (11:45 - 12:15 am at HB 130)
 ## 7th Mar 2018
 
 # Homework Assignment and Discussion #3
-[Homework Assignmnet #3](https://github.com/kachroolab/kachroolab/files/1789665/Homework.Assignment.3.pdf).
+[Homework Assignmnet #3](https://github.com/kachroolab/kachroolab/files/1789729/Homework.Assignment.3.pdf).
 
 Homework Assignment #3 reading material, [Link 1](https://github.com/kachroolab/kachroolab/files/1789675/iPSC.for.homework.3.pdf), [Link 2](https://github.com/kachroolab/kachroolab/files/1789677/Induced.Stem.cells.Paper.1.pdf).
 
