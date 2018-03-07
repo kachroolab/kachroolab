@@ -120,7 +120,7 @@ Problem set to discuss today instead of the lecture (11:45 - 12:15 am at HB 130)
 
 Homework Assignment #3 reading material, [Link 1](https://github.com/kachroolab/kachroolab/files/1789675/iPSC.for.homework.3.pdf), [Link 2](https://github.com/kachroolab/kachroolab/files/1789677/Induced.Stem.cells.Paper.1.pdf).
 
-[Lecture 13](https://github.com/kachroolab/kachroolab/files/1789661/Lecture.13.pdf). RNA Splicing and Transcription factors.
+[Lecture 13](https://github.com/kachroolab/kachroolab/files/1789880/Lecture.13.pdf). RNA Splicing and Transcription factors.
 
 ## Books
 
