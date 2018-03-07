@@ -113,6 +113,13 @@ Problem set to discuss today instead of the lecture (11:45 - 12:15 am at HB 130)
 
 [Reading Material 2](https://github.com/kachroolab/kachroolab/files/1781563/Transcriptio.Euk2.pdf) Chip-Seq.
 
+## 7th Mar 2018
+
+# Homework Assignment and Discussion #3
+[Homework Assignmnet #3](https://github.com/kachroolab/kachroolab/files/1789665/Homework.Assignment.3.pdf).
+
+[Lecture 13](https://github.com/kachroolab/kachroolab/files/1789661/Lecture.13.pdf). RNA Splicing and Transcription factors.
+
 ## Books
 
 Book 1: [The Eighth Day of Creation: Makers of the Revolution in Biology](https://www.amazon.com/Eighth-Day-Creation-Revolution-Commemorative/dp/0879694785) for historical perspective.
