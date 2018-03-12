@@ -122,7 +122,7 @@ Homework Assignment #3 reading material, [Link 1](https://github.com/kachroolab/
 
 [Lecture 13](https://github.com/kachroolab/kachroolab/files/1789880/Lecture.13.pdf). RNA Splicing and Transcription factors.
 
-## 7th Mar 2018
+## 12th Mar 2018
 
 [Lecture 14](https://github.com/kachroolab/kachroolab/files/1803204/Lecture.14.pdf). RNA Splicing and Transcription reporters.
 
