@@ -122,6 +122,10 @@ Homework Assignment #3 reading material, [Link 1](https://github.com/kachroolab/
 
 [Lecture 13](https://github.com/kachroolab/kachroolab/files/1789880/Lecture.13.pdf). RNA Splicing and Transcription factors.
 
+## 7th Mar 2018
+
+[Lecture 14](https://github.com/kachroolab/kachroolab/files/1803204/Lecture.14.pdf). RNA Splicing and Transcription reporters.
+
 ## Books
 
 Book 1: [The Eighth Day of Creation: Makers of the Revolution in Biology](https://www.amazon.com/Eighth-Day-Creation-Revolution-Commemorative/dp/0879694785) for historical perspective.
