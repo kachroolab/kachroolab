@@ -103,11 +103,11 @@ Problem set to discuss today instead of the lecture (11:45 - 12:15 am at HB 130)
 
 ## 28th Feb 2018
 
-[Lecture 11](https://github.com/kachroolab/kachroolab/files/1767783/Lecture.11.pdf). Prokarytic and Eukaryotic transcription.
+[Lecture 11](https://github.com/kachroolab/kachroolab/files/1767783/Lecture.11.pdf). Prokarytic and Eukaryotic transcription (Chapter 6,7,10, 11).
 
 ## 5th Mar 2018
 
-[Lecture 12](https://github.com/kachroolab/kachroolab/files/1781615/Lecture.12.pdf). Eukaryotic transcription.
+[Lecture 12](https://github.com/kachroolab/kachroolab/files/1781615/Lecture.12.pdf). Eukaryotic transcription (Chapter 10, 11, 13).
 
 [Reading Material 1](https://github.com/kachroolab/kachroolab/files/1781562/Transcriptio.Euk1.pdf) Transcription regulation.
 
@@ -120,15 +120,15 @@ Problem set to discuss today instead of the lecture (11:45 - 12:15 am at HB 130)
 
 Homework Assignment #3 reading material, [Link 1](https://github.com/kachroolab/kachroolab/files/1789675/iPSC.for.homework.3.pdf), [Link 2](https://github.com/kachroolab/kachroolab/files/1789677/Induced.Stem.cells.Paper.1.pdf).
 
-[Lecture 13](https://github.com/kachroolab/kachroolab/files/1789880/Lecture.13.pdf). RNA Splicing and Transcription factors.
+[Lecture 13](https://github.com/kachroolab/kachroolab/files/1789880/Lecture.13.pdf). RNA Splicing and Transcription factors (Chapter 14, 11).
 
 ## 12th Mar 2018
 
-[Lecture 14](https://github.com/kachroolab/kachroolab/files/1803204/Lecture.14.pdf). RNA Splicing and Transcription reporters.
+[Lecture 14](https://github.com/kachroolab/kachroolab/files/1803204/Lecture.14.pdf). RNA Splicing and Transcription reporters (Chapter 14, 12).
 
 ## 14th Mar 2018
 
-[Lecture 15](https://github.com/kachroolab/kachroolab/files/1811578/Lecture.15.pdf). RNA editing and RNA interference.
+[Lecture 15](https://github.com/kachroolab/kachroolab/files/1811578/Lecture.15.pdf). RNA editing and RNA interference (Chapter 16).
 
 Reading material for Lecture 15. [Link 1 - RNA editing 1](https://github.com/kachroolab/kachroolab/files/1811386/RNA.editing.1.pdf), [Link 2 - RNA editing 2](https://github.com/kachroolab/kachroolab/files/1811389/RNA.editing.2.pdf), [Link 3 - RNA editing 3](https://github.com/kachroolab/kachroolab/files/1811390/RNA.editing.3.pdf), [Link 4 - RNAi 1](https://github.com/kachroolab/kachroolab/files/1811395/RNAi.1.pdf), [Link 5 - RNAi 2](https://github.com/kachroolab/kachroolab/files/1811397/RNAi.2.pdf), [Link 6 - RNAi Nobel](https://github.com/kachroolab/kachroolab/files/1811400/RNAi.3.Nobel.prize.pdf), [Link 7 - Other regulatory RNAs](https://github.com/kachroolab/kachroolab/files/1811401/RNA.other.regulatory.RNAs.pdf), [Link 8 - The human genome](https://github.com/kachroolab/kachroolab/files/1811565/Human.genome.Nat.Rev.genetics.pdf).
 
