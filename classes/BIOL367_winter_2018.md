@@ -132,6 +132,9 @@ Homework Assignment #3 reading material, [Link 1](https://github.com/kachroolab/
 
 Reading material for Lecture 15. [Link 1 - RNA editing 1](https://github.com/kachroolab/kachroolab/files/1811386/RNA.editing.1.pdf), [Link 2 - RNA editing 2](https://github.com/kachroolab/kachroolab/files/1811389/RNA.editing.2.pdf), [Link 3 - RNA editing 3](https://github.com/kachroolab/kachroolab/files/1811390/RNA.editing.3.pdf), [Link 4 - RNAi 1](https://github.com/kachroolab/kachroolab/files/1811395/RNAi.1.pdf), [Link 5 - RNAi 2](https://github.com/kachroolab/kachroolab/files/1811397/RNAi.2.pdf), [Link 6 - RNAi Nobel](https://github.com/kachroolab/kachroolab/files/1811400/RNAi.3.Nobel.prize.pdf), [Link 7 - Other regulatory RNAs](https://github.com/kachroolab/kachroolab/files/1811401/RNA.other.regulatory.RNAs.pdf), [Link 8 - The human genome](https://github.com/kachroolab/kachroolab/files/1811565/Human.genome.Nat.Rev.genetics.pdf).
 
+## 19th Mar 2018
+# Quiz#3 today at 11:55 am at HB130
+
 ## Books
 
 Book 1: [The Eighth Day of Creation: Makers of the Revolution in Biology](https://www.amazon.com/Eighth-Day-Creation-Revolution-Commemorative/dp/0879694785) for historical perspective.
