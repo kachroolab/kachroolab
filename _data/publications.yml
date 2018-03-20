@@ -1,18 +1,25 @@
-- author: A. H. Kachroo*, J. M. Laurent*, A. Akhmetov, M. Szilagyi-Jones, C. D. McWhite, A. Zhao, E. M. Marcotte
+- author: A. Akhmetov, J. M. Laurent, J. Gollihar, E. C. Gardner, R. K. Garge, A. D. Ellington, A. H. Kachroo*, E. M. Marcotte*
+  year: 2018
+  title: Single-step Precision Genome Editing in Yeast Using CRISPR-Cas9.
+  ref: "Bio-protocol"
+  doi: 10.21769/BioProtoc.2765
+  pmcid:  
+
+- author: A. H. Kachroo*, J. M. Laurent, A. Akhmetov, M. Szilagyi-Jones, C. D. McWhite, A. Zhao, E. M. Marcotte*
   year: 2017
   title: Systematic bacterialization of yeast genes identifies a near-universally swappable pathway.
   ref: "eLife"
   doi: 10.7554/eLife.25093
   pmcid: PMC5536947 
   
-- author: J. M. Laurent, J. H. Young, A. H. Kachroo, E. M. Marcotte
+- author: J. M. Laurent, J. H. Young, A. H. Kachroo, E. M. Marcotte*
   year: 2016
   title: Efforts to make and apply humanized yeast.
   ref: "Brief Funct. Genomics 348:921–925"
   doi: 10.1093/bfgp/elv041
   pmcid: PMC4803062
   
-- author: A. H. Kachroo, J. M. Laurent, C. M. Yellman, A. G. Meyer, C. O. Wilke, E. M. Marcotte
+- author: A. H. Kachroo, J. M. Laurent, C. M. Yellman, A. G. Meyer, C. O. Wilke, E. M. Marcotte*
   year: 2015
   title: Systematic humanization of yeast genes reveals conserved functions and genetic modularity.
   ref: "Science 348:921–925"
