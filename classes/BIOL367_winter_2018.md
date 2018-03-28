@@ -145,6 +145,9 @@ Reading material for Lecture 15. [Link 1 - RNA editing 1](https://github.com/kac
 
 # Homework Assignment #3 due today at 11:45am
 
+## 28th Mar 2018
+[Lecture 18](https://github.com/kachroolab/kachroolab/files/1856569/Lecture.18.pdf). Translation (Chapter 17, 18, 19).
+
 ## Books
 
 Book 1: [The Eighth Day of Creation: Makers of the Revolution in Biology](https://www.amazon.com/Eighth-Day-Creation-Revolution-Commemorative/dp/0879694785) for historical perspective.
