@@ -148,6 +148,8 @@ Reading material for Lecture 15. [Link 1 - RNA editing 1](https://github.com/kac
 ## 28th Mar 2018
 [Lecture 18](https://github.com/kachroolab/kachroolab/files/1856569/Lecture.18.pdf). Translation (Chapter 17, 18, 19).
 
+[Grading BIOL 367_For upload_April9th 2018.pdf](https://github.com/kachroolab/kachroolab/files/1890581/Grading.BIOL.367_For.upload_April9th.2018.pdf)
+
 ## 9th April 2018
 RECAP & discuss grades.
 
