@@ -153,6 +153,9 @@ Reading material for Lecture 15. [Link 1 - RNA editing 1](https://github.com/kac
 ## 9th April 2018
 RECAP & discuss grades.
 
+## 11th April 2018
+[RECAP Lecture 1-3.pdf](https://github.com/kachroolab/kachroolab/files/1899074/RECAP.Lecture.1-3.pdf).
+
 ## Books
 
 Book 1: [The Eighth Day of Creation: Makers of the Revolution in Biology](https://www.amazon.com/Eighth-Day-Creation-Revolution-Commemorative/dp/0879694785) for historical perspective.
