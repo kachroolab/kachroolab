@@ -7,7 +7,7 @@ permalink: /more/lab_meetings.html
 # Kachroo Lab meetings will be on Mondays' 1:30p-4p at GE 110.01
 <br><br>
 
-### Winter & Spring 2018
+### Spring & Summer 2018
 
 |------+---+--------------------+---+----------------------+---+-------|
 | Date      |             |Meeting type        |            |Presenters |                   |Notes      |
