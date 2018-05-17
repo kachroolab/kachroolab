@@ -12,5 +12,5 @@ permalink: /more/lab_meetings.html
 |------+---+--------------------+---+----------------------+---+-------|
 | Date      |             |Meeting type        |            |Presenters |                   |Notes      |
 |:----------|----|:------------------|----|:--------------------|---|:------|
-| 21/05/18      ||      Lab progress   ||    Aashiq Kachroo      || Lab related discussion followed by paper/work presentations alternating every two weeks. Detailed schedule to follow.
+| 21/05/18      ||      Lab progress   ||    TBA      || Lab related discussion followed by paper/work presentations alternating every two weeks. Detailed schedule to follow.
 
