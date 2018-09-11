@@ -24,3 +24,13 @@ Each week Monday 1:30pm - 2:30pm in GE 110.01 at Concordia Loyola campus. Note t
 
 ## September 10, 2018
 [Lecture 2](https://github.com/kachroolab/kachroolab/files/2364804/Lecture.02_fall.pdf)
+
+## September 12, 2018
+[Lecture 3](https://github.com/kachroolab/kachroolab/files/2373011/Lecture.03_fall.pdf)
+
+[Reading material 1 - Central dogma](https://github.com/kachroolab/kachroolab/files/2373012/The.central.dogma_Crick.pdf)
+
+[Reading material 2 - Expanded genetic code](https://github.com/kachroolab/kachroolab/files/2373013/New.letters.for.life.s.alphabet.pdf)
+
+
+
