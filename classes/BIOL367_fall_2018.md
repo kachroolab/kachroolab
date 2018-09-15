@@ -32,5 +32,13 @@ Each week Monday 1:30pm - 2:30pm in GE 110.01 at Concordia Loyola campus. Note t
 
 [Reading material 2 - Expanded genetic code](https://github.com/kachroolab/kachroolab/files/2373013/New.letters.for.life.s.alphabet.pdf)
 
+## September 17, 2018
+[Lecture 4](https://github.com/kachroolab/kachroolab/files/2386000/Lecture.04_fall.pdf)
+
+[DNA video MITxbio](https://youtu.be/o_-6JXLYS-k)
+
+[Reading material 1 - Arthur Kornberg's famous papers](https://profiles.nlm.nih.gov/ps/retrieve/Narrative/WH/p-nid/208). 
+
+
 
 
