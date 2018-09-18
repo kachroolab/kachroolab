@@ -39,6 +39,13 @@ Each week Monday 1:30pm - 2:30pm in GE 110.01 at Concordia Loyola campus. Note t
 
 [Reading material 1 - Arthur Kornberg's famous papers](https://profiles.nlm.nih.gov/ps/retrieve/Narrative/WH/p-nid/208). 
 
+## September 19, 2018
+[Lecture 5](https://github.com/kachroolab/kachroolab/files/2394673/Lecture.05_fall_reducedsize.pdf)
+
+[Reading material DNA sequencing](https://github.com/kachroolab/kachroolab/files/1639518/DNA.seq.at.40.pdf)
+
+For videos go to DNA Learning Center 3D animations.
+
 
 
 
