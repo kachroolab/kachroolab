@@ -47,7 +47,7 @@ Each week Monday 1:30pm - 2:30pm in GE 110.01 at Concordia Loyola campus. Note t
 For videos go to DNA Learning Center 3D animations.
 
 ## September 24, 2018
-[Lecture 6](https://github.com/kachroolab/kachroolab/files/2408187/Lecture.06_fall.pdf)
+[Lecture 6](https://github.com/kachroolab/kachroolab/files/2408191/Lecture.06_fall.pdf)
 
 [Reading material DNA sequencing 1](https://github.com/kachroolab/kachroolab/files/1639518/DNA.seq.at.40.pdf)
 
