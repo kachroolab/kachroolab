@@ -59,10 +59,15 @@ For videos go to DNA Learning Center 3D animations.
 [Lecture 7](https://github.com/kachroolab/kachroolab/files/2416370/Lecture.07_fall.pdf)
 
 QUIZ#1 [Covering Lectures 1-6] on TOP HAT, Follow these guidelines:
+
 [How to prep 1](https://github.com/kachroolab/kachroolab/files/2416371/TopHat.1.pdf)
+
 [How to prep 2](https://github.com/kachroolab/kachroolab/files/2416372/TopHat.2.pdf)
+
 [TopHat tips and tricks](https://github.com/kachroolab/kachroolab/files/2416373/TopHat.3.pdf)
+
 [TopHat test best practices](https://github.com/kachroolab/kachroolab/files/2416374/TopHat.4.pdf)
+
 [TopHat test FAQs](https://github.com/kachroolab/kachroolab/files/2416375/TopHat.5.pdf)
 
 
