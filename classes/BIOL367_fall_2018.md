@@ -70,8 +70,12 @@ QUIZ#1 [Covering Lectures 1-6] on TOP HAT, Follow these guidelines:
 
 [TopHat test FAQs](https://github.com/kachroolab/kachroolab/files/2416375/TopHat.5.pdf)
 
+## September 30, 2018
+[Lecture 8](https://github.com/kachroolab/kachroolab/files/2430657/Lecture.08_fall.pdf)
 
+Check this video at Youtube for the basic understanding of CRISPR (https://www.youtube.com/watch?v=6SL2eEUvycI).
 
+[Reading material DNA Repair 1](https://github.com/kachroolab/kachroolab/files/2430653/DNA.repair.1.pdf) 
 
 
 
