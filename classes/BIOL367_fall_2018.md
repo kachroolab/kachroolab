@@ -77,6 +77,7 @@ Check this video at Youtube for the basic understanding of CRISPR (https://www.y
 
 [Reading material DNA Repair 1](https://github.com/kachroolab/kachroolab/files/2430653/DNA.repair.1.pdf) 
 
+## October 3, 2018
 
-
-
+# Mid-term Exam #1 
+The exam starts at 10:20a and ends at 11:20p at HB130. Books, notes and calculators are allowed. However, tablets, PCs, phones or any other use of internet is not allowed.
