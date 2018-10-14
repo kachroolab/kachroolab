@@ -81,7 +81,7 @@ QUIZ#1 [Covering Lectures 1-6] on TOP HAT, Follow these guidelines:
 The exam starts at 10:20a and ends at 11:20p at HB130. Books, notes and calculators are allowed. However, tablets, PCs, phones or any other use of internet is not allowed.
 
 ## October 15, 2018
-[Lecture 9](https://github.com/kachroolab/kachroolab/files/2476632/Lecture.09_fall.pdf))
+[Lecture 9](https://github.com/kachroolab/kachroolab/files/2476632/Lecture.09_fall.pdf)
 
 Check this video at Youtube for the basic understanding of CRISPR (https://www.youtube.com/watch?v=6SL2eEUvycI).
 
