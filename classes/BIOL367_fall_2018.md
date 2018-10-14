@@ -73,11 +73,20 @@ QUIZ#1 [Covering Lectures 1-6] on TOP HAT, Follow these guidelines:
 ## September 30, 2018
 [Lecture 8](https://github.com/kachroolab/kachroolab/files/2431728/Lecture.08_fall.pdf)
 
-Check this video at Youtube for the basic understanding of CRISPR (https://www.youtube.com/watch?v=6SL2eEUvycI).
-
 [Reading material DNA Repair 1](https://github.com/kachroolab/kachroolab/files/2430653/DNA.repair.1.pdf) 
 
 ## October 3, 2018
 
 # Mid-term Exam #1 
 The exam starts at 10:20a and ends at 11:20p at HB130. Books, notes and calculators are allowed. However, tablets, PCs, phones or any other use of internet is not allowed.
+
+## October 15, 2018
+[Lecture 9](https://github.com/kachroolab/kachroolab/files/2476632/Lecture.09_fall.pdf))
+
+Check this video at Youtube for the basic understanding of CRISPR (https://www.youtube.com/watch?v=6SL2eEUvycI).
+
+[Reading material DSBR Repair](https://github.com/kachroolab/kachroolab/files/2476633/DSBR.review.pdf) 
+
+[Reading material Resteriction endocnulcease 1](https://github.com/kachroolab/kachroolab/files/2476634/RE.2.pdf) 
+
+[Reading material Resteriction endocnulcease 2](https://github.com/kachroolab/kachroolab/files/2476635/RE.1.pdf) 
