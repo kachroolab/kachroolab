@@ -87,8 +87,8 @@ Check this video at Youtube for the basic understanding of CRISPR (https://www.y
 
 Other relevant videos focusing on todays lecture can be viewed here (https://www.dnalc.org/resources/animations/).
 
-[Reading material DSBR Repair](https://github.com/kachroolab/kachroolab/files/2476633/DSBR.review.pdf) 
+[Reading material DNA Double Strand Break Repair](https://github.com/kachroolab/kachroolab/files/2476633/DSBR.review.pdf) 
 
-[Reading material Resteriction endocnulcease 1](https://github.com/kachroolab/kachroolab/files/2476634/RE.2.pdf) 
+[Reading material Restriction endocnulcease 1](https://github.com/kachroolab/kachroolab/files/2476634/RE.2.pdf) 
 
-[Reading material Resteriction endocnulcease 2](https://github.com/kachroolab/kachroolab/files/2476635/RE.1.pdf) 
+[Reading material Restriction endocnulcease 2](https://github.com/kachroolab/kachroolab/files/2476635/RE.1.pdf) 
