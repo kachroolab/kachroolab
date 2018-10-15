@@ -83,9 +83,11 @@ The exam starts at 10:20a and ends at 11:20p at HB130. Books, notes and calculat
 ## October 15, 2018
 [Lecture 9](https://github.com/kachroolab/kachroolab/files/2476632/Lecture.09_fall.pdf)
 
-Check this video at Youtube for the basic understanding of CRISPR (https://www.youtube.com/watch?v=6SL2eEUvycI). 
+Check this video at Youtube for the basic understanding of CRISPR 
+(https://www.youtube.com/watch?v=6SL2eEUvycI). 
 
-Other relevant videos focusing on todays lecture can be viewed here (https://www.dnalc.org/resources/animations/).
+Other relevant videos focusing on todays lecture can be viewed here 
+(https://www.dnalc.org/resources/animations/).
 
 [Reading material DNA Double Strand Break Repair](https://github.com/kachroolab/kachroolab/files/2476633/DSBR.review.pdf) 
 
