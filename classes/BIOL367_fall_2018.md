@@ -98,4 +98,15 @@ Videos focusing on todays lecture can be viewed here
 
 [Reading material Restriction endocnulcease 2](https://github.com/kachroolab/kachroolab/files/2476635/RE.1.pdf) 
 
+
+## October 22, 2018
+[Lecture 11](https://github.com/kachroolab/kachroolab/files/2498699/Lecture.11_fall_combined.pdf)
+
+Videos focusing on todays lecture can be viewed here 
+(https://www.dnalc.org/resources/animations/).
+(https://www.youtube.com/watch?v=Ik_Pxht1LM0).
+
+The Scientist-battle for the repressor 
+(https://www.youtube.com/watch?v=kdOgoTl9Fog).
+
 [Reading material Transcription](https://github.com/kachroolab/kachroolab/files/2484228/Transcription.1.pdf) 
