@@ -110,3 +110,12 @@ The Scientist-battle for the repressor
 (https://www.youtube.com/watch?v=kdOgoTl9Fog).
 
 [Reading material Transcription](https://github.com/kachroolab/kachroolab/files/2484228/Transcription.1.pdf) 
+
+## October 24, 2018
+[Lecture 12](https://github.com/kachroolab/kachroolab/files/2506779/Lecture.12_fall.pdf)
+
+The Scientist-battle for the repressor 
+(https://www.youtube.com/watch?v=kdOgoTl9Fog).
+
+[Reading material Transcription](https://github.com/kachroolab/kachroolab/files/2484228/Transcription.1.pdf) 
+
