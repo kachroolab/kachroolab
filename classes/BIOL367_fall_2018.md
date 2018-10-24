@@ -119,3 +119,20 @@ The Scientist-battle for the repressor
 
 [Reading material Transcription](https://github.com/kachroolab/kachroolab/files/2484228/Transcription.1.pdf) 
 
+## October 29, 2018
+[Lecture 13] - To be posted.
+
+QUIZ #2 will cover lectures from the day of QUIZ #1 (September 26 - Lecture 7) to the lecture given on October 24 (i.e. Lecture 12). 
+
+QUIZ #2 will be similar to QUIZ #1 and I will use TOP HAT to admininter the quiz. 
+[Covering Lectures 7-12] on TOP HAT, Follow these guidelines to make sure that your computers or other devices are ready for the quiz.
+
+[How to prep 1](https://github.com/kachroolab/kachroolab/files/2416371/TopHat.1.pdf)
+
+[How to prep 2](https://github.com/kachroolab/kachroolab/files/2416372/TopHat.2.pdf)
+
+[TopHat tips and tricks](https://github.com/kachroolab/kachroolab/files/2416373/TopHat.3.pdf)
+
+[TopHat test best practices](https://github.com/kachroolab/kachroolab/files/2416374/TopHat.4.pdf)
+
+[TopHat test FAQs](https://github.com/kachroolab/kachroolab/files/2416375/TopHat.5.pdf)
