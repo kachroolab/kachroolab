@@ -120,7 +120,7 @@ The Scientist-battle for the repressor
 [Reading material Transcription](https://github.com/kachroolab/kachroolab/files/2484228/Transcription.1.pdf) 
 
 ## October 29, 2018
-[Lecture 13](https://github.com/kachroolab/kachroolab/files/2523090/Lecture.13_fall.pdf)
+[Lecture 13](https://github.com/kachroolab/kachroolab/files/2523248/Lecture.13_fall.pdf)
 
 QUIZ #2 will cover lectures from the day of QUIZ #1 (September 26 - Lecture 7) to the lecture given on October 24 (i.e. Lecture 12). 
 
