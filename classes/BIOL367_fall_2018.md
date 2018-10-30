@@ -136,3 +136,6 @@ QUIZ #2 will be similar to QUIZ #1 and I will use TOP HAT to admininter the quiz
 [TopHat test best practices](https://github.com/kachroolab/kachroolab/files/2416374/TopHat.4.pdf)
 
 [TopHat test FAQs](https://github.com/kachroolab/kachroolab/files/2416375/TopHat.5.pdf)
+
+## October 31, 2018
+[Lecture 14](https://github.com/kachroolab/kachroolab/files/2531668/Lecture.14_upload.pdf)
