@@ -139,3 +139,12 @@ QUIZ #2 will be similar to QUIZ #1 and I will use TOP HAT to admininter the quiz
 
 ## October 31, 2018
 [Lecture 14](https://github.com/kachroolab/kachroolab/files/2531668/Lecture.14_upload.pdf)
+
+[Reading Material 1](https://www.ncbi.nlm.nih.gov/books/NBK21683/)
+
+[Reading Material 2](https://www.ncbi.nlm.nih.gov/books/NBK21954/)
+
+## November 05, 2018
+[Lecture 15](https://github.com/kachroolab/kachroolab/files/2546241/Lecture.15_fall.pdf)
+
+[Reading Material 1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3104267/) A tale of two repressors.
