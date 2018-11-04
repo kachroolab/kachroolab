@@ -145,6 +145,6 @@ QUIZ #2 will be similar to QUIZ #1 and I will use TOP HAT to admininter the quiz
 [Reading Material 2](https://www.ncbi.nlm.nih.gov/books/NBK21954/)
 
 ## November 05, 2018
-[Lecture 15](https://github.com/kachroolab/kachroolab/files/2546241/Lecture.15_fall.pdf)
+[Lecture 15](https://github.com/kachroolab/kachroolab/files/2546292/Lecture.15_fall.pdf)
 
 [Reading Material 1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3104267/) A tale of two repressors.
