@@ -148,3 +148,11 @@ QUIZ #2 will be similar to QUIZ #1 and I will use TOP HAT to admininter the quiz
 [Lecture 15](https://github.com/kachroolab/kachroolab/files/2546292/Lecture.15_fall.pdf)
 
 [Reading Material 1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3104267/) A tale of two repressors.
+
+## November 07, 2018
+
+# Mid-term Exam #1 
+The exam starts at 10:20a and ends at 11:20p at HB130. Books, notes and calculators are allowed. However, tablets, PCs, phones or any other use of internet is not allowed.
+
+## November 12, 2018
+[Lecture 16](https://github.com/kachroolab/kachroolab/files/2570093/Lecture.16_fall.pdf)
