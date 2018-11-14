@@ -151,10 +151,17 @@ QUIZ #2 will be similar to QUIZ #1 and I will use TOP HAT to admininter the quiz
 
 ## November 07, 2018
 
-# Mid-term Exam #1 
+# Mid-term Exam #2
 The exam starts at 10:20a and ends at 11:20p at HB130. Books, notes and calculators are allowed. However, tablets, PCs, phones or any other use of internet is not allowed.
 
 ## November 12, 2018
 [Lecture 16](https://github.com/kachroolab/kachroolab/files/2572355/Lecture.16_fall.pdf)
 
 [Histone code guide](https://github.com/kachroolab/kachroolab/files/2572344/Histone.code.mofication.guide.pdf)
+
+## November 14, 2018
+[Lecture 17](https://github.com/kachroolab/kachroolab/files/2578692/Lecture.17_fall.pdf). Eukaryotic transcription (Chapter 10, 11, 13).
+
+[Reading Material 1](https://github.com/kachroolab/kachroolab/files/1781562/Transcriptio.Euk1.pdf) Transcription regulation.
+
+[Reading Material 2](https://github.com/kachroolab/kachroolab/files/1781563/Transcriptio.Euk2.pdf) Chip-Seq.
