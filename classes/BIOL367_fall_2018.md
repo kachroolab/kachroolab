@@ -165,3 +165,8 @@ The exam starts at 10:20a and ends at 11:20p at HB130. Books, notes and calculat
 [Reading Material 1](https://github.com/kachroolab/kachroolab/files/1781562/Transcriptio.Euk1.pdf) Transcription regulation.
 
 [Reading Material 2](https://github.com/kachroolab/kachroolab/files/1781563/Transcriptio.Euk2.pdf) Chip-Seq.
+
+## November 19, 2018
+[Lecture 18](https://github.com/kachroolab/kachroolab/files/2593339/Lecture.18_fall.pdf). RNA Splicing and Transcription factors (Chapter 14, 11).
+
+Reading material, [Link 1](https://github.com/kachroolab/kachroolab/files/1789675/iPSC.for.homework.3.pdf), [Link 2](https://github.com/kachroolab/kachroolab/files/1789677/Induced.Stem.cells.Paper.1.pdf).
