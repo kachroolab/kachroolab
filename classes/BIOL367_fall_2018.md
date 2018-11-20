@@ -174,6 +174,9 @@ Reading material, [Link 1](https://github.com/kachroolab/kachroolab/files/178967
 ## November 21, 2018
 [Lecture 19](https://github.com/kachroolab/kachroolab/files/2601451/Lecture.19_fall.pdf)
 
+Reading material for RNAi. [Link 1 - RNAi 1](https://github.com/kachroolab/kachroolab/files/1811395/RNAi.1.pdf), [Link 2 - RNAi 2](https://github.com/kachroolab/kachroolab/files/1811397/RNAi.2.pdf), [Link 3 - RNAi Nobel](https://github.com/kachroolab/kachroolab/files/1811400/RNAi.3.Nobel.prize.pdf)
+
+# QUIZ 3
 QUIZ #3 will cover lectures from the day of QUIZ #2 (October 29 - Lecture 13) to the lecture given on November 19 (i.e. Lecture 18). 
 
 QUIZ #3 will be similar to QUIZ #1 & #2 and I will use TOP HAT to admininter the quiz. 
