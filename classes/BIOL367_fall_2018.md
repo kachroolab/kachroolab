@@ -172,7 +172,7 @@ The exam starts at 10:20a and ends at 11:20p at HB130. Books, notes and calculat
 Reading material, [Link 1](https://github.com/kachroolab/kachroolab/files/1789675/iPSC.for.homework.3.pdf), [Link 2](https://github.com/kachroolab/kachroolab/files/1789677/Induced.Stem.cells.Paper.1.pdf).
 
 ## November 21, 2018
-[Lecture 19](TBA)
+[Lecture 19](https://github.com/kachroolab/kachroolab/files/2601451/Lecture.19_fall.pdf)
 
 QUIZ #3 will cover lectures from the day of QUIZ #2 (October 29 - Lecture 13) to the lecture given on November 19 (i.e. Lecture 18). 
 
