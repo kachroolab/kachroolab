@@ -170,3 +170,22 @@ The exam starts at 10:20a and ends at 11:20p at HB130. Books, notes and calculat
 [Lecture 18](https://github.com/kachroolab/kachroolab/files/2593339/Lecture.18_fall.pdf). RNA Splicing and Transcription factors (Chapter 14, 11).
 
 Reading material, [Link 1](https://github.com/kachroolab/kachroolab/files/1789675/iPSC.for.homework.3.pdf), [Link 2](https://github.com/kachroolab/kachroolab/files/1789677/Induced.Stem.cells.Paper.1.pdf).
+
+## November 21, 2018
+[Lecture 19](TBA)
+
+QUIZ #3 will cover lectures from the day of QUIZ #2 (October 29 - Lecture 13) to the lecture given on November 19 (i.e. Lecture 18). 
+
+QUIZ #3 will be similar to QUIZ #1 & #2 and I will use TOP HAT to admininter the quiz. 
+[Covering Lectures 13-18] on TOP HAT, Follow these guidelines to make sure that your computers or other devices are ready for the quiz.
+
+[How to prep 1](https://github.com/kachroolab/kachroolab/files/2416371/TopHat.1.pdf)
+
+[How to prep 2](https://github.com/kachroolab/kachroolab/files/2416372/TopHat.2.pdf)
+
+[TopHat tips and tricks](https://github.com/kachroolab/kachroolab/files/2416373/TopHat.3.pdf)
+
+[TopHat test best practices](https://github.com/kachroolab/kachroolab/files/2416374/TopHat.4.pdf)
+
+[TopHat test FAQs](https://github.com/kachroolab/kachroolab/files/2416375/TopHat.5.pdf)
+
