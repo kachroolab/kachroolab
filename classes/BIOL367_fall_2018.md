@@ -192,3 +192,7 @@ QUIZ #3 will be similar to QUIZ #1 & #2 and I will use TOP HAT to admininter the
 
 [TopHat test FAQs](https://github.com/kachroolab/kachroolab/files/2416375/TopHat.5.pdf)
 
+## November 26, 2018
+
+[Lecture 20](https://github.com/kachroolab/kachroolab/files/2613638/Lecture.20_fall.pdf) Translation (Chapter 17, 18, 19).
+
