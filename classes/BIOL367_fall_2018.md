@@ -199,3 +199,7 @@ QUIZ #3 will be similar to QUIZ #1 & #2 and I will use TOP HAT to admininter the
 ## November 28, 2018
 
 [Lecture 21](https://github.com/kachroolab/kachroolab/files/2619958/Lecture.21_fall.pdf) Translation (Chapter 17, 18, 19).
+
+
+# Mid-term Exam #3
+The exam starts at 10:20a and ends at 11:20p at HB130. Books, notes and calculators are allowed. However, tablets, PCs, phones or any other use of internet is not allowed. The lectures covered in this exam are Lectures 16-21.
