@@ -196,3 +196,6 @@ QUIZ #3 will be similar to QUIZ #1 & #2 and I will use TOP HAT to admininter the
 
 [Lecture 20](https://github.com/kachroolab/kachroolab/files/2613638/Lecture.20_fall.pdf) Translation (Chapter 17, 18, 19).
 
+## November 28, 2018
+
+[Lecture 21](https://github.com/kachroolab/kachroolab/files/2619958/Lecture.21_fall.pdf) Translation (Chapter 17, 18, 19).
