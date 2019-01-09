@@ -13,7 +13,7 @@ This is the home page for class BIOL 461 - Winter 2019, Advanced Genetics.
 **January 09, 2019**
 [Lecture 1](https://github.com/kachroolab/kachroolab/files/2741609/Lecture.1_BIOL461winter2019.pdf)
 
-### Reading material for Lecture 1.
+##### Reading material for Lecture 1.
 
 [Reading material 1](https://github.com/kachroolab/kachroolab/files/2741610/Tailoring.the.genome.pdf)
 
