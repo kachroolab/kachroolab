@@ -8,7 +8,7 @@ This is the home page for class BIOL 461 - Winter 2019, Advanced Genetics.
 **Syllabus**
 [Course outline - BIOL461 winter, 2019](https://github.com/kachroolab/kachroolab/files/2733945/BIOL461.course.outline.pdf). 
 
-## Office hours (Monday 1:30p-2:30p in GE330.11)
+**_Office hours (Monday 1:30p-2:30p in GE330.11)_**
 
 **January 09, 2019**
 [Lecture 1](https://github.com/kachroolab/kachroolab/files/2741609/Lecture.1_BIOL461winter2019.pdf)
