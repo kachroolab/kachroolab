@@ -39,7 +39,7 @@ This is the home page for class BIOL 461 - Winter 2019, Advanced Genetics.
 
 [Lecture 3](https://github.com/kachroolab/kachroolab/files/2764857/Lecture.3_BIOL461winter2019.pdf)
 
-#### Reading material for Lecture 2.
+#### Reading material for Lecture 3.
 
 [Yeast as a model for genetic analysis](https://github.com/kachroolab/kachroolab/files/2764892/S.cerevisiae.as.a.model.in.Genetics.full.pdf)
 
