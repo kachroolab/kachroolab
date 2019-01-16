@@ -11,6 +11,30 @@ This is the home page for class BIOL 461 - Winter 2019, Advanced Genetics.
 
 **_Office hours (Monday 1:30p-2:30p in GE330.11)_**
 
+### **EXAM & QUIZ DATES**
+Here is a list of quiz and exam dates. 
+
+**Midterm Exam 1 - 8th February, 2019 (Instead of the lecture)**
+
+**QUIZ 1 - 22nd February, 2019 (35 minutes in the begining of the lacture)**
+
+**Midterm Exam 2 - 20th March, 2019 (Instead of the lecture)**
+
+**QUIZ 2 - 5th April, 2019 (35 minutes in the begining of the lacture)**
+
+### **GROUP PRESENTATIONS**
+Here is a list of group presentations dates for a research article. The research article will be provided to you atleast a week before the presentation. Each presentation will cover ~35 minutes of the lecture. 
+
+**Group 1 & Group 2 - 25th January, 2019 (35 minutes each instead of a lecture)** 
+
+**Group 3 & Group 4 - 15th February, 2019 (35 minutes each instead of a lecture)** 
+
+**Group 5 & Group 6 - 15th March, 2019 (35 minutes each instead of a lecture)** 
+
+**Group 7 - 29th March, 2019 (first 35 minutes instead of a lecture)** 
+
+### **LECTURES & READING MATERIAL**
+
 **January 09, 2019**
 
 [Lecture 1](https://github.com/kachroolab/kachroolab/files/2741609/Lecture.1_BIOL461winter2019.pdf)
