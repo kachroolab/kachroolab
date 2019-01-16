@@ -23,7 +23,7 @@ Here is a list of quiz and exam dates.
 **QUIZ 2 - 5th April, 2019 (35 minutes in the begining of the lecture)**
 
 ### **GROUP PRESENTATIONS**
-Here is a list of group presentations dates for a research article. The research article will be provided to you atleast a week before the presentation. Each presentation will cover ~35 minutes of the lecture. 
+Here is a list of group presentations dates for a research article. The research article will be provided to you at least a week before the presentation. Each presentation will cover ~35 minutes of the lecture. 
 
 **Group 1 & Group 2 - 25th January, 2019 (35 minutes each instead of a lecture)** 
 
