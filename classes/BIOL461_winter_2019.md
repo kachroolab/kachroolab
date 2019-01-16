@@ -12,6 +12,7 @@ This is the home page for class BIOL 461 - Winter 2019, Advanced Genetics.
 **_Office hours (Monday 1:30p-2:30p in GE330.11)_**
 
 **January 09, 2019**
+
 [Lecture 1](https://github.com/kachroolab/kachroolab/files/2741609/Lecture.1_BIOL461winter2019.pdf)
 
 #### Reading material for Lecture 1.
@@ -23,6 +24,7 @@ This is the home page for class BIOL 461 - Winter 2019, Advanced Genetics.
 [Reading material 3](https://github.com/kachroolab/kachroolab/files/2741611/Genetics.terminology.pdf)
 
 **January 11, 2019**
+
 [Lecture 2](https://github.com/kachroolab/kachroolab/files/2750063/Lecture.2_BIOL461winter2019.pdf)
 
 #### Reading material for Lecture 2.
@@ -33,3 +35,14 @@ This is the home page for class BIOL 461 - Winter 2019, Advanced Genetics.
 
 [Yeast gene nomenclature.pdf](https://github.com/kachroolab/kachroolab/files/2750068/Yeast.gene.nomenclature.pdf)
 
+**January 16, 2019**
+
+[Lecture 3](https://github.com/kachroolab/kachroolab/files/2764857/Lecture.3_BIOL461winter2019.pdf)
+
+#### Reading material for Lecture 2.
+
+[Yeast as a model for genetic analysis](https://github.com/kachroolab/kachroolab/files/2764892/S.cerevisiae.as.a.model.in.Genetics.full.pdf)
+
+[Beadle-from genes to proteins](https://github.com/kachroolab/kachroolab/files/2764895/Beadle-from.genes.to.proteins.pdf)
+
+[Genetic screens in yeast](https://github.com/kachroolab/kachroolab/files/2764896/Genetic.screens.Yeast.pdf)
