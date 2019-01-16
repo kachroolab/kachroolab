@@ -16,11 +16,11 @@ Here is a list of quiz and exam dates.
 
 **Midterm Exam 1 - 8th February, 2019 (Instead of the lecture)**
 
-**QUIZ 1 - 22nd February, 2019 (35 minutes in the begining of the lacture)**
+**QUIZ 1 - 22nd February, 2019 (35 minutes in the begining of the lecture)**
 
 **Midterm Exam 2 - 20th March, 2019 (Instead of the lecture)**
 
-**QUIZ 2 - 5th April, 2019 (35 minutes in the begining of the lacture)**
+**QUIZ 2 - 5th April, 2019 (35 minutes in the begining of the lecture)**
 
 ### **GROUP PRESENTATIONS**
 Here is a list of group presentations dates for a research article. The research article will be provided to you atleast a week before the presentation. Each presentation will cover ~35 minutes of the lecture. 
