@@ -27,7 +27,7 @@ Here is a list of group presentations dates for a research article. The research
 
 **Group 1 & Group 2 - 25th January, 2019 (35 minutes each instead of a lecture)** 
 
-**Group 3 & Group 4 - 15th February, 2019 (35 minutes each instead of a lecture)** 
+**Group 3 & Group 4 - 13th February, 2019 (35 minutes each instead of a lecture)** 
 
 **Group 5 & Group 6 - 15th March, 2019 (35 minutes each instead of a lecture)** 
 
