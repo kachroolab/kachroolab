@@ -72,3 +72,23 @@ _Those of you who have geniune (Doctor's report required) issues regarding oral 
 [Beadle-from genes to proteins](https://github.com/kachroolab/kachroolab/files/2764895/Beadle-from.genes.to.proteins.pdf)
 
 [Genetic screens in yeast](https://github.com/kachroolab/kachroolab/files/2764896/Genetic.screens.Yeast.pdf)
+
+**January 18, 2019**
+
+[Lecture 4](https://github.com/kachroolab/kachroolab/files/2773645/Lecture.4_BIOL461winter2019.pdf)
+
+#### Reading material for Lecture 4.
+
+[Crick-Nature of Genetic code .pdf](https://github.com/kachroolab/kachroolab/files/2773651/Crick-Nature.of.Genetic.code.pdf)
+
+[Nurse-Genetic control cell division cycle.pdf](https://github.com/kachroolab/kachroolab/files/2773652/Nurse-Genetic.control.cell.division.cycle.pdf)
+
+[Nurse-Genetic control of cell size at cell division.pdf](https://github.com/kachroolab/kachroolab/files/2773653/Nurse-Genetic.control.of.cell.size.at.cell.division.pdf)
+
+[Hartwell cell cycle mutants-genetic analysis.pdf](https://github.com/kachroolab/kachroolab/files/2773654/Hartwell.cell.cycle.mutants-genetic.analysis.pdf)
+
+[Yeast defective chromosome transmission assay.pdf](https://github.com/kachroolab/kachroolab/files/2773655/Yeast.defective.chromosome.transmission.assay.pdf)
+
+[Hartwell cell cycle mutants.pdf](https://github.com/kachroolab/kachroolab/files/2773656/Hartwell.cell.cycle.mutants.pdf)
+
+[Cell cycle control_Nurse.pdf](https://github.com/kachroolab/kachroolab/files/2773658/Cell.cycle.control_Nurse.pdf)
