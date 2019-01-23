@@ -92,3 +92,32 @@ _Those of you who have geniune (Doctor's report required) issues regarding oral 
 [Hartwell cell cycle mutants.pdf](https://github.com/kachroolab/kachroolab/files/2773656/Hartwell.cell.cycle.mutants.pdf)
 
 [Cell cycle control_Nurse.pdf](https://github.com/kachroolab/kachroolab/files/2773658/Cell.cycle.control_Nurse.pdf)
+
+**January 23, 2019**
+
+[Lecture 5](https://github.com/kachroolab/kachroolab/files/2788058/Lecture.5_BIOL461winter2019.pdf)
+
+#### Group I presentation material.
+
+[SGA_Boone_Group I Paper .pdf](https://github.com/kachroolab/kachroolab/files/2788063/SGA_Boone_Group.I.Paper.pdf)
+
+[SGA_Boone_Group I reading .pdf](https://github.com/kachroolab/kachroolab/files/2788062/SGA_Boone_Group.I.reading.pdf)
+
+**Presentation on Jan 30 instead of lecture - first 30 minutes floowed by 5 minute Q&A**
+
+#### Group 2 presentation material.
+
+[Systematic humanization of yeast_Kachroo_Group 2 Paper.pdf](https://github.com/kachroolab/kachroolab/files/2788061/Systematic.humanization.of.yeast_Kachroo_Group.2.Paper.pdf)
+
+[Systematic humanization of yeast_Kachroo_Group 2 reading I.pdf](https://github.com/kachroolab/kachroolab/files/2788060/Systematic.humanization.of.yeast_Kachroo_Group.2.reading.I.pdf)
+
+[Systematic humanization of yeast_Roth_Group 2 reading II.pdf](https://github.com/kachroolab/kachroolab/files/2788059/Systematic.humanization.of.yeast_Roth_Group.2.reading.II.pdf)
+
+**Presentation on Jan 30 instead of lecture - 2nd 30 minutes floowed by 5 minute Q&A**
+
+#### Reading material for Lecture 5.
+
+[Nurse-human cdc complements fission yeast gene.pdf](https://github.com/kachroolab/kachroolab/files/2788065/Nurse-human.cdc.complements.fission.yeast.gene.pdf)
+
+[Budding yeast homologous genes in pombe complementation.pdf](https://github.com/kachroolab/kachroolab/files/2788066/Budding.yeast.homologous.genes.in.pombe.complementation.pdf)
+
