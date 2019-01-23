@@ -103,7 +103,7 @@ _Those of you who have geniune (Doctor's report required) issues regarding oral 
 
 [SGA_Boone_Group I reading .pdf](https://github.com/kachroolab/kachroolab/files/2788062/SGA_Boone_Group.I.reading.pdf)
 
-**Presentation on Jan 30 instead of lecture - first 30 minutes floowed by 5 minute Q&A**
+**Presentation on Jan 30 instead of lecture - first 30 minutes followed by 5 minute Q&A**
 
 #### Group 2 presentation material.
 
@@ -113,7 +113,7 @@ _Those of you who have geniune (Doctor's report required) issues regarding oral 
 
 [Systematic humanization of yeast_Roth_Group 2 reading II.pdf](https://github.com/kachroolab/kachroolab/files/2788059/Systematic.humanization.of.yeast_Roth_Group.2.reading.II.pdf)
 
-**Presentation on Jan 30 instead of lecture - 2nd 30 minutes floowed by 5 minute Q&A**
+**Presentation on Jan 30 instead of lecture - 2nd 30 minutes followed by 5 minute Q&A**
 
 #### Reading material for Lecture 5.
 
