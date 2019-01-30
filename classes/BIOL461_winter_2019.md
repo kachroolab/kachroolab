@@ -133,7 +133,7 @@ _Those of you who have geniune (Doctor's report required) issues regarding oral 
 
 **January 30, 2019**
 
-**Presentation on Jan 30 instead of lecture - 2nd 30 minutes followed by 5 minute Q&A**
+**Presentation on Jan 30 instead of lecture - Group 1 first 30 minutes followed by 5 minute Q&A and Group 2 next 30 minutes followed by 5 minute Q&A**
 
 #### Group presentations.
 
