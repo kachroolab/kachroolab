@@ -121,3 +121,23 @@ _Those of you who have geniune (Doctor's report required) issues regarding oral 
 
 [Budding yeast homologous genes in pombe complementation.pdf](https://github.com/kachroolab/kachroolab/files/2788066/Budding.yeast.homologous.genes.in.pombe.complementation.pdf)
 
+**January 25, 2019**
+
+[Lecture 6](https://github.com/kachroolab/kachroolab/files/2813039/Lecture.6_BIOL461winter2019.pdf)
+
+#### Reading material for Lecture 6.
+
+[Global genetic map of the cell.pdf](https://github.com/kachroolab/kachroolab/files/2813041/Global.genetic.map.of.the.cell.pdf)
+
+[Hartwell Synthetic Lethality Review.pdf](https://github.com/kachroolab/kachroolab/files/2813042/Hartwell.Synthetic.Lethality.Review.pdf)
+
+**January 30, 2019**
+
+**Presentation on Jan 30 instead of lecture - 2nd 30 minutes followed by 5 minute Q&A**
+
+#### Group presentations.
+
+[BIOL461_Group1.pdf](https://github.com/kachroolab/kachroolab/files/2813077/BIOL461_Group1.pdf)
+
+[BIOL461_Group2.pdf](https://github.com/kachroolab/kachroolab/files/2813078/BIOL461_Group2.pdf)
+
