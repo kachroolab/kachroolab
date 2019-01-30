@@ -35,6 +35,12 @@ _Those of you who have geniune (Doctor's report required) issues regarding oral 
 
 **Group 7 - 29th March, 2019 (first 35 minutes instead of a lecture)** 
 
+### **FELLOWSHIP PROPOSAL GUIDELINE & SUBMISSION DATE**
+
+[Fellowship proposal guidelines_2019_BIOL461.pdf](https://github.com/kachroolab/kachroolab/files/2813432/Fellowship.proposal.guidelines_2019_BIOL461.pdf)
+
+**_The Fellowship Proposal is due Wednesday, April 10th at midnight._**
+
 ### **LECTURES & READING MATERIAL**
 
 **January 09, 2019**
