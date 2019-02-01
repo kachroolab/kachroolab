@@ -153,13 +153,13 @@ _Those of you who have geniune (Doctor's report required) issues regarding oral 
 
 #### Group 3 presentation material.
 
-[Group 3 Paper .pdf](https://github.com/kachroolab/kachroolab/files/2822344/CRISPR.essential.gene.screen.2.pdf)
+[Group 3 Paper](https://github.com/kachroolab/kachroolab/files/2822344/CRISPR.essential.gene.screen.2.pdf)
 
 **Presentation on Jan 30 instead of lecture - first 30 minutes followed by 5 minute Q&A**
 
 #### Group 4 presentation material.
 
-[Systematic humanization of yeast_Kachroo_Group 2 Paper.pdf](https://github.com/kachroolab/kachroolab/files/2822347/Gene-trap.essential.human.genes.pdf)
+[Group 4 Paper](https://github.com/kachroolab/kachroolab/files/2822347/Gene-trap.essential.human.genes.pdf)
 
 **Presentation on Jan 30 instead of lecture - 2nd 30 minutes followed by 5 minute Q&A**
 
