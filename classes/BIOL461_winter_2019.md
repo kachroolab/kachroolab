@@ -147,3 +147,24 @@ _Those of you who have geniune (Doctor's report required) issues regarding oral 
 
 [BIOL461_Group2.pdf](https://github.com/kachroolab/kachroolab/files/2813078/BIOL461_Group2.pdf)
 
+**February 1st, 2019**
+
+[Lecture 7](https://github.com/kachroolab/kachroolab/files/2822342/Lecture.7_BIOL461winter2019.pdf)
+
+#### Group 3 presentation material.
+
+[Group 3 Paper .pdf](https://github.com/kachroolab/kachroolab/files/2822344/CRISPR.essential.gene.screen.2.pdf)
+
+**Presentation on Jan 30 instead of lecture - first 30 minutes followed by 5 minute Q&A**
+
+#### Group 4 presentation material.
+
+[Systematic humanization of yeast_Kachroo_Group 2 Paper.pdf](https://github.com/kachroolab/kachroolab/files/2822347/Gene-trap.essential.human.genes.pdf)
+
+**Presentation on Jan 30 instead of lecture - 2nd 30 minutes followed by 5 minute Q&A**
+
+#### Reading material for Lecture 7.
+
+[CRISPR screens general.pdf](https://github.com/kachroolab/kachroolab/files/2822345/CRISPR.screens.general.pdf)
+
+[Functional mapping of yeast genome_eLIFE.pdf](https://github.com/kachroolab/kachroolab/files/2822346/Functional.mapping.of.yeast.genome_eLIFE.pdf)
