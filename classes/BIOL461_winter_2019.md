@@ -155,7 +155,7 @@ _Those of you who have geniune (Doctor's report required) issues regarding oral 
 
 [Group 3 Paper](https://github.com/kachroolab/kachroolab/files/2822344/CRISPR.essential.gene.screen.2.pdf)
 
-**Presentation on Feb 13 instead of lecture - first 30 minutes followed by 5 minute Q&A**
+**Presentation on Feb 13 instead of lecture - Ist 30 minutes followed by 5 minute Q&A**
 
 #### Group 4 presentation material.
 
