@@ -168,3 +168,13 @@ _Those of you who have geniune (Doctor's report required) issues regarding oral 
 [CRISPR screens general.pdf](https://github.com/kachroolab/kachroolab/files/2822345/CRISPR.screens.general.pdf)
 
 [Functional mapping of yeast genome_eLIFE.pdf](https://github.com/kachroolab/kachroolab/files/2822346/Functional.mapping.of.yeast.genome_eLIFE.pdf)
+
+**February 06, 2019**
+
+[Lecture 8](https://github.com/kachroolab/kachroolab/files/2836891/Lecture.8_BIOL461winter2019.pdf)
+
+#### Reading material for Lecture 8.
+
+[CRISPR-Cas9 genome editing tool.pdf](https://github.com/kachroolab/kachroolab/files/2836892/CRISPR-Cas9.genome.editing.tool.pdf)
+
+[Gene-Trap method Forward genetics.pdf](https://github.com/kachroolab/kachroolab/files/2836893/Gene-Trap.method.Forward.genetics.pdf)
