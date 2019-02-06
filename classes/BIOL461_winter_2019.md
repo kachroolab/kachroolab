@@ -178,3 +178,5 @@ _Those of you who have geniune (Doctor's report required) issues regarding oral 
 [CRISPR-Cas9 genome editing tool.pdf](https://github.com/kachroolab/kachroolab/files/2836892/CRISPR-Cas9.genome.editing.tool.pdf)
 
 [Gene-Trap method Forward genetics.pdf](https://github.com/kachroolab/kachroolab/files/2836893/Gene-Trap.method.Forward.genetics.pdf)
+
+[Homologous recombination review.pdf](https://github.com/kachroolab/kachroolab/files/2837275/Homologous.recombination.review.pdf)
