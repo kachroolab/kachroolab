@@ -184,3 +184,16 @@ _Those of you who have geniune (Doctor's report required) issues regarding oral 
 **February 08, 2019**
 
 ## Mid-term Exam 1 today at 11:50a - 12:55p.  
+
+**February 15, 2019**
+
+A Must go. This is a guest lecture given by Dr. Bill Zerges.
+[Lecture 9](https://github.com/kachroolab/kachroolab/files/2866643/Lecture.9_Bill.Zerges.pdf)
+
+#### Reading material for Lecture 9.
+
+[Drosophila_making of a model](https://github.com/kachroolab/kachroolab/files/2866640/Drosophila_making.of.a.model.good.pdf)
+
+[Kaufman.pdf](https://github.com/kachroolab/kachroolab/files/2866641/Optional.kaufman.pdf)
+
+[The Heidelberg Screen](https://github.com/kachroolab/kachroolab/files/2866642/The.Heidelberg.Screen.pdf)
