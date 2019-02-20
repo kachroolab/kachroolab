@@ -197,3 +197,13 @@ A Must go. This is a guest lecture given by Dr. Bill Zerges.
 [Kaufman.pdf](https://github.com/kachroolab/kachroolab/files/2866641/Optional.kaufman.pdf)
 
 [The Heidelberg Screen](https://github.com/kachroolab/kachroolab/files/2866642/The.Heidelberg.Screen.pdf)
+
+**February 20, 2019**
+
+**Group presentations on Feb 20 instead of lecture - Group 3 first 30 minutes followed by 5 minute Q&A and Group 4 next 30 minutes followed by 5 minute Q&A**
+
+#### Group presentations.
+
+[BIOL461_Group3.pdf](https://github.com/kachroolab/kachroolab/files/2885010/BIOL461_Group3.pdf)
+
+[BIOL461_Group4.pdf](https://github.com/kachroolab/kachroolab/files/2885011/BIOL461_Group4.pdf)
