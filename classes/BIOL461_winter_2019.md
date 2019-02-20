@@ -207,3 +207,23 @@ A Must go. This is a guest lecture given by Dr. Bill Zerges.
 [BIOL461_Group3.pdf](https://github.com/kachroolab/kachroolab/files/2885305/BIOL461_Group3.pdf)
 
 [BIOL461_Group4.pdf](https://github.com/kachroolab/kachroolab/files/2885011/BIOL461_Group4.pdf)
+
+**February 22, 2019**
+
+#### QUIZ 1
+
+**QUIZ #1 will cover all the lectures except for the lecture given by Dr. Zerges.** Quiz will be administered in the second part of the lecture (12:15p -12:55p).
+
+For QUIZ #1, we will use TOP HAT to admininter the quiz.
+
+Follow these guidelines to make sure that your computers or other devices are ready for the quiz.
+
+[How to prep 1](https://github.com/kachroolab/kachroolab/files/2416371/TopHat.1.pdf)
+
+[How to prep 2](https://github.com/kachroolab/kachroolab/files/2416372/TopHat.2.pdf)
+
+[TopHat tips and tricks](https://github.com/kachroolab/kachroolab/files/2416373/TopHat.3.pdf)
+
+[TopHat test best practices](https://github.com/kachroolab/kachroolab/files/2416374/TopHat.4.pdf)
+
+[TopHat test FAQs](https://github.com/kachroolab/kachroolab/files/2416375/TopHat.5.pdf)
