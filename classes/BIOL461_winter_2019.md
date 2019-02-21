@@ -210,6 +210,8 @@ A Must go. This is a guest lecture given by Dr. Bill Zerges.
 
 **February 22, 2019**
 
+[Lecture 10](https://github.com/kachroolab/kachroolab/files/2891200/Lecture.10_BIOL461winter2019.pdf) (11:45a - 12:15p).
+
 #### QUIZ 1
 
 **QUIZ #1 will cover all the lectures except for the lecture given by Dr. Zerges.** Quiz will be administered in the second part of the lecture (12:15p -12:55p).
