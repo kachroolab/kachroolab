@@ -16,11 +16,11 @@ Here is a list of quiz and exam dates.
 
 **Midterm Exam 1 - 8th February, 2019 (Instead of the lecture)**
 
-**QUIZ 1 - 22nd February, 2019 (35 minutes in the begining of the lecture)**
+**QUIZ 1 - 22nd February, 2019 (35 minutes at the end of the lecture)**
 
 **Midterm Exam 2 - 20th March, 2019 (Instead of the lecture)**
 
-**QUIZ 2 - 5th April, 2019 (35 minutes in the begining of the lecture)**
+**QUIZ 2 - 5th April, 2019 (35 minutes at the end of the lecture)**
 
 ### **GROUP PRESENTATIONS**
 Here is a list of group presentations dates for a research articles. The research article will be provided to you at least a week before the presentation. Each presentation will cover ~35 minutes of the lecture. It is a group activity and each group will only use a single powerpoint file for presentation. Each presentation should be organised as follows: 
