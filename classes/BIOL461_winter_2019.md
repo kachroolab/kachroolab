@@ -229,3 +229,27 @@ Follow these guidelines to make sure that your computers or other devices are re
 [TopHat test best practices](https://github.com/kachroolab/kachroolab/files/2416374/TopHat.4.pdf)
 
 [TopHat test FAQs](https://github.com/kachroolab/kachroolab/files/2416375/TopHat.5.pdf)
+
+**March 06, 2019**
+
+[Lecture 11](https://github.com/kachroolab/kachroolab/files/2937182/Lecture.11_BIOL461winter2019.pdf)
+
+#### Reading material for Lecture 11.
+
+[Epistasis 3.pdf](https://github.com/kachroolab/kachroolab/files/2937187/Epistasis.3.pdf)
+[Epistasis 4.pdf](https://github.com/kachroolab/kachroolab/files/2937188/Epistasis.4.pdf)
+[Epistasis 5.pdf](https://github.com/kachroolab/kachroolab/files/2937189/Epistasis.5.pdf)
+[Epistasis 6.pdf](https://github.com/kachroolab/kachroolab/files/2937190/Epistasis.6.pdf)
+
+
+#### Group 5 presentation material.
+
+[Group 5 Paper](https://github.com/kachroolab/kachroolab/files/2937191/Epistasis.Hsp90.capacitor.Group.5.pdf)
+
+**Presentation on Mar 15 instead of lecture - Ist 30 minutes followed by 5 minute Q&A**
+
+#### Group 6 presentation material.
+
+[Group 6 Paper](https://github.com/kachroolab/kachroolab/files/2937192/tRNA.epistasis_Group6.pdf)
+
+**Presentation on Mar 15 instead of lecture - 2nd 30 minutes followed by 5 minute Q&A**
