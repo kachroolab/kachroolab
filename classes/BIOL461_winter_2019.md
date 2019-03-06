@@ -237,10 +237,12 @@ Follow these guidelines to make sure that your computers or other devices are re
 #### Reading material for Lecture 11.
 
 [Epistasis 3.pdf](https://github.com/kachroolab/kachroolab/files/2937187/Epistasis.3.pdf)
-[Epistasis 4.pdf](https://github.com/kachroolab/kachroolab/files/2937188/Epistasis.4.pdf)
-[Epistasis 5.pdf](https://github.com/kachroolab/kachroolab/files/2937189/Epistasis.5.pdf)
-[Epistasis 6.pdf](https://github.com/kachroolab/kachroolab/files/2937190/Epistasis.6.pdf)
 
+[Epistasis 4.pdf](https://github.com/kachroolab/kachroolab/files/2937188/Epistasis.4.pdf)
+
+[Epistasis 5.pdf](https://github.com/kachroolab/kachroolab/files/2937189/Epistasis.5.pdf)
+
+[Epistasis 6.pdf](https://github.com/kachroolab/kachroolab/files/2937190/Epistasis.6.pdf)
 
 #### Group 5 presentation material.
 
