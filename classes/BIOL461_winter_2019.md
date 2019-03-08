@@ -255,3 +255,13 @@ Follow these guidelines to make sure that your computers or other devices are re
 [Group 6 Paper](https://github.com/kachroolab/kachroolab/files/2937192/tRNA.epistasis_Group6.pdf)
 
 **Presentation on Mar 15 instead of lecture - 2nd 30 minutes followed by 5 minute Q&A**
+
+**March 08, 2019**
+
+[Lecture 12](https://github.com/kachroolab/kachroolab/files/2946573/Lecture.12_BIOL461winter2019.pdf)
+
+#### Reading material for Lecture 12.
+
+[Ordering gene function.pdf](https://github.com/kachroolab/kachroolab/files/2946577/Ordering.gene.function.pdf)
+
+[Suppressors mechanisms.pdf](https://github.com/kachroolab/kachroolab/files/2946578/Suppressors.mechanisms.pdf)
