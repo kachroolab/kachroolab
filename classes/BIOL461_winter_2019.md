@@ -22,6 +22,8 @@ Here is a list of quiz and exam dates.
 
 **QUIZ 2 - 5th April, 2019 (35 minutes at the end of the lecture)**
 
+**FINAL EXAM - 1st May, 2019 (9a-12p at H557)**
+
 ### **GROUP PRESENTATIONS**
 Here is a list of group presentations dates for a research articles. The research article will be provided to you at least a week before the presentation. Each presentation will cover ~35 minutes of the lecture. It is a group activity and each group will only use a single powerpoint file for presentation. Each presentation should be organised as follows: 
 **Background (2-3 slides), problem addressed (2 slides), results specifically focusing on genetic tools (3-4 slides) and conclusion/summary (1-2 slides). Please send your powerpoint slides to me at least an hour before your presentation and I can upload them on the TopHat.** 
