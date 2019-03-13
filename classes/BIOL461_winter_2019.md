@@ -267,3 +267,16 @@ Follow these guidelines to make sure that your computers or other devices are re
 [Ordering gene function.pdf](https://github.com/kachroolab/kachroolab/files/2946577/Ordering.gene.function.pdf)
 
 [Suppressors mechanisms.pdf](https://github.com/kachroolab/kachroolab/files/2946578/Suppressors.mechanisms.pdf)
+
+**March 13, 2019**
+
+[Lecture 13](https://github.com/kachroolab/kachroolab/files/2962204/Lecture.13_BIOL461winter2019.pdf)
+
+#### Reading material for Lecture 13.
+
+[Cancer genetics 1.pdf](https://github.com/kachroolab/kachroolab/files/2962210/Cancer.genetics.1.pdf)
+[Cancer genetics 2.pdf](https://github.com/kachroolab/kachroolab/files/2962211/Cancer.genetics.2.pdf)
+[GWAS 1.pdf](https://github.com/kachroolab/kachroolab/files/2962212/GWAS.1.pdf)
+[GWAS 2.pdf](https://github.com/kachroolab/kachroolab/files/2962213/GWAS.2.pdf)
+[Missing heritability 1.pdf](https://github.com/kachroolab/kachroolab/files/2962214/Missing.heritability.1.pdf)
+[Missing heritability 2.pdf](https://github.com/kachroolab/kachroolab/files/2962215/Missing.heritability.2.pdf)
