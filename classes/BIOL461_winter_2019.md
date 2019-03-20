@@ -295,3 +295,7 @@ Follow these guidelines to make sure that your computers or other devices are re
 [BIOL461_Group5.pdf](https://github.com/kachroolab/kachroolab/files/2971652/BIOL461_Group5.pdf)
 
 [BIOL461_Group6.pdf](https://github.com/kachroolab/kachroolab/files/2971653/BIOL461_Group6.pdf)
+
+**March 20, 2019**
+
+## Mid-term Exam 2 today at 11:50a - 12:55p.  
