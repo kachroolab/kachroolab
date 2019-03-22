@@ -299,3 +299,21 @@ Follow these guidelines to make sure that your computers or other devices are re
 **March 20, 2019**
 
 ## Mid-term Exam 2 today at 11:50a - 12:55p.  
+
+**March 22, 2019**
+
+[Lecture 14](https://github.com/kachroolab/kachroolab/files/2997162/Lecture.14_BIOL461winter2019.pdf)
+
+#### Group 7 presentation material.
+
+[Group 7 paper for presentation.pdf](https://github.com/kachroolab/kachroolab/files/2997172/Group.7.paper.for.presentation.pdf)
+
+[Group 7 Supp_reading1](https://github.com/kachroolab/kachroolab/files/2997173/Mutations.cell.division.and.Cancer_Supp_reading2-Group.7.pdf)
+
+[Group 7 Supp_reading2](https://github.com/kachroolab/kachroolab/files/2997174/Mutations.cell.division.and.Cancer-Group.7.supplementary.reading.pdf)
+
+**Presentation on March 29 instead of lecture - first 30 minutes followed by 5 minute Q&A**
+
+#### Reading material for Lecture 13.
+
+[Cancer 1](https://github.com/kachroolab/kachroolab/files/2997171/Cancer.1.pdf)
