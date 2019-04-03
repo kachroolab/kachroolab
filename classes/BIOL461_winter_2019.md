@@ -337,3 +337,12 @@ Follow these guidelines to make sure that your computers or other devices are re
 #### Group 7 presentation after the lecture.
 
 [BIOL461_Group7.pdf](https://github.com/kachroolab/kachroolab/files/3023223/BIOL.461_Group.7.pdf)
+
+
+**April 03, 2019**
+
+[Lecture 17](https://github.com/kachroolab/kachroolab/files/3039426/Lecture.17_BIOL461winter2019.pdf)
+
+#### Reading material for Lecture 17.
+
+[Worm genetics.pdf](https://github.com/kachroolab/kachroolab/files/3039416/Worm.genetics.pdf)
