@@ -346,3 +346,31 @@ Follow these guidelines to make sure that your computers or other devices are re
 #### Reading material for Lecture 17.
 
 [Worm genetics.pdf](https://github.com/kachroolab/kachroolab/files/3039416/Worm.genetics.pdf)
+
+**April 05, 2019**
+
+[Lecture 18](https://github.com/kachroolab/kachroolab/files/3048572/Lecture.18_BIOL461winter2019.pdf) (11:45a - 12:10p).
+
+#### Reading material for Lecture 18.
+
+[CRISPR-lineage tracing worms.pdf](https://github.com/kachroolab/kachroolab/files/3048575/CRISPR-lineage.tracing.worms.pdf)
+
+[Plant forward genetics.pdf](https://github.com/kachroolab/kachroolab/files/3048576/Plant.forward.genetics.pdf)
+
+#### QUIZ 2
+
+**QUIZ #2 will cover all the lectures starting from lectures on and after QUIZ #1.** Quiz will be administered in the second part of the lecture (12:10p -12:55p).
+
+For QUIZ #2, we will use TOP HAT to admininter the quiz.
+
+Follow these guidelines to make sure that your computers or other devices are ready for the quiz.
+
+[How to prep 1](https://github.com/kachroolab/kachroolab/files/2416371/TopHat.1.pdf)
+
+[How to prep 2](https://github.com/kachroolab/kachroolab/files/2416372/TopHat.2.pdf)
+
+[TopHat tips and tricks](https://github.com/kachroolab/kachroolab/files/2416373/TopHat.3.pdf)
+
+[TopHat test best practices](https://github.com/kachroolab/kachroolab/files/2416374/TopHat.4.pdf)
+
+[TopHat test FAQs](https://github.com/kachroolab/kachroolab/files/2416375/TopHat.5.pdf)
