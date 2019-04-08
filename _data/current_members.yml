@@ -8,9 +8,14 @@
   url: "https://www.pombase.org"
   twitter: "PomBase"
   
+- name: Mudabir Abdullah
+  role: Graduate student
+  url: 
+  twitter: "MMudabir"
+  
 - name: Devina Singh
   role: Master's student
-  url: ""
+  url: "linkedin.com/in/devina-singh-89b187164"
   twitter: "devinasingh30"  
   
 - name: Farhat Zafar
@@ -23,22 +28,17 @@
   url: "https://www.linkedin.com/in/brittany-greco-243164133/"
   twitter: "brittanygreco18"
   
-- name: Mudabir Abdullah
-  role: Graduate student
-  url: 
-  twitter: "MMudabir"
-  
-  name: Courtney Gamache
+- name: Courtney Gamache
   role: Master's student
   url: ""
   twitter: ""  
   
-  name: Yu Ren
+- name: Yu Ren
   role: Biol490 student
   url: ""
   twitter: "" 
   
-  name: claudia Waddingham 
+- name: claudia Waddingham 
   role: Biol490 student
   url: ""
   twitter: ""   
