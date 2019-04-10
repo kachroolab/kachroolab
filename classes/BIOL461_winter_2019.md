@@ -374,3 +374,14 @@ Follow these guidelines to make sure that your computers or other devices are re
 [TopHat test best practices](https://github.com/kachroolab/kachroolab/files/2416374/TopHat.4.pdf)
 
 [TopHat test FAQs](https://github.com/kachroolab/kachroolab/files/2416375/TopHat.5.pdf)
+
+**April 10, 2019**
+
+[Lecture 19](https://github.com/kachroolab/kachroolab/files/3064508/Lecture.19_BIOL461winter2019.pdf)
+
+#### Reading material for Lecture 19.
+
+[ABC model of flower development.pdf](https://github.com/kachroolab/kachroolab/files/3064511/ABC.model.of.flower.development.pdf)
+[Flower timing pathway regulation.pdf](https://github.com/kachroolab/kachroolab/files/3064512/Flower.timing.pathway.regulation.pdf)
+[Leafy.pdf](https://github.com/kachroolab/kachroolab/files/3064513/Leafy.pdf)
+[Making of a flower.pdf](https://github.com/kachroolab/kachroolab/files/3064514/Making.of.a.flower.pdf)
