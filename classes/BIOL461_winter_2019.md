@@ -388,3 +388,8 @@ Follow these guidelines to make sure that your computers or other devices are re
 [Leafy.pdf](https://github.com/kachroolab/kachroolab/files/3064513/Leafy.pdf)
 
 [Making of a flower.pdf](https://github.com/kachroolab/kachroolab/files/3064514/Making.of.a.flower.pdf)
+
+**April 12, 2019**
+
+Notice - There will be no Lecture today 12th April, 2019. We shall meet on April 15 11:45a at CC305 one last time and mostly cover specific sections of the course that some people may still have issues with. Also I will announce the lectures and presentations to focus on for the final exam.
+
