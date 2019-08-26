@@ -6,7 +6,7 @@ date:   2019
 This is the home page for class BIOL 367, Fall 2019, Molecular Biology.
 
 **Syllabus**
-[Course outline - BIOL367, Fall, 2019](https://github.com/kachroolab/kachroolab/files/3543595/BIOL367_Fall2019.course.outline.pdf). 
+[Course outline - BIOL367, Fall, 2019](https://github.com/kachroolab/kachroolab/files/3543616/BIOL367_Fall2019.course.outline.pdf). 
 **_Reading material provided below is absolutely necessary to comprehensively understand the principles of Molecular Biology that will be taught throughout the course. Therefore these materials are directly relevant for exams and other avenues for the evaluation._** 
 
 **_Office hours (Monday 1:30p-2:30p in GE330.11)_**
