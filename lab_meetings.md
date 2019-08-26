@@ -7,7 +7,7 @@ permalink: /more/lab_meetings.html
 # Kachroo Lab meetings will be on Fridays' 11:30a-1:30p at GE S120.13
 <br><br>
 
-### Fall 2018
+### Fall 2019
 
 |------+---+--------------------+---+----------------------+---+-------|
 | Date      |             |Meeting type               |            |Presenters |                   |Notes      |
