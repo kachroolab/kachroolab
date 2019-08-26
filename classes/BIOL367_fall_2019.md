@@ -12,7 +12,7 @@ This is the home page for class BIOL 367, Fall 2019, Molecular Biology.
 **_Office hours (Monday 1:30p-2:30p in GE330.11)_**
 
 **TOP HAT**
-We will be using the Top Hat (www.tophat.com) classroom response system in class for lectures, quizzes, and attendance. You will be able to submit answers to in-class questions, and I will take attendance via Apple or Android smartphones and tablets, laptops, or via text message (SMS). You can register for Top Hat here (https://app.tophat.com/register/). Top Hat will require a single course price or a subscription. There are multiple options and it costs ~$26 CAD for 1 term subscription (4 months). There may be an additional fee for the Top Hat Test as well. The course code for BIOL367-Fall 2019 is **198379**. **You must register before September 2, 2019**.
+We will be using the Top Hat (www.tophat.com) classroom response system in class for lectures, quizzes, and attendance. You will be able to submit answers to in-class questions, and I will take attendance via Apple or Android smartphones and tablets, laptops, or via text message (SMS). You can register for Top Hat here (https://app.tophat.com/register/). Top Hat will require a single course price or a subscription. There are multiple options and it costs ~$26 CAD for 1 term subscription (4 months). There may be an additional fee for the Top Hat Test as well. The course code for BIOL367-Fall 2019 is **198379**. **You must register before 2nd September 2019**.
 
 ### **EXAM & QUIZ DATES**
 Here is a list of exam and quiz dates. 
