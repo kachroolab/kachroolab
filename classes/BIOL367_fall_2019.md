@@ -37,11 +37,10 @@ Here is a list of exam and quiz dates.
 
 [Lecture 1](https://github.com/kachroolab/kachroolab/files/3572183/Lecture.01.for.upload.pdf) **Chapters 1 & 2**
 
-#### Reading material for Lecture 1.
+#### Reading material for Lecture 1 & 2.
 
 [Reading material 1-Avery](https://github.com/kachroolab/kachroolab/files/1612069/Avery.1944.pdf)
 
-[Reading material 2-Watson & Crick](https://github.com/kachroolab/kachroolab/files/1612072/WatsonCrick.1953.pdf) **Must read**
+[Reading material 2-Chargaff](https://github.com/kachroolab/kachroolab/files/1612189/Chargaff.1950.pdf)
 
-[Reading material 3-Chargaff](https://github.com/kachroolab/kachroolab/files/1612189/Chargaff.1950.pdf)
-
+[Reading material 3-Watson & Crick](https://github.com/kachroolab/kachroolab/files/1612072/WatsonCrick.1953.pdf) **Must read**
