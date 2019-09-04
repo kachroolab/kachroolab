@@ -32,3 +32,16 @@ Here is a list of exam and quiz dates.
 **FINAL EXAM - To be Announced**
 
 ### **LECTURES & READING MATERIAL**
+
+**September 04, 2019**
+
+[Lecture 1](https://github.com/kachroolab/kachroolab/files/3572183/Lecture.01.for.upload.pdf)
+
+#### Reading material for Lecture 1.
+
+[Reading material 1-Avery](https://github.com/kachroolab/kachroolab/files/1612069/Avery.1944.pdf)
+
+[Reading material 2-Watson & Crick](https://github.com/kachroolab/kachroolab/files/1612072/WatsonCrick.1953.pdf) **Must read**
+
+[Reading material 3-Chargaff](https://github.com/kachroolab/kachroolab/files/1612189/Chargaff.1950.pdf)
+
