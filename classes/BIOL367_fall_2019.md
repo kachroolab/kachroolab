@@ -55,3 +55,7 @@ Here is a list of exam and quiz dates.
 
 [Lecture 3](https://github.com/kachroolab/kachroolab/files/3601130/Lecture.03.pdf) **Chapters 3 & 4**
 
+#### Reading material for Lecture 3.
+
+[Central dogma](https://github.com/kachroolab/kachroolab/files/2373012/The.central.dogma_Crick.pdf)
+
