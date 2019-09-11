@@ -48,3 +48,10 @@ Here is a list of exam and quiz dates.
 [Reading material 2-Chargaff](https://github.com/kachroolab/kachroolab/files/1612189/Chargaff.1950.pdf)
 
 [Reading material 3-Watson & Crick](https://github.com/kachroolab/kachroolab/files/1612072/WatsonCrick.1953.pdf) **Must read**
+
+[Lecture 1](https://github.com/kachroolab/kachroolab/files/3572183/Lecture.01.for.upload.pdf) **Chapters 1 & 2**
+
+**September 11, 2019**
+
+[Lecture 3](https://github.com/kachroolab/kachroolab/files/3601130/Lecture.03.pdf) **Chapters 3 & 4**
+
