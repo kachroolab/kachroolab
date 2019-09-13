@@ -3,7 +3,6 @@ layout: post
 title:  "Kachroo_Lab in the News"
 date:   2019-09-13 10:00:00
 ---
-Kachroo_Lab 
 [How genome sequencing will make you healthier](https://www.concordia.ca/cunews/offices/vprgs/oor/2018/10/01/how-genome-sequencing-will-make-you-healthier.html)
 
 [$1.65M for synthetic biology research and training at Concordia
