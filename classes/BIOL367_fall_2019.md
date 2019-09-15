@@ -59,3 +59,12 @@ Here is a list of exam and quiz dates.
 
 [Central dogma](https://github.com/kachroolab/kachroolab/files/2373012/The.central.dogma_Crick.pdf)
 
+**September 16, 2019**
+
+[Lecture 4](https://github.com/kachroolab/kachroolab/files/3614440/Lecture.04.pdf) **Chapters 3 & 4**
+
+#### Reading material for Lecture 4.
+
+[Central dogma](https://github.com/kachroolab/kachroolab/files/2373012/The.central.dogma_Crick.pdf)
+
+[Arthur Kornberg's famous papers - summary](https://profiles.nlm.nih.gov/ps/retrieve/Narrative/WH/p-nid/208). 
