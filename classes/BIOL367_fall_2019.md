@@ -61,7 +61,7 @@ Here is a list of exam and quiz dates.
 
 **September 16, 2019**
 
-[Lecture 4](https://github.com/kachroolab/kachroolab/files/3614440/Lecture.04.pdf) **Chapters 3 & 4**
+[Lecture 4](https://github.com/kachroolab/kachroolab/files/3614440/Lecture.04.pdf) **Chapters 2 & 9**
 
 #### Reading material for Lecture 4.
 
