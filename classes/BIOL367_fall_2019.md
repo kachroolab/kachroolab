@@ -68,3 +68,11 @@ Here is a list of exam and quiz dates.
 [Central dogma](https://github.com/kachroolab/kachroolab/files/2373012/The.central.dogma_Crick.pdf)
 
 [Arthur Kornberg's famous papers - summary](https://profiles.nlm.nih.gov/ps/retrieve/Narrative/WH/p-nid/208). 
+
+**September 18, 2019**
+
+[Lecture 5](https://github.com/kachroolab/kachroolab/files/3623760/Lecture.05.pdf) **Chapters 9**
+
+[DNA Helicase movie](https://www.youtube.com/watch?v=YzNuLsqMqyE&feature=youtu.be)
+
+[DNA Replication movie](https://dnalc.cshl.edu/resources/3d/03-mechanism-of-replication-basic.html)
