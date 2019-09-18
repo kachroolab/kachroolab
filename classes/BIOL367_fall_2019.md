@@ -75,4 +75,4 @@ Here is a list of exam and quiz dates.
 
 [DNA Helicase movie](https://www.youtube.com/watch?v=YzNuLsqMqyE&feature=youtu.be)
 
-[DNA Replication movie](https://dnalc.cshl.edu/resources/3d/03-mechanism-of-replication-basic.html)
+[DNA Replication movie](https://dnalc.cshl.edu/resources/3d/04-mechanism-of-replication-advanced.html)
