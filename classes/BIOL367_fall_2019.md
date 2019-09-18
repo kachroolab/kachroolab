@@ -71,7 +71,7 @@ Here is a list of exam and quiz dates.
 
 **September 18, 2019**
 
-[Lecture 5](https://github.com/kachroolab/kachroolab/files/3626251/Lecture.05.pdf) **Chapters 9**
+[Lecture 5](https://github.com/kachroolab/kachroolab/files/3626251/Lecture.05.pdf) **Chapter 9**
 
 [DNA Helicase movie](https://www.youtube.com/watch?v=YzNuLsqMqyE&feature=youtu.be)
 
