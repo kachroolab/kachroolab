@@ -93,7 +93,8 @@ Here is a list of exam and quiz dates.
 
 **September 23, 2019**
 
-[EXAM#1]**Lectures 1-6**
+# Mid-term Exam #1 
+The exam starts at 10:20a and ends at 11:20p at HB130. Books, notes and calculators are allowed. However, tablets, PCs, phones or any other use of internet is not allowed.
 
 **September 25, 2019**
 
