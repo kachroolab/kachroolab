@@ -73,6 +73,8 @@ Here is a list of exam and quiz dates.
 
 [Lecture 5](https://github.com/kachroolab/kachroolab/files/3626251/Lecture.05.pdf) **Chapter 9**
 
+#### Reading material for Lecture 5.
+
 [DNA Helicase movie](https://www.youtube.com/watch?v=YzNuLsqMqyE&feature=youtu.be)
 
 [DNA Replication movie](https://dnalc.cshl.edu/resources/3d/04-mechanism-of-replication-advanced.html)
@@ -88,3 +90,21 @@ Here is a list of exam and quiz dates.
 [TopHat test best practices](https://github.com/kachroolab/kachroolab/files/2416374/TopHat.4.pdf)
 
 [TopHat test FAQs](https://github.com/kachroolab/kachroolab/files/2416375/TopHat.5.pdf)
+
+**September 23, 2019**
+
+[EXAM#1]**Lectures 1-6**
+
+**September 25, 2019**
+
+[Lecture 6](https://github.com/kachroolab/kachroolab/files/3650045/Lecture.06.pdf) **Chapter 7 & 9**
+
+#### Reading material for Lecture 6.
+
+[Reading material DNA sequencing 1](https://github.com/kachroolab/kachroolab/files/1639518/DNA.seq.at.40.pdf)
+
+[Reading material DNA sequencing 2](https://github.com/kachroolab/kachroolab/files/2408189/Next.gen.sequencing.1.pdf)
+
+[Reading material DNA sequencing 3](https://github.com/kachroolab/kachroolab/files/2408188/Next.gen.sequencing.2.pdf)
+
+
