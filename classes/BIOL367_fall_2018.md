@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "BIOL 367, Fall 2018"
+title:  "BIOL 367, Molecular Biology, Fall 2018"
 date:   2018
 ---
 This is the home page for class BIOL 367 - Fall 2018, Molecular Biology.

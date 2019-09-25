@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "BIOL 461, Winter 2019"
+title:  "BIOL 461, Advanced Genetics, Winter 2019"
 date:   2019
 ---
 This is the home page for class BIOL 461 - Winter 2019, Advanced Genetics.
