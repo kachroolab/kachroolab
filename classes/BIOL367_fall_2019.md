@@ -102,7 +102,11 @@ The exam starts at 10:20a and ends at 11:20p at HB130. Books, notes and calculat
 
 [Lecture 6](https://github.com/kachroolab/kachroolab/files/3650045/Lecture.06.pdf) **Chapter 7 & 9**
 
-#### Reading material for Lecture 6.
+**September 30, 2019**
+
+[Lecture 7](https://github.com/kachroolab/kachroolab/files/3667979/Lecture.07.pdf) **Chapter 7 & 9**
+
+#### Reading material for Lecture 7.
 
 [Reading material DNA sequencing 1](https://github.com/kachroolab/kachroolab/files/1639518/DNA.seq.at.40.pdf)
 
@@ -110,4 +114,14 @@ The exam starts at 10:20a and ends at 11:20p at HB130. Books, notes and calculat
 
 [Reading material DNA sequencing 3](https://github.com/kachroolab/kachroolab/files/2408188/Next.gen.sequencing.2.pdf)
 
+**QUIZ#1 [Covering Lectures 1-6] on TOP HAT. The quiz will start at 10:45am after lecture 7. Follow these guidelines for how to take quiz on TOPHAT:**
 
+[How to prep 1](https://github.com/kachroolab/kachroolab/files/2416371/TopHat.1.pdf)
+
+[How to prep 2](https://github.com/kachroolab/kachroolab/files/2416372/TopHat.2.pdf)
+
+[TopHat tips and tricks](https://github.com/kachroolab/kachroolab/files/2416373/TopHat.3.pdf)
+
+[TopHat test best practices](https://github.com/kachroolab/kachroolab/files/2416374/TopHat.4.pdf)
+
+[TopHat test FAQs](https://github.com/kachroolab/kachroolab/files/2416375/TopHat.5.pdf)
