@@ -128,8 +128,7 @@ The exam starts at 10:20a and ends at 11:20p at HB130. Books, notes and calculat
 
 **October 02, 2019**
 
-[Lecture 7](https://github.com/kachroolab/kachroolab/files/3679093/Lecture.08.pdf) **Chapter 10**
+[Lecture 8](https://github.com/kachroolab/kachroolab/files/3679093/Lecture.08.pdf) **Chapter 10**
 
-#### Reading material for Lecture 8.
 
-[DNA Repair 1](https://github.com/kachroolab/kachroolab/files/2430653/DNA.repair.1.pdf) 
+
