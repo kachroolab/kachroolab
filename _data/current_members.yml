@@ -36,7 +36,17 @@
 - name: Courtney Gamache
   role: Master's student
   url: ""
-  twitter: ""
+  twitter: ""  
+  
+- name: Yu Ren
+  role: Biol490 student
+  url: ""
+  twitter: "" 
+  
+- name: Claudia Waddingham 
+  role: Biol490 student
+  url: ""
+  twitter: ""   
   
 - name: Aashiq H. Kachroo
   role: Principal Investigator, CRC in Systems and Synthetic Biology
