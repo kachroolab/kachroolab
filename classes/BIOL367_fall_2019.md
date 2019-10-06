@@ -130,5 +130,13 @@ The exam starts at 10:20a and ends at 11:20p at HB130. Books, notes and calculat
 
 [Lecture 8](https://github.com/kachroolab/kachroolab/files/3679093/Lecture.08.pdf) **Chapter 10**
 
+**October 07, 2019**
 
+[Lecture 9](https://github.com/kachroolab/kachroolab/files/3694478/Lecture.09.pdf) **Chapter 10 & 11**
 
+#### Reading material for Lecture 9.
+
+Check this video at Youtube for the basic understanding of CRISPR 
+(https://www.youtube.com/watch?v=6SL2eEUvycI). 
+
+[DNA Double Strand Break Repair](https://github.com/kachroolab/kachroolab/files/2476633/DSBR.review.pdf) 
