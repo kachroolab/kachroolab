@@ -140,3 +140,16 @@ Check this video at Youtube for the basic understanding of CRISPR
 (https://www.youtube.com/watch?v=6SL2eEUvycI). 
 
 [DNA Double Strand Break Repair](https://github.com/kachroolab/kachroolab/files/2476633/DSBR.review.pdf) 
+
+**October 09, 2019**
+
+[Lecture 10](https://github.com/kachroolab/kachroolab/files/3704992/Lecture.10.pdf) **Chapter 7**
+
+#### Reading material for Lecture 10.
+
+Videos focusing on todays lecture can be viewed here 
+(https://www.dnalc.org/resources/animations/).
+
+[Reading material Restriction endocnulcease 1](https://github.com/kachroolab/kachroolab/files/2476634/RE.2.pdf) 
+
+[Reading material Restriction endocnulcease 2](https://github.com/kachroolab/kachroolab/files/2476635/RE.1.pdf) 
