@@ -153,3 +153,11 @@ Videos focusing on todays lecture can be viewed here
 [Reading material Restriction endocnulcease 1](https://github.com/kachroolab/kachroolab/files/2476634/RE.2.pdf) 
 
 [Reading material Restriction endocnulcease 2](https://github.com/kachroolab/kachroolab/files/2476635/RE.1.pdf) 
+
+**October 16, 2019**
+
+[Lecture 11](https://github.com/kachroolab/kachroolab/files/3732070/Lecture.11.pdf) **Chapter 7**
+
+Some relevant videos focusing on todays lecture can be viewed here 
+(https://www.dnalc.org/resources/animations/).
+
