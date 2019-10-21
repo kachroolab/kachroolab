@@ -161,3 +161,12 @@ Videos focusing on todays lecture can be viewed here
 Some relevant videos focusing on todays lecture can be viewed here 
 (https://www.dnalc.org/resources/animations/).
 
+**October 21, 2019**
+
+[Lecture 12](https://github.com/kachroolab/kachroolab/files/3748586/Lecture.12.pdf) **Chapter 13**
+
+[Reading material Transcription](https://github.com/kachroolab/kachroolab/files/2484228/Transcription.1.pdf) 
+
+**October 23, 2019**
+# Mid-term Exam #2 (Lecture 6 - 12) 
+The exam starts at 10:20a and ends at 11:20p at HB130. Books, notes and calculators are allowed. However, tablets, PCs, phones or any other use of internet is not allowed.
