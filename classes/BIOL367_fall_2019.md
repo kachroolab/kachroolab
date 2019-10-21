@@ -31,7 +31,7 @@ Here is a list of exam and quiz dates.
 
 **QUIZ 3 - 2nd December, 2019 (35 minutes at the end of the lecture)**
 
-**FINAL EXAM - To be Announced**
+## **FINAL EXAM - 18th December 2019**
 
 ### **LECTURES & READING MATERIAL**
 
