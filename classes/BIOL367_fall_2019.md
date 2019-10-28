@@ -174,7 +174,7 @@ The exam starts at 10:20a and ends at 11:20p at HB130. Books, notes and calculat
 
 **October 28, 2019**
 
-[Lecture 13](https://github.com/kachroolab/kachroolab/files/3776652/Lecture.13.pdf) **Chapter 13**
+[Lecture 13](https://github.com/kachroolab/kachroolab/files/3776652/Lecture.13.pdf) **Chapter 18**
 
 The Scientist-battle for the repressor 
 (https://www.youtube.com/watch?v=kdOgoTl9Fog).
@@ -183,7 +183,9 @@ The Scientist-battle for the repressor
 
 **October 30, 2019**
 
-**QUIZ#2 [Covering Lectures 7-13] on TOP HAT. The quiz will start at 10:45am after lecture 7. Follow these guidelines for how to take quiz on TOPHAT: I recommend using PC or Mac for the quiz rather than apps on mobiles/tablets**
+[Lecture 14]
+
+**QUIZ#2 [Covering Lectures 7-13] on TOP HAT. The quiz will start at 10:45am after lecture 14. Follow these guidelines for how to take quiz on TOPHAT: I recommend using PC or Mac for the quiz rather than apps on mobiles/tablets**
 
 [How to prep 1](https://github.com/kachroolab/kachroolab/files/2416371/TopHat.1.pdf)
 
