@@ -185,7 +185,8 @@ The Scientist-battle for the repressor
 
 [Lecture 14]
 
-**QUIZ#2 [Covering Lectures 7-13] on TOP HAT. The quiz will start at 10:45am after lecture 14. Follow these guidelines for how to take quiz on TOPHAT: I recommend using PC or Mac for the quiz rather than apps on mobiles/tablets**
+**QUIZ#2 [Covering Lectures 7-13] on TOP HAT. The quiz will start at 10:45am after lecture 14. I strongly recommend using browsers on PC or Mac for the quiz rather than apps on mobiles/tablets. 
+Follow these guidelines for how to take quiz on TOPHAT:**
 
 [How to prep 1](https://github.com/kachroolab/kachroolab/files/2416371/TopHat.1.pdf)
 
