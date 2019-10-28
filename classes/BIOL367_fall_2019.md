@@ -149,6 +149,7 @@ Check this video at Youtube for the basic understanding of CRISPR
 
 Videos focusing on todays lecture can be viewed here 
 (https://www.dnalc.org/resources/animations/).
+(https://www.youtube.com/watch?v=Ik_Pxht1LM0).
 
 [Reading material Restriction endocnulcease 1](https://github.com/kachroolab/kachroolab/files/2476634/RE.2.pdf) 
 
@@ -170,3 +171,26 @@ Some relevant videos focusing on todays lecture can be viewed here
 **October 23, 2019**
 # Mid-term Exam #2 (Lecture 6 - 12) 
 The exam starts at 10:20a and ends at 11:20p at HB130. Books, notes and calculators are allowed. However, tablets, PCs, phones or any other use of internet is not allowed.
+
+**October 28, 2019**
+
+[Lecture 13](https://github.com/kachroolab/kachroolab/files/3776652/Lecture.13.pdf) **Chapter 13**
+
+The Scientist-battle for the repressor 
+(https://www.youtube.com/watch?v=kdOgoTl9Fog).
+
+[Reading material Transcription](https://github.com/kachroolab/kachroolab/files/2484228/Transcription.1.pdf) 
+
+**October 30, 2019**
+
+**QUIZ#2 [Covering Lectures 7-13] on TOP HAT. The quiz will start at 10:45am after lecture 7. Follow these guidelines for how to take quiz on TOPHAT: I recommend using PC or Mac for the quiz rather than apps on mobiles/tablets**
+
+[How to prep 1](https://github.com/kachroolab/kachroolab/files/2416371/TopHat.1.pdf)
+
+[How to prep 2](https://github.com/kachroolab/kachroolab/files/2416372/TopHat.2.pdf)
+
+[TopHat tips and tricks](https://github.com/kachroolab/kachroolab/files/2416373/TopHat.3.pdf)
+
+[TopHat test best practices](https://github.com/kachroolab/kachroolab/files/2416374/TopHat.4.pdf)
+
+[TopHat test FAQs](https://github.com/kachroolab/kachroolab/files/2416375/TopHat.5.pdf)
