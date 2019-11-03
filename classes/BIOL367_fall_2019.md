@@ -188,7 +188,7 @@ The Scientist-battle for the repressor
 **QUIZ#2 [Covering Lectures 7-13] on TOP HAT. The quiz will start at 10:45am after lecture 14. I strongly recommend using browsers on PC or Mac for the quiz rather than apps on mobiles/tablets. 
 Follow these guidelines for how to take quiz on TOPHAT:**
 
-[How to prep 1](https://github.com/kachroolab/kachroolab/files/2416371/TopHat.1.pdf)
+[How to prep 1](https://github.com/kachroolab/kachroolab/files/3802306/Lecture.14.pdf)
 
 [How to prep 2](https://github.com/kachroolab/kachroolab/files/2416372/TopHat.2.pdf)
 
@@ -200,7 +200,7 @@ Follow these guidelines for how to take quiz on TOPHAT:**
 
 **November 04, 2019**
 
-[Lecture 15](https://github.com/kachroolab/kachroolab/files/3802276/Lecture.15.pdf) **Chapter 18, 20**
+[Lecture 15](https://github.com/kachroolab/kachroolab/files/3802307/Lecture.15.pdf) **Chapter 18, 20**
 
 #### Reading material for Lecture 15.
 
