@@ -209,3 +209,11 @@ Follow these guidelines for how to take quiz on TOPHAT:**
 [Reading Material 2](https://www.ncbi.nlm.nih.gov/books/NBK21954/)
 
 [Reading Material 3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3104267/)
+
+**November 06, 2019**
+
+[Lecture 16](https://github.com/kachroolab/kachroolab/files/3812083/Lecture.16.pdf) **Chapter 13, 20**
+
+#### Reading material for Lecture 16.
+
+[Histone code guide](https://github.com/kachroolab/kachroolab/files/2572344/Histone.code.mofication.guide.pdf)
