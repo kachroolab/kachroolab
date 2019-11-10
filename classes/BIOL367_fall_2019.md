@@ -217,3 +217,16 @@ Follow these guidelines for how to take quiz on TOPHAT:**
 #### Reading material for Lecture 16.
 
 [Histone code guide](https://github.com/kachroolab/kachroolab/files/2572344/Histone.code.mofication.guide.pdf)
+
+**November 11, 2019**
+
+[Lecture 17](https://github.com/kachroolab/kachroolab/files/3829149/Lecture.17.pdf) **Chapter 7, 8, 13**
+
+#### Reading material for Lecture 17.
+
+[Histone code guide](https://github.com/kachroolab/kachroolab/files/2572344/Histone.code.mofication.guide.pdf)
+
+[Reading Material 1](https://github.com/kachroolab/kachroolab/files/1781562/Transcriptio.Euk1.pdf) Transcription regulation.
+
+[Reading Material 2](https://github.com/kachroolab/kachroolab/files/1781563/Transcriptio.Euk2.pdf) Chip-Seq.
+
