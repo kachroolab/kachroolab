@@ -230,3 +230,10 @@ Follow these guidelines for how to take quiz on TOPHAT:**
 
 [Reading Material 2](https://github.com/kachroolab/kachroolab/files/1781563/Transcriptio.Euk2.pdf) Chip-Seq.
 
+**November 13, 2019**
+
+[Lecture 18](https://github.com/kachroolab/kachroolab/files/3839127/Lecture.18.pdf) **Chapter 19, 14**
+
+#### Reading material for Lecture 18.
+
+[Reading Material 1](https://github.com/kachroolab/kachroolab/files/1781563/Transcriptio.Euk2.pdf) Chip-Seq.
