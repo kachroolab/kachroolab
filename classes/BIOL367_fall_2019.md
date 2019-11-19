@@ -250,3 +250,7 @@ Follow these guidelines for how to take quiz on TOPHAT:**
 
 Reading material for RNAi. [Link 1 - RNAi 1](https://github.com/kachroolab/kachroolab/files/1811395/RNAi.1.pdf), [Link 2 - RNAi 2](https://github.com/kachroolab/kachroolab/files/1811397/RNAi.2.pdf), 
 [Link 3 - RNAi Nobel](https://github.com/kachroolab/kachroolab/files/1811400/RNAi.3.Nobel.prize.pdf)
+
+**November 20, 2019**
+# Mid-term Exam #3 (Lecture 13 - 19) 
+The exam starts at 10:20a and ends at 11:20p at HB130. Books, notes and calculators are allowed. However, tablets, PCs, phones or any other use of internet is not allowed.
