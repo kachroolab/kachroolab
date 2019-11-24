@@ -254,3 +254,7 @@ Reading material for RNAi. [Link 1 - RNAi 1](https://github.com/kachroolab/kachr
 **November 20, 2019**
 # Mid-term Exam #3 (Lecture 13 - 19) 
 The exam starts at 10:20a and ends at 11:20p at HB130. Books, notes and calculators are allowed. However, tablets, PCs, phones or any other use of internet is not allowed.
+
+**November 25, 2019**
+
+[Lecture 20](https://github.com/kachroolab/kachroolab/files/3883841/Lecture.20.pdf) **Chapter 15**
