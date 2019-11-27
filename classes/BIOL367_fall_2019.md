@@ -240,7 +240,7 @@ Follow these guidelines for how to take quiz on TOPHAT:**
 
 **November 18, 2019**
 
-[Lecture 19](https://github.com/kachroolab/kachroolab/files/3856343/Lecture.19.pdf) **Chapter 19, 20, 15**
+[Lecture 19](https://github.com/kachroolab/kachroolab/files/3856343/Lecture.19.pdf) **Chapter 19, 20, 15, 16**
 
 #### Reading material for Lecture 19.
 
@@ -257,4 +257,23 @@ The exam starts at 10:20a and ends at 11:20p at HB130. Books, notes and calculat
 
 **November 25, 2019**
 
-[Lecture 20](https://github.com/kachroolab/kachroolab/files/3883841/Lecture.20.pdf) **Chapter 15**
+[Lecture 20](https://github.com/kachroolab/kachroolab/files/3883841/Lecture.20.pdf) **Chapter 15, 16**
+
+**November 27, 2019**
+
+[Lecture 21](https://github.com/kachroolab/kachroolab/files/3894985/Lecture.21.pdf) **Chapter 15**
+
+**December 02, 2019**
+
+**QUIZ#3 [Covering Lectures 14-21] on TOP HAT. The quiz will start at 10:45am after lecture 14. I strongly recommend using browsers on PC or Mac for the quiz rather than apps on mobiles/tablets. 
+Follow these guidelines for how to take quiz on TOPHAT:**
+
+[How to prep 1](https://github.com/kachroolab/kachroolab/files/3802306/Lecture.14.pdf)
+
+[How to prep 2](https://github.com/kachroolab/kachroolab/files/2416372/TopHat.2.pdf)
+
+[TopHat tips and tricks](https://github.com/kachroolab/kachroolab/files/2416373/TopHat.3.pdf)
+
+[TopHat test best practices](https://github.com/kachroolab/kachroolab/files/2416374/TopHat.4.pdf)
+
+[TopHat test FAQs](https://github.com/kachroolab/kachroolab/files/2416375/TopHat.5.pdf)
