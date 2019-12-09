@@ -277,3 +277,6 @@ Follow these guidelines for how to take quiz on TOPHAT:**
 [TopHat test best practices](https://github.com/kachroolab/kachroolab/files/2416374/TopHat.4.pdf)
 
 [TopHat test FAQs](https://github.com/kachroolab/kachroolab/files/2416375/TopHat.5.pdf)
+
+## **FINAL EXAM - 18th December 2019**
+Information regarding the material that will be covered (or not) in the final exam is [Here](https://github.com/kachroolab/kachroolab/files/3941273/BIOL367-FINAL.EXAM.related.info.pdf).
