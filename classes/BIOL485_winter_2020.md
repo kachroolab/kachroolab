@@ -1,6 +1,6 @@
 ---
 layout: page
-title:  "BIOL 485/523/631, Agriculture, Agri-Food & Advanced Topics in Biotechnology, Winter 2020"
+title:  "BIOL 485, Agriculture, Agri-Food & Advanced Topics in Biotechnology, Winter 2020"
 date:   2020
 ---
 This is the home page for class BIOL 485 - Winter 2020, Agriculture, Agri-Food & Advanced Topics in Biotechnology.
