@@ -1,6 +1,20 @@
-- name: Yu Ren
-  role:
-  joined: 2012
-  left: 2015
+- name: Yu Xing Ren
+  role: Biol490 student
+  joined: 2018
+  left: 2019
+  currently: MSc, The University of Toronto
+  twitter: "YuXiangRen2"
+
+- name: Claudia Waddingham
+  role: Biol490 student
+  joined: 2019
+  left: 2019
+  currently: ""
+  twitter: ""
+  
+- name: Natan Karemov
+  role: Biol490 student
+  joined: 2019
+  left: 2019
   currently:
-  url:
+  twitter: ""
