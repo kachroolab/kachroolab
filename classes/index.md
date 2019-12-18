@@ -8,4 +8,5 @@ permalink: /classes/
 - BIOL 367 Molecular Biology ([fall 2018](/classes/BIOL367_fall_2018.html))
 - BIOL 461 Advanced Genetics ([winter 2019](/classes/BIOL461_winter_2019.html))
 - BIOL 367 Molecular Biology ([fall 2019](/classes/BIOL367_fall_2019.html))
+- BIOL 485 Advanced Topics in Biotechnology ([winter 2020](/classes/BIOL485_winter_2020.html))
 
