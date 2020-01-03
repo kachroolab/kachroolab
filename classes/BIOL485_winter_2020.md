@@ -6,7 +6,7 @@ date:   2020
 This is the home page for class BIOL 485 - Winter 2020, Agriculture, Agri-Food & Advanced Topics in Biotechnology.
 
 **Syllabus**
-[Course outline - BIOL485 winter, 2020](). 
+[Course outline - BIOL485 winter, 2020](https://github.com/kachroolab/kachroolab/files/4020718/BIOL485-523.course.outline.pdf). 
 **_Reading material provided below is absolutely necessary to comprehensively understand the principles of Genetics that will be taught throughout the course. Therefore these materials are directly relevant for exams and other avenues for the evaluation._** 
 
 **_Office hours: Students may request to meet with Dr. Aashiq Kachroo (via email) by appointment at GE 330.11. There are no TA sessions in this course.)_**
