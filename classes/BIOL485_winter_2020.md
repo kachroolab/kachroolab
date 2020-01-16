@@ -51,5 +51,9 @@ _Those of you who have geniune (Doctor's report required) issues regarding oral 
 
 [Lecture 1 & 2](https://github.com/kachroolab/kachroolab/files/4072392/Week2_01162020_reduced.file.size.pdf) 
 
+#### Reading material for Lectures 1 & 2.
+
+[TAIR annotations and tools](https://github.com/kachroolab/kachroolab/files/4072467/TAIR.pdf)
+
 
 
