@@ -55,5 +55,14 @@ _Those of you who have geniune (Doctor's report required) issues regarding oral 
 
 [TAIR annotations and tools](https://github.com/kachroolab/kachroolab/files/4072467/TAIR.pdf)
 
+**Jan 23, 2019**
+
+[Lecture 3](https://github.com/kachroolab/kachroolab/files/4104745/Week3_01232020_reduced.file.size.pdf) 
+
+#### Reading material for Lectures 3.
+
+[Plants, Diet and Health.pdf](https://github.com/kachroolab/kachroolab/files/4104744/Plants.Diet.and.Health.pdf)
+
+[Pan Plant PPI map.pdf](https://github.com/kachroolab/kachroolab/files/4104743/Pan.Plant.PPI.map.pdf) **Paper for discussion**
 
 
