@@ -76,3 +76,5 @@ _Those of you who have geniune (Doctor's report required) issues regarding oral 
 
 [Gene-function in Arabidopsis](https://github.com/kachroolab/kachroolab/files/4166942/Plant.gene-Function.approaches.pdf)
 
+[Gene/Enhancer/Promoter Trap](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC149045/)
+
