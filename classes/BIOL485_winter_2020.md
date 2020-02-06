@@ -66,3 +66,13 @@ _Those of you who have geniune (Doctor's report required) issues regarding oral 
 [Pan Plant PPI map.pdf](https://github.com/kachroolab/kachroolab/files/4104743/Pan.Plant.PPI.map.pdf) **Paper for discussion**
 
 
+**Feb 06, 2019**
+
+[Lecture 4](https://github.com/kachroolab/kachroolab/files/4166902/Week5_02062020_reduced.file.size.pdf) 
+
+#### Reading material for Lectures 4.
+
+[Gene/Enhancer Trap](https://haseloff.plantsci.cam.ac.uk/tools/gal4system/page138.html)
+
+[Gene-function in Arabidopsis](https://github.com/kachroolab/kachroolab/files/4166942/Plant.gene-Function.approaches.pdf)
+
