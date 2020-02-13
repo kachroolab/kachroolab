@@ -78,3 +78,31 @@ _Those of you who have geniune (Doctor's report required) issues regarding oral 
 
 [Gene/Enhancer/Promoter Trap](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC149045/)
 
+
+**Feb 13, 2019**
+
+[Lecture 5](https://github.com/kachroolab/kachroolab/files/4199933/Week6_02132020_reduced.file.size.pdf) 
+
+#### Reading material for Lectures 5.
+
+[GURT-review.pdf](https://github.com/kachroolab/kachroolab/files/4199940/GURT-review.pdf)
+
+[Plant tropane alkaloid biosynthesis.pdf](https://github.com/kachroolab/kachroolab/files/4199941/Plant.tropane.alkaloid.biosynthesis.pdf)
+
+[Terpenoid synthesis in E. coli.pdf](https://github.com/kachroolab/kachroolab/files/4199942/Terpenoid.synthesis.in.E.coli.pdf)
+
+[Caffeine biosynthesis evolution.pdf](https://github.com/kachroolab/kachroolab/files/4199938/Caffeine.biosynthesis.evolution.pdf)
+
+[Cannabinoid synthesis in yeast.pdf](https://github.com/kachroolab/kachroolab/files/4199939/Cannabinoid.synthesis.in.yeast.pdf)
+
+**QUIZ#1 [Covering Lectures 1-4] on TOP HAT. The quiz will start at 2:45am after  the lecture. Follow these guidelines for how to take quiz on TOPHAT:**
+
+[How to prep 1](https://github.com/kachroolab/kachroolab/files/2416371/TopHat.1.pdf)
+
+[How to prep 2](https://github.com/kachroolab/kachroolab/files/2416372/TopHat.2.pdf)
+
+[TopHat tips and tricks](https://github.com/kachroolab/kachroolab/files/2416373/TopHat.3.pdf)
+
+[TopHat test best practices](https://github.com/kachroolab/kachroolab/files/2416374/TopHat.4.pdf)
+
+[TopHat test FAQs](https://github.com/kachroolab/kachroolab/files/2416375/TopHat.5.pdf)
