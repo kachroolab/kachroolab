@@ -106,3 +106,15 @@ _Those of you who have geniune (Doctor's report required) issues regarding oral 
 [TopHat test best practices](https://github.com/kachroolab/kachroolab/files/2416374/TopHat.4.pdf)
 
 [TopHat test FAQs](https://github.com/kachroolab/kachroolab/files/2416375/TopHat.5.pdf)
+
+
+**Feb 20, 2019**
+
+[Lecture 6](https://github.com/kachroolab/kachroolab/files/4232306/Week7_02202020_reduced.file.size.pdf) 
+
+#### Reading material for Lectures 6.
+
+[Advanced genetic tools for Plant biotechnology.pdf](https://github.com/kachroolab/kachroolab/files/4232302/Advanced.genetic.tools.for.Plant.biotechnology.pdf)
+
+[Mass-Spectometry for proteins.pdf](https://github.com/kachroolab/kachroolab/files/4232304/Mass-Spectometry.for.proteins.pdf)
+
