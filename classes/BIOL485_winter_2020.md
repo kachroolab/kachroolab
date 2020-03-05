@@ -43,11 +43,11 @@ _Those of you who have geniune (Doctor's report required) issues regarding oral 
 
 [Fellowship proposal guidelines_2020_BIOL485.pdf](https://github.com/kachroolab/kachroolab/files/4041523/Fellowship.proposal.guidelines.pdf)
 
-## **_The Fellowship Proposal is due on the last day of the course (ie. April 09, 2020_**
+## **_The Fellowship Proposal is due on the last day of the course (ie. April 09, 2020)_**
 
 ### **LECTURES & READING MATERIAL**
 
-**Jan 09 & 13, 2019**
+**Jan 09 & 13, 2020**
 
 [Lecture 1 & 2](https://github.com/kachroolab/kachroolab/files/4072392/Week2_01162020_reduced.file.size.pdf) 
 
@@ -55,7 +55,7 @@ _Those of you who have geniune (Doctor's report required) issues regarding oral 
 
 [TAIR annotations and tools](https://github.com/kachroolab/kachroolab/files/4072467/TAIR.pdf)
 
-**Jan 23, 2019**
+**Jan 23, 2020**
 
 [Lecture 3](https://github.com/kachroolab/kachroolab/files/4104745/Week3_01232020_reduced.file.size.pdf) 
 
@@ -66,7 +66,7 @@ _Those of you who have geniune (Doctor's report required) issues regarding oral 
 [Pan Plant PPI map.pdf](https://github.com/kachroolab/kachroolab/files/4104743/Pan.Plant.PPI.map.pdf) **Paper for discussion**
 
 
-**Feb 06, 2019**
+**Feb 06, 2020**
 
 [Lecture 4](https://github.com/kachroolab/kachroolab/files/4166902/Week5_02062020_reduced.file.size.pdf) 
 
@@ -79,7 +79,7 @@ _Those of you who have geniune (Doctor's report required) issues regarding oral 
 [Gene/Enhancer/Promoter Trap](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC149045/)
 
 
-**Feb 13, 2019**
+**Feb 13, 2020**
 
 [Lecture 5](https://github.com/kachroolab/kachroolab/files/4199933/Week6_02132020_reduced.file.size.pdf) 
 
@@ -108,7 +108,7 @@ _Those of you who have geniune (Doctor's report required) issues regarding oral 
 [TopHat test FAQs](https://github.com/kachroolab/kachroolab/files/2416375/TopHat.5.pdf)
 
 
-**Feb 20, 2019**
+**Feb 20, 2020**
 
 [Lecture 6](https://github.com/kachroolab/kachroolab/files/4232306/Week7_02202020_reduced.file.size.pdf) 
 
@@ -117,4 +117,19 @@ _Those of you who have geniune (Doctor's report required) issues regarding oral 
 [Advanced genetic tools for Plant biotechnology.pdf](https://github.com/kachroolab/kachroolab/files/4232302/Advanced.genetic.tools.for.Plant.biotechnology.pdf)
 
 [Mass-Spectometry for proteins.pdf](https://github.com/kachroolab/kachroolab/files/4232304/Mass-Spectometry.for.proteins.pdf)
+
+
+**Mar 05, 2020**
+
+[Lecture 7](https://github.com/kachroolab/kachroolab/files/4294248/Week8_03052020_reduced.file.size.pdf) 
+
+#### Reading material for Lectures 7.
+
+[CRISPR in plants.pdf](https://github.com/kachroolab/kachroolab/files/4294268/CRISPR.in.plants.pdf)
+
+[Synthetic Chromosome.pdf](https://github.com/kachroolab/kachroolab/files/4294269/Synthetic.Chromosome.pdf)
+
+[TALENs in plants.pdf](https://github.com/kachroolab/kachroolab/files/4294270/TALENs.in.plants.pdf)
+
+**PEOJECT submission is due TODAY.**
 
