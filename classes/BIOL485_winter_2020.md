@@ -133,3 +133,20 @@ _Those of you who have geniune (Doctor's report required) issues regarding oral 
 
 **PEOJECT submission is due TODAY.**
 
+**Mar 12, 2020**
+
+[Lecture 8](https://github.com/kachroolab/kachroolab/files/4325671/Week9_03122020_reduced.file.size.pdf) 
+
+#### Reading material for Lectures 8.
+
+[Engineering COld Toletance in AT.pdf](https://github.com/kachroolab/kachroolab/files/4325676/Engineering.COld.Toletance.in.AT.pdf)
+
+[Engineering Stress Tolerance via CRISPR.pdf](https://github.com/kachroolab/kachroolab/files/4325677/Engineering.Stress.Tolerance.via.CRISPR.pdf)
+
+[Salt_tolerance_tomato.pdf](https://github.com/kachroolab/kachroolab/files/4325678/Salt_tolerance_tomato.pdf)
+
+[Abiotic stress reveiw .pdf](https://github.com/kachroolab/kachroolab/files/4325673/Abiotic.stress.reveiw.pdf)
+
+[CRISPR:Cas9 plants and China 1.pdf](https://github.com/kachroolab/kachroolab/files/4325674/CRISPR.Cas9.plants.and.China.1.pdf)
+
+[CRISPR:Cas9 plants and China 2.pdf](https://github.com/kachroolab/kachroolab/files/4325675/CRISPR.Cas9.plants.and.China.2.pdf)
