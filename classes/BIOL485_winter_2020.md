@@ -153,7 +153,7 @@ _Those of you who have geniune (Doctor's report required) issues regarding oral 
 
 **Mar 26, 2020**
 
-[**UPDATED- Course outline & Garding scheme**]()
+[**UPDATED- Course outline & Garding scheme**](https://github.com/kachroolab/kachroolab/files/4388692/BIOL485-Updated.Course.outline.and.grading.scheme.pdf)
 
 [Lecture 9](https://github.com/kachroolab/kachroolab/files/4388600/Week12_03262020_reducedfilesize.pdf)
 
