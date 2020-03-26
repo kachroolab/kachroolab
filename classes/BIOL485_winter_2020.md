@@ -150,3 +150,21 @@ _Those of you who have geniune (Doctor's report required) issues regarding oral 
 [CRISPR:Cas9 plants and China 1.pdf](https://github.com/kachroolab/kachroolab/files/4325674/CRISPR.Cas9.plants.and.China.1.pdf)
 
 [CRISPR:Cas9 plants and China 2.pdf](https://github.com/kachroolab/kachroolab/files/4325675/CRISPR.Cas9.plants.and.China.2.pdf)
+
+**Mar 26, 2020**
+
+[**UPDATED- Course outline & Garding scheme**]()
+
+[Lecture 9](https://github.com/kachroolab/kachroolab/files/4388600/Week12_03262020_reducedfilesize.pdf)
+
+#### Reading material for Lectures 9.
+
+[Flavonoid biosynthesis in plants.pdf](https://github.com/kachroolab/kachroolab/files/4388616/Flavonoid.biosynthesis.in.plants.pdf)
+
+[HGT in plants.pdf](https://github.com/kachroolab/kachroolab/files/4388617/HGT.in.plants.pdf)
+
+[Synthesis of active human Insulin in Plants.pdf](https://github.com/kachroolab/kachroolab/files/4388618/Synthesis.of.active.human.Insulin.in.Plants.pdf)
+
+#### Papers for discussion-1.
+
+[Paper1 for discussion-1.pdf](https://github.com/kachroolab/kachroolab/files/4388639/Paper1.for.discussion-1.pdf)
