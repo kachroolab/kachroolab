@@ -22,7 +22,7 @@ link-years:
 
 <div class="post">
 
-  <h1 class="post-title">Recent Publications</h1>
+  <h1 class="post-title">Publications</h1>
   
   {% comment %} Navigation shortcut. {% endcomment %}  
   <p>
@@ -44,7 +44,7 @@ link-years:
       {% endif %}
       <li>
         {{ count | minus: forloop.index0 }}. 
-        {{ pub.author }} ({{ pub.year }}). {{ pub.title }} {{ pub.ref }}. <br/>
+        {{ pub.author }} ({{ pub.year }}). {{ pub.title }} {{ pub.ref | capitalize }}. <br/>
         {% if pub.doi %}
           doi: <a href="http://dx.doi.org/{{ pub.doi }}">{{pub.doi}}</a>&nbsp;&nbsp; 
         {% endif %}
