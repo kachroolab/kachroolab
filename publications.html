@@ -51,6 +51,9 @@ link-years:
         {% if pub.pmcid %}
           pmcid: <a href="http://www.ncbi.nlm.nih.gov/pmc/articles/{{ pub.pmcid }}">{{pub.pmcid}}</a>&nbsp;&nbsp; 
         {% endif %}
+        {% if pub.pmid %}
+          pmid: <a href="https://pubmed.ncbi.nlm.nih.gov/{{ pub.pmid }}">{{pub.pmid}}</a>&nbsp;&nbsp;
+        {% endif %}
         
         {% if pub.doi %}
         <div style="display: inline" data-badge-popover="right" data-badge-type="donut" data-doi="{{pub.doi}}" data-hide-no-mentions="true" class="altmetric-embed"></div>
