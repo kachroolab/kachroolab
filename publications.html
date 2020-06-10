@@ -46,7 +46,8 @@ link-years:
         {{ count | minus: forloop.index0 }}. 
         {{ pub.author }} ({{ pub.year }}). {{ pub.title }} {{ pub.ref }}. <br/>
         {% if pub.ref %}
-          <a id="{{ pub.ref }}">{{ pub.ref | capitalize }}</a>
+          <a class="anchor" id="{{ pub.ref }}">{{ pub.ref | capitalize }}</a>
+          <li class="pub.ref">{{ pub.ref | capitalize }}</li>
         {% endif %}
         {% if pub.doi %}
           doi: <a href="http://dx.doi.org/{{ pub.doi }}">{{pub.doi}}</a>&nbsp;&nbsp; 
