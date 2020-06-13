@@ -1,14 +1,10 @@
 - author: R. K. Garge, J. M. Laurent, A. H. Kachroo*, E. M. Marcotte*
-  year: preprint
+  year: 2020
   title: Systematic humanization of the yeast cytoskeleton discerns functionally replaceable from divergent human genes.
-  ref: "bioRxiv 878751"
-  doi: 10.1101/2019.12.16.878751
-
-- author: J. M. Laurent, R. K. Garge, A. I. Teufel, C. O. Wilke, A. H. Kachroo*, E. M. Marcotte*
-  year: preprint
-  title: Humanization of yeast genes with multiple human orthologs reveals principles of functional divergence between paralogs.
-  ref: "bioRxiv 668335"
-  doi: 10.1101/668335
+  ref: "Genetics"
+  doi: 10.1534/genetics.120.303378
+  pmid: 32522745
+  bioRxiv: 10.1101/2019.12.16.878751
   
 - author: J. M. Laurent, R. K. Garge, A. I. Teufel, C. O. Wilke, A. H. Kachroo*, E. M. Marcotte*
   year: 2020
