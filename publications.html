@@ -44,7 +44,7 @@ link-years:
       {% endif %}
       <li>
         {{ count | minus: forloop.index0 }}. 
-        {{ pub.author }} ({{ pub.year }}). {{ pub.title }} {{ pub.ref }}. <br/>
+        {{ pub.author }} ({{ pub.year }}). {{ pub.title }} {{ pub.ref }} {{ pub.bioRxiv }}. <br/>
         {% if pub.doi %}
           doi: <a href="http://dx.doi.org/{{ pub.doi }}">{{pub.doi}}</a>&nbsp;&nbsp; 
         {% endif %}
@@ -53,6 +53,10 @@ link-years:
         {% endif %}
         {% if pub.pmid %}
           pmid: <a href="https://pubmed.ncbi.nlm.nih.gov/{{ pub.pmid }}">{{pub.pmid}}</a>&nbsp;&nbsp;
+        {% endif %}
+        
+        {% if pub.bioRxiv %}
+          doi: <a href="http://{{ pub.bioRxiv }}">{{pub.bioRxiv}}</a>&nbsp;&nbsp;
         {% endif %}
         
         {% if pub.doi %}
