@@ -44,7 +44,7 @@ link-years:
       {% endif %}
       <li>
         {{ count | minus: forloop.index0 }}. 
-        {{ pub.author }} ({{ pub.year }}). {{ pub.title }} {{ pub.ref }} {{ pub.bioRxiv }}. <br/>
+        {{ pub.author }} ({{ pub.year }}). {{ pub.title }} {{ pub.ref }}. <br/>
         {% if pub.doi %}
           doi: <a href="http://dx.doi.org/{{ pub.doi }}">{{pub.doi}}</a>&nbsp;&nbsp; 
         {% endif %}
@@ -56,7 +56,7 @@ link-years:
         {% endif %}
         
         {% if pub.bioRxiv %}
-          doi: <a href="http://dx.doi.org/{{ pub.bioRxiv }}">{{pub.bioRxiv}}</a>&nbsp;&nbsp;
+          bioRxiv: <a href="http://dx.doi.org/{{ pub.bioRxiv }}">{{pub.bioRxiv}}</a>&nbsp;&nbsp;
         {% endif %}
         
         {% if pub.doi %}
