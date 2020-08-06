@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Humanization of yeast genes with multiple human orthologs"
-date:   2017-06-13 14:08:00
+date:   2020-08-01 14:08:00
 ---
 We published two articles focusing of the replaceability of yeast genes with their human equivalents, particularly focusing on duplicated human genes. 
 1. [Humanization of yeast genes with multiple human orthologs reveals functional divergence between paralogs](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000627) This completes most of the testable essential gene humanizations in yeast. This work demonstrated that while the duplicated human genes still retained functional similarity, revealing which of the duplicated copy has retained ancestral function such that it functionally replaces the corresponding yeast gene.
