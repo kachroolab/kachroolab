@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Farhat Zafar receives CMAP internship"
+title:  "Kachroo_Lab in the news"
 date:   2019-09-13 10:00:00
 ---
 [How genome sequencing will make you healthier](https://www.concordia.ca/cunews/offices/vprgs/oor/2018/10/01/how-genome-sequencing-will-make-you-healthier.html)
