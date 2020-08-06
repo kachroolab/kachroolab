@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Humanization of yeast genes with multiple human orthologs"
+date:   2017-06-13 14:08:00
+---
+We published two articles focusing of the replaceability of yeast genes with their human equivalents, particularly focusing on duplicated human genes. 
+1. [Humanization of yeast genes with multiple human orthologs reveals functional divergence between paralogs](https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000627) This completes most of the testable essential gene humanizations in yeast. This work demonstrated that while the duplicated human genes still retained functional similarity, revealing which of the duplicated copy has retained ancestral function such that it functionally replaces the corresponding yeast gene.
+2. [Systematic Humanization of the Yeast Cytoskeleton Discerns Functionally Replaceable from Divergent Human Genes](https://www.genetics.org/content/215/4/1153?iss=4). In this work, we focused on Eukaryotic cytoskeletal families (conserved all the way back to Opisthokonts). These genes are particularly interesting because of having undergone extensive duplications across broad eukaryotic clades. So after ~1 billion years of divergence between humans and yeast, we wondered, to what extent were core elements of the yeast cytoskeleton humanizable. We found several cystoskeletal elements in yeast replaceable by their human counterparts (Actins, Mysons, Tubulins and Septins) albeit only a few (or only one) from an certain orthogroup. The study was highlighted on the [Cover](https://www.genetics.org/content/215/4.cover-expansion) of the Genetics journal. 
+![Genetics_Cover](https://user-images.githubusercontent.com/28112083/89579342-9aafc980-d801-11ea-90b9-0b7b59e319c2.jpg)
+Summary of the Cover: 
+"Cytoskeleton genes are responsible for forming the structural (architectural) components of cells and have expanded into multigene families in humans relative to earlier ancestors. In this issue, Garge and colleagues studied the evolutionary divergence of such duplicated genes by “humanizing” yeast, replacing yeast cytoskeletal genes with different versions of the corresponding human genes. This is symbolized in the image by human workers constructing yeast from the inside out, as inspired by Fernand Léger's “The Builders” and illustrated by Ella Marushchenko. See Garge et al., pp. 1153–1169."
+
