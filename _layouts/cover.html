@@ -1,38 +1,26 @@
-<!DOCTYPE html>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
 <html>
-
-  {% include head.html %}
-   
-  <body id="cover">
-    <div class="loader"></div>
-
-    <div id="headline"></div>
-    
-    {% include header.html %}
-
-    <div class="page-content" id="about-block">
-    <div class="wrapper">
-      <a class="anchor" id="about">About</a>
-      <div class="post">
-        <header class="post-header">
-           <h1 class="post-title">About</h1>
-        </header>
- 
-        <article class="post-content">
-        We are a systems genetics and synthetic biology group interested in repurposing model organisms by replacing human genes in yeast and other simplified cells. Our laboratory will aim to engineer human biological processes in simplified cells to study disease and evolution.  
-        </article>
-      </div>
-
-    </div>
-    </div>
-
-
-    <div class="page-content">
-      <div class="wrapper">
-        {{ content }}
-      </div>
-    </div>
-
-    {% include footer.html %}
-  </body>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="1894.6">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000}
+    p.p2 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Times; color: #000000; -webkit-text-stroke: #000000; min-height: 14.0px}
+    span.s1 {font-kerning: none}
+  </style>
+</head>
+<body>
+<p class="p1"><span class="s1">{% include head.html %}</span></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p2"><span class="s1"></span><br></p>
+<p class="p1"><span class="s1">{% include header.html %}</span></p>
+<p class="p1"><span class="s1">About</span></p>
+<h1 style="margin: 0.0px 0.0px 16.1px 0.0px; font: 24.0px Times; color: #000000; -webkit-text-stroke: #000000"><span class="s1"><b>About</b></span></h1>
+<p class="p1"><span class="s1">We are a systems genetics and synthetic biology group interested in repurposing model organisms by replacing human genes in yeast and other simplified cells. Our laboratory engineers human biological processes in simplified cells to study disease and evolution.<span class="Apple-converted-space"> </span></span></p>
+<p class="p1"><span class="s1">{{ content }}<span class="Apple-converted-space"> </span></span></p>
+<p class="p1"><span class="s1">{% include footer.html %}<span class="Apple-converted-space"> </span></span></p>
+</body>
 </html>
