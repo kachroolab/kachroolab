@@ -19,15 +19,15 @@ We will be using the Top Hat (www.tophat.com) classroom response system in class
 ### **EXAM & QUIZ DATES**
 Here is a list of exam and quiz dates. 
 
-**Midterm Exam 1 - 28 September, 2020 (50 minutes instead of the lecture)**
+**Midterm Exam 1 - 28 September, 2020 (60 minutes instead of the lecture)**
 
 **QUIZ 1 - 5 October, 2020 (30 minutes at the end of the lecture)**
 
-**Midterm Exam 2 - 28 October, 2020 (50 minutes instead of the lecture)**
+**Midterm Exam 2 - 28 October, 2020 (60 minutes instead of the lecture)**
 
 **QUIZ 2 - 4 November, 2020 (30 minutes at the end of the lecture)**
 
-**Midterm Exam 3 - 25 November, 2020 (50 minutes instead of the lecture)**
+**Midterm Exam 3 - 25 November, 2020 (60 minutes instead of the lecture)**
 
 **QUIZ 3 - 7 December, 2020 (30 minutes at the end of the lecture)**
 
