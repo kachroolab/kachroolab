@@ -59,5 +59,4 @@ Follow these guidelines for how to take quiz on TOPHAT:** [Check the info here](
 
 [Lecture 1](to be posted) **Chapters 1 & 2**
 
-**September 09, 2019**
 
