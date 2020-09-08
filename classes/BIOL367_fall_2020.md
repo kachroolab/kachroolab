@@ -11,7 +11,7 @@ This is the home page for class BIOL 367, Fall 2020, Molecular Biology.
 
 **_Office hours (Monday 1:30p-2:30p on zoom)-Aashiq Kachroo_**
 
-**_Office hours (Friday 10:00a-12:00p on zoom)-Hashem Almousa_**
+**_Office hours (Thursday 10:00a-12:00p on zoom)-Hashem Almousa_**
 
 **TOP HAT**
 We will be using the Top Hat (www.tophat.com) classroom response system in class for lectures, quizzes, and attendance. You will be able to submit answers to in-class questions, and I will take attendance via Apple or Android smartphones and tablets, laptops, or via text message (SMS). You can register for Top Hat here (https://app.tophat.com/register/). Top Hat will require a single course price or a subscription. There are multiple options and it costs ~$26 CAD for 1 term subscription (4 months). There may be an additional fee for the Top Hat Test as well. The course code for BIOL367-Fall 2020 is **982500**. **You must register before 7 September 2020. I expect all the students to have access to the TOPHAT course on 9 September 2020**.
@@ -35,7 +35,7 @@ Here is a list of exam and quiz dates.
 
 **QUIZ on TOP HAT. The quiz will start at 10:45am after lecture.** 
 
-**EXAM on TOP HAT. The exam starts at 10:25a and ends at 11:15a proctored via zoom. Books, notes and calculators are allowed. However, tablets, PCs, phones or any other use of internet is not allowed.** 
+**EXAM on TOP HAT or COLE (Moodle). The exam starts at 10:25a and ends at 11:15a proctored via zoom. Books, notes and calculators are allowed. However, tablets, PCs, phones or any other use of internet is not allowed.** 
 
 **_I strongly recommend using browsers on PC or Mac for the quiz/exam rather than apps on mobiles/tablets._** 
 
