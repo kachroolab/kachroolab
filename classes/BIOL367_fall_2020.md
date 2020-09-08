@@ -57,6 +57,6 @@ Follow these guidelines for how to take quiz on TOPHAT:** [Check the info here](
 
 **September 09, 2020**
 
-[Lecture 1](to be posted) **Chapters 1 & 2**
+[Lecture 01](https://github.com/kachroolab/kachroolab/files/5191670/Lecture.01.pdf)) **Chapters 1 & 2**
 
 
