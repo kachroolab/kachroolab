@@ -56,4 +56,16 @@ Follow these guidelines for how to take quiz on TOPHAT:** [Check the info here](
 
 [Lecture 01](https://github.com/kachroolab/kachroolab/files/5191670/Lecture.01.pdf) **Chapters 1 & 2**
 
+**September 09, 2019**
+
+[Lecture 02](https://github.com/kachroolab/kachroolab/files/5215309/Lecture.02.pdf) **Chapters 1 - 4**
+
+#### Reading material for Lecture 1 & 2.
+
+[Reading material 1-Avery](https://github.com/kachroolab/kachroolab/files/1612069/Avery.1944.pdf)
+
+[Reading material 2-Chargaff](https://github.com/kachroolab/kachroolab/files/1612189/Chargaff.1950.pdf)
+
+[Reading material 3-Watson & Crick](https://github.com/kachroolab/kachroolab/files/1612072/WatsonCrick.1953.pdf) **Must read**
+
 
