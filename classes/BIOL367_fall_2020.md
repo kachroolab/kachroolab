@@ -11,7 +11,7 @@ This is the home page for class BIOL 367, Fall 2020, Molecular Biology.
 
 **_Office hours (Monday 1:30p-2:30p on zoom)-Aashiq Kachroo_**
 
-**_Office hours (Thursday 10:00a-12:00p on zoom)-Hashem Almousa_**
+**_Office hours (Thursday 10:00a-12:00p on zoom)-Imge Ozugergin_**
 
 ### **EXAM & QUIZ DATES**
 Here is a list of exam and quiz dates. 
