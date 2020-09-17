@@ -12,6 +12,7 @@
   role: Graduate student
   url: 
   twitter: "MMudabir"
+  Project: Humanizing proteasome complex in yeast
  
 - name: Sarmin Sultana
   role: Master's student
@@ -38,10 +39,17 @@
   url: "https://www.linkedin.com/in/michelle-vandeloo-443a14141/"
   twitter: ""
   
+- name: Saba Mesgari
+  role: Master's student
+  url: ""
+  twitter: ""
+  Co-PI: Laurent Potvin-Trotteir
+  
 - name: Jeffery Bouffard
   role: Horizon Postdoctoral Fellow
   url: ""
   twitter: ""
+  Co-PI: Christopher Brett
   
 - name: Aashiq H. Kachroo
   role: Principal Investigator, CRC in Systems and Synthetic Biology
