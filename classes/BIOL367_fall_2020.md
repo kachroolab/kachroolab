@@ -80,6 +80,8 @@ Follow these guidelines for how to take quiz on TOPHAT:** [Check the info here](
 
 [Lecture 04](https://github.com/kachroolab/kachroolab/files/5252866/Lecture.04.pdf) **Chapters 2 & 9**
 
+#### Reading material for Lecture 4.
+
 [Arthur Kornberg's famous papers - summary](https://profiles.nlm.nih.gov/ps/retrieve/Narrative/WH/p-nid/208). 
 
 [DNA Helicase movie](https://www.youtube.com/watch?v=YzNuLsqMqyE&feature=youtu.be)
