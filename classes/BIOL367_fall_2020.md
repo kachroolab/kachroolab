@@ -87,3 +87,9 @@ Follow these guidelines for how to take quiz on TOPHAT:** [Check the info here](
 [DNA Helicase movie](https://www.youtube.com/watch?v=YzNuLsqMqyE&feature=youtu.be)
 
 [DNA Replication movie](https://dnalc.cshl.edu/resources/3d/04-mechanism-of-replication-advanced.html)
+
+**Benchling, tuorial 1**
+
+[Single-stranded to Double-stranded DNA](https://benchling.com/s/seq-8aTNukCNhyxSX1ADFUua)
+
+
