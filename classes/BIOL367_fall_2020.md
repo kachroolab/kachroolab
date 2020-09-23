@@ -92,4 +92,6 @@ Follow these guidelines for how to take quiz on TOPHAT:** [Check the info here](
 
 [Single-stranded to Double-stranded DNA](https://benchling.com/s/seq-8aTNukCNhyxSX1ADFUua)
 
+**September 23, 2020**
 
+[Lecture 05](https://github.com/kachroolab/kachroolab/files/5264761/Lecture.05.pdf) **Chapters 9**
