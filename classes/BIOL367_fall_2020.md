@@ -88,7 +88,7 @@ Follow these guidelines for how to take quiz on TOPHAT:** [Check the info here](
 
 [DNA Replication movie](https://dnalc.cshl.edu/resources/3d/04-mechanism-of-replication-advanced.html)
 
-**Benchling, tuorial 1**
+**Benchling, tutorial 1**
 
 [Single-stranded to Double-stranded DNA](https://benchling.com/s/seq-8aTNukCNhyxSX1ADFUua)
 
@@ -100,7 +100,7 @@ Follow these guidelines for how to take quiz on TOPHAT:** [Check the info here](
 
 [Lecture 06](https://github.com/kachroolab/kachroolab/files/5289114/Lecture.06.pdf) **Chapters 7 & 9**
 
-**Benchling, tuorial 2**
+**Benchling, tutorial 2**
 
 [Open Reading Frame](https://benchling.com/s/seq-joNMXHm2rItetsAgFM4K)
 
