@@ -95,3 +95,24 @@ Follow these guidelines for how to take quiz on TOPHAT:** [Check the info here](
 **September 23, 2020**
 
 [Lecture 05](https://github.com/kachroolab/kachroolab/files/5264761/Lecture.05.pdf) **Chapters 9**
+
+**September 28, 2020**
+
+[Lecture 06](https://github.com/kachroolab/kachroolab/files/5289114/Lecture.06.pdf) **Chapters 7 & 9**
+
+**Benchling, tuorial 2**
+
+[Open Reading Frame](https://benchling.com/s/seq-joNMXHm2rItetsAgFM4K)
+
+[PCR of EGFP](https://benchling.com/s/seq-hRjIhBueTToQQjuEqOhp)
+
+#### Reading material for Lecture 6.
+
+[Reading material DNA sequencing 1](https://github.com/kachroolab/kachroolab/files/1639518/DNA.seq.at.40.pdf)
+
+[Reading material DNA sequencing 2](https://github.com/kachroolab/kachroolab/files/2408189/Next.gen.sequencing.1.pdf)
+
+[Reading material DNA sequencing 3](https://github.com/kachroolab/kachroolab/files/2408188/Next.gen.sequencing.2.pdf)
+
+
+
