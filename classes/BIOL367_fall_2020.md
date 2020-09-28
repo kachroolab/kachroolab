@@ -50,13 +50,13 @@ Follow these guidelines for how to take quiz on TOPHAT:** [Check the info here](
 [TopHat test FAQs](https://github.com/kachroolab/kachroolab/files/2416375/TopHat.5.pdf)
 
 
-### **LECTURES & READING MATERIAL**
+## **LECTURES & READING MATERIAL**
 
-**September 09, 2020**
+### **September 09, 2020**
 
 [Lecture 01](https://github.com/kachroolab/kachroolab/files/5191670/Lecture.01.pdf) **Chapters 1 & 2**
 
-**September 14, 2020**
+### **September 14, 2020**
 
 [Lecture 02](https://github.com/kachroolab/kachroolab/files/5215309/Lecture.02.pdf) **Chapters 1 - 4**
 
@@ -68,7 +68,7 @@ Follow these guidelines for how to take quiz on TOPHAT:** [Check the info here](
 
 [Reading material 3-Watson & Crick](https://github.com/kachroolab/kachroolab/files/1612072/WatsonCrick.1953.pdf) **Must read**
 
-**September 16, 2020**
+### **September 16, 2020**
 
 [Lecture 03](https://github.com/kachroolab/kachroolab/files/5228835/Lecture.03.pdf) **Chapters 3 & 4**
 
@@ -76,7 +76,7 @@ Follow these guidelines for how to take quiz on TOPHAT:** [Check the info here](
 
 [Central dogma](https://github.com/kachroolab/kachroolab/files/2373012/The.central.dogma_Crick.pdf)
 
-**September 21, 2020**
+### **September 21, 2020**
 
 [Lecture 04](https://github.com/kachroolab/kachroolab/files/5252866/Lecture.04.pdf) **Chapters 2 & 9**
 
@@ -92,11 +92,11 @@ Follow these guidelines for how to take quiz on TOPHAT:** [Check the info here](
 
 [Single-stranded to Double-stranded DNA](https://benchling.com/s/seq-8aTNukCNhyxSX1ADFUua)
 
-**September 23, 2020**
+### **September 23, 2020**
 
 [Lecture 05](https://github.com/kachroolab/kachroolab/files/5264761/Lecture.05.pdf) **Chapters 9**
 
-**September 28, 2020**
+### **September 28, 2020**
 
 [Lecture 06](https://github.com/kachroolab/kachroolab/files/5289114/Lecture.06.pdf) **Chapters 7 & 9**
 
@@ -106,13 +106,15 @@ Follow these guidelines for how to take quiz on TOPHAT:** [Check the info here](
 
 [PCR of EGFP](https://benchling.com/s/seq-hRjIhBueTToQQjuEqOhp)
 
-#### Reading material for Lecture 6.
+#### Reading material for Lecture 5 & 6.
 
 [Reading material DNA sequencing 1](https://github.com/kachroolab/kachroolab/files/1639518/DNA.seq.at.40.pdf)
 
 [Reading material DNA sequencing 2](https://github.com/kachroolab/kachroolab/files/2408189/Next.gen.sequencing.1.pdf)
 
 [Reading material DNA sequencing 3](https://github.com/kachroolab/kachroolab/files/2408188/Next.gen.sequencing.2.pdf)
+
+[PCR video](https://dnalc.cshl.edu/view/15475-The-cycles-of-the-polymerase-chain-reaction-PCR-3D-animation.html)
 
 
 
