@@ -94,7 +94,7 @@ Follow these guidelines for how to take quiz on TOPHAT:** [Check the info here](
 
 ### **September 23, 2020**
 
-[Lecture 05](https://github.com/kachroolab/kachroolab/files/5264761/Lecture.05.pdf) **Chapters 9**
+[Lecture 05](https://github.com/kachroolab/kachroolab/files/5264761/Lecture.05.pdf) **Chapters 7 & 9**
 
 ### **September 28, 2020**
 
