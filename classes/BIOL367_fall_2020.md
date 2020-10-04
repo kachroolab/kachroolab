@@ -16,7 +16,7 @@ This is the home page for class BIOL 367, Fall 2020, Molecular Biology.
 ### **EXAM & QUIZ DATES**
 Here is a list of exam and quiz dates. 
 
-**Midterm Exam 1 - 30 September, 2020 (60 minutes instead of the lecture)**
+**Midterm Exam 1 - 12 October, 2020 (60 minutes instead of the lecture)**
 
 **QUIZ 1 - 7 October, 2020 (30 minutes at the end of the lecture)**
 
