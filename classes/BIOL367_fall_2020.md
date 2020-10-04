@@ -116,5 +116,14 @@ Follow these guidelines for how to take quiz on TOPHAT:** [Check the info here](
 
 [PCR video](https://dnalc.cshl.edu/view/15475-The-cycles-of-the-polymerase-chain-reaction-PCR-3D-animation.html)
 
+### **October 05, 2020**
 
+[Lecture 07](https://github.com/kachroolab/kachroolab/files/5324184/Lecture.07.pdf) **Chapter 10 & 11**
 
+#### Reading material for Lecture 7.
+
+Check this video at Youtube for the basic understanding of [CRISPR-Cas9](https://www.youtube.com/watch?v=6SL2eEUvycI). 
+
+[DNA Double Strand Break Repair](https://github.com/kachroolab/kachroolab/files/2476633/DSBR.review.pdf) 
+
+## **UPDATED MIDTERM EXAM1, OCT 12, 2020**
