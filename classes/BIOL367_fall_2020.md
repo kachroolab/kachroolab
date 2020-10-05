@@ -16,7 +16,7 @@ This is the home page for class BIOL 367, Fall 2020, Molecular Biology.
 ### **EXAM & QUIZ DATES**
 Here is a list of exam and quiz dates. 
 
-**Midterm Exam 1 - 12 October, 2020 (60 minutes instead of the lecture)**
+**Midterm Exam 1 - 14 October, 2020 (60 minutes instead of the lecture)**
 
 **QUIZ 1 - 7 October, 2020 (30 minutes at the end of the lecture)**
 
@@ -126,4 +126,4 @@ Check this video at Youtube for the basic understanding of [CRISPR-Cas9](https:/
 
 [DNA Double Strand Break Repair](https://github.com/kachroolab/kachroolab/files/2476633/DSBR.review.pdf) 
 
-## **UPDATED MIDTERM EXAM1, OCT 12, 2020**
+## **UPDATED MIDTERM EXAM1, OCT 14, 2020**
