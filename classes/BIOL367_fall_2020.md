@@ -120,9 +120,6 @@ Follow these guidelines for how to take quiz on TOPHAT:** [Check the info here](
 
 [Lecture 07](https://github.com/kachroolab/kachroolab/files/5324184/Lecture.07.pdf) **Chapter 10 & 11**
 
-
-## **UPDATED MIDTERM EXAM1, OCT 14, 2020**
-
 ### **October 07, 2020**
 
 [Lecture 08](https://github.com/kachroolab/kachroolab/files/5324184/Lecture.07.pdf) **Chapter 10 & 11** - Double Strand Break Repair
@@ -134,3 +131,19 @@ Check this video at Youtube for the basic understanding of [CRISPR-Cas9](https:/
 [DNA Double Strand Break Repair](https://github.com/kachroolab/kachroolab/files/2476633/DSBR.review.pdf) 
 
 ### **QUIZ#1 [Covering Lectures 1-7] on TOP HAT or on Moodle. The quiz will start at 10:55am after lecture 8 and end at 11:30am.**
+
+## **UPDATED MIDTERM EXAM1, OCT 14, 2020**
+
+### **October 19, 2020**
+
+[Lecture 09](https://github.com/kachroolab/kachroolab/files/5398351/Lecture.09.pdf) **Chapter 7** 
+
+#### Reading material for Lecture 09.
+
+Videos focusing on todays lecture can be viewed here 
+(https://www.dnalc.org/resources/animations/).
+(https://www.youtube.com/watch?v=Ik_Pxht1LM0).
+
+[Reading material Restriction endocnulcease 1](https://github.com/kachroolab/kachroolab/files/2476634/RE.2.pdf) 
+
+[Reading material Restriction endocnulcease 2](https://github.com/kachroolab/kachroolab/files/2476635/RE.1.pdf) 
