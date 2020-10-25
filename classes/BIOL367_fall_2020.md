@@ -157,7 +157,17 @@ Videos focusing on todays lecture can be viewed here
 Some relevant videos focusing on todays lecture can be viewed here 
 (https://www.dnalc.org/resources/animations/).
 
-[Transcription-1](https://github.com/kachroolab/kachroolab/files/2484228/Transcription.1.pdf) 
+[Transcription-1](https://github.com/kachroolab/kachroolab/files/2484228/Transcription.1.pdf)
 
+### **October 26, 2020**
+
+[Lecture 11](https://github.com/kachroolab/kachroolab/files/5435989/Lecture.11.pdf) **Chapter 7, 13 & 18** 
+
+#### Reading material for Lecture 11.
+
+The Scientist-battle for the repressor 
+(https://www.youtube.com/watch?v=kdOgoTl9Fog).
+
+[Reading material Transcription](https://github.com/kachroolab/kachroolab/files/2484228/Transcription.1.pdf) 
 
 
