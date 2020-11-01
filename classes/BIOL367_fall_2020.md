@@ -174,12 +174,10 @@ The Scientist-battle for the repressor
 
 [Lecture 12](https://github.com/kachroolab/kachroolab/files/5471895/Lecture.12.pdf) **Chapter 18, 20**
 
-#### Reading material for Lecture 12.
-
 The Scientist-battle for the repressor 
 (https://www.youtube.com/watch?v=kdOgoTl9Fog).
 
-#### Reading material for Lecture 15.
+#### Reading material for Lecture 12.
 
 [Reading Material 1](https://www.ncbi.nlm.nih.gov/books/NBK21683/)
 
