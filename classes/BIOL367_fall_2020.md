@@ -170,4 +170,23 @@ The Scientist-battle for the repressor
 
 [Reading material Transcription](https://github.com/kachroolab/kachroolab/files/2484228/Transcription.1.pdf) 
 
+### **November 02, 2020**
+
+[Lecture 12](https://github.com/kachroolab/kachroolab/files/5471895/Lecture.12.pdf) **Chapter 18, 20**
+
+#### Reading material for Lecture 12.
+
+The Scientist-battle for the repressor 
+(https://www.youtube.com/watch?v=kdOgoTl9Fog).
+
+#### Reading material for Lecture 15.
+
+[Reading Material 1](https://www.ncbi.nlm.nih.gov/books/NBK21683/)
+
+[Reading Material 2](https://www.ncbi.nlm.nih.gov/books/NBK21954/)
+
+[Reading Material 3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3104267/)
+
+[Reading material Transcription](https://github.com/kachroolab/kachroolab/files/2484228/Transcription.1.pdf) 
+
 
