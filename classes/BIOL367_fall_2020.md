@@ -205,11 +205,18 @@ The Scientist-battle for the repressor
 
 [Reading Material 1](https://github.com/kachroolab/kachroolab/files/1781562/Transcriptio.Euk1.pdf) Transcription regulation.
 
-[Reading Material 2](https://github.com/kachroolab/kachroolab/files/1781563/Transcriptio.Euk2.pdf) Chip-Seq.
-
 ### **Homework Assignment #1** will be given today.  It is due on **November 16, 2020**
 Homework Assignment #1 reading material 
-[Link 1](http://www.sciencemag.org/news/2014/05/designer-microbes-expand-lifes-genetic-alphabet), 
-[Link 2](https://github.com/kachroolab/kachroolab/files/1616990/New.letters.for.life.s.alphabet.pdf), 
+[Link 1](http://www.sciencemag.org/news/2014/05/designer-microbes-expand-lifes-genetic-alphabet).
+[Link 2](https://github.com/kachroolab/kachroolab/files/1616990/New.letters.for.life.s.alphabet.pdf).
+
+### **November 16, 2020**
+
+[Lecture 16](https://github.com/kachroolab/kachroolab/files/5543166/Lecture.16.pdf) **Chapter 14, 19****
+
+#### Reading material for Lecture 16.
+
+[Reading Material 1](https://github.com/kachroolab/kachroolab/files/1781563/Transcriptio.Euk2.pdf) Chip-Seq.
+
 
 
