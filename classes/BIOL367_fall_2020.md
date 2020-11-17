@@ -218,5 +218,14 @@ Homework Assignment #1 reading material
 
 [Reading Material 1](https://github.com/kachroolab/kachroolab/files/1781563/Transcriptio.Euk2.pdf) Chip-Seq.
 
+### **November 18, 2020**
+
+[Lecture 17](https://github.com/kachroolab/kachroolab/files/5556517/Lecture.17.pdf) **Chapter 19, 20, 15, 16**
+
+#### Reading material for Lecture 17.
+
+Reading material for RNAi. [Link 1 - RNAi 1](https://github.com/kachroolab/kachroolab/files/1811395/RNAi.1.pdf), [Link 2 - RNAi 2](https://github.com/kachroolab/kachroolab/files/1811397/RNAi.2.pdf), 
+[Link 3 - RNAi Nobel](https://github.com/kachroolab/kachroolab/files/1811400/RNAi.3.Nobel.prize.pdf)
+
 
 
