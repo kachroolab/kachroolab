@@ -227,5 +227,15 @@ Homework Assignment #1 reading material
 Reading material for RNAi. [Link 1 - RNAi 1](https://github.com/kachroolab/kachroolab/files/1811395/RNAi.1.pdf), [Link 2 - RNAi 2](https://github.com/kachroolab/kachroolab/files/1811397/RNAi.2.pdf), 
 [Link 3 - RNAi Nobel](https://github.com/kachroolab/kachroolab/files/1811400/RNAi.3.Nobel.prize.pdf)
 
+### **November 23, 2020**
+
+[Lecture 18](https://github.com/kachroolab/kachroolab/files/5580459/Lecture.18.pdf) **Chapter 15, 16**
+
+#### Reading material for Lecture 18.
+
+[genetic code 1.pdf](https://github.com/kachroolab/kachroolab/files/3856344/genetic.code.1.pdf)
+
+[genetic code 2.pdf](https://github.com/kachroolab/kachroolab/files/3856345/genetic.code.2.pdf)
+
 
 
