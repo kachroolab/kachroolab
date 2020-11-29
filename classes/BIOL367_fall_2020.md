@@ -237,5 +237,11 @@ Reading material for RNAi. [Link 1 - RNAi 1](https://github.com/kachroolab/kachr
 
 [genetic code 2.pdf](https://github.com/kachroolab/kachroolab/files/3856345/genetic.code.2.pdf)
 
+### **November 30, 2020**
+
+[Lecture 19](https://github.com/kachroolab/kachroolab/files/5613107/Lecture.19.pdf) **Chapter 15, 16**
+
+
+
 
 
