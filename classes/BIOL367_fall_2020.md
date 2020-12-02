@@ -241,6 +241,10 @@ Reading material for RNAi. [Link 1 - RNAi 1](https://github.com/kachroolab/kachr
 
 [Lecture 19](https://github.com/kachroolab/kachroolab/files/5613107/Lecture.19.pdf) **Chapter 15, 16**
 
+### **December 02, 2020**
+
+[Lecture 20](https://github.com/kachroolab/kachroolab/files/5626132/Lecture.20.pdf)
+
 
 
 
