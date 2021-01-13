@@ -1,0 +1,40 @@
+---
+layout: page
+title:  "BIOL 485/523/631, Agriculture, Agri-Food & Advanced Topics in Biotechnology, Winter 2021"
+date:   2021
+---
+This is the home page for class BIOL 485 - Winter 2020, Agriculture, Agri-Food & Advanced Topics in Biotechnology.
+
+**Syllabus**
+[Course outline - BIOL485 winter, UPDATED Jan 13th, 2021](). 
+**_Reading material provided below is absolutely necessary to comprehensively understand the principles of Plant Genetics, Biotechnology & Genomics that will be taught throughout the course. Therefore these materials are directly relevant for exams and other avenues for the evaluation._** 
+
+**_Office hours: Students may request to meet with Dr. Aashiq Kachroo (via email) by appointment on zoom. There are no TA sessions in this course.)_**
+
+### **QUIZ DATES**
+
+**QUIZ #1 - Thursday, Feb. 18, 2021 [Lectures 1-5]** 
+**QUIZ #2 - Thursday, Mar. 25, 2021 [Lectures 6-9]** 
+**QUIZ #3 - Thursday, Apr. 08, 2021 [Covering papers discussed]** 
+
+### **PROJECT DATES**
+
+**Pick a gene day- Thursday, Jan. 28, 2021** 
+
+## **_The Project is due on March 11, 2021_**
+
+### **FELLOWSHIP PROPOSAL GUIDELINE & SUBMISSION DATE**
+
+[Fellowship proposal guidelines_2021_BIOL485.pdf](https://github.com/kachroolab/kachroolab/files/4041523/Fellowship.proposal.guidelines.pdf)
+
+## **_The Fellowship Proposal is due on the last day of the course (ie. April 08, 2021)_**
+
+### **LECTURES & READING MATERIAL**
+
+**Jan 14, 2021**
+
+[Lecture 1 & 2]() 
+
+#### Reading material for Lectures 1 & 2.
+
+[TAIR annotations and tools](https://github.com/kachroolab/kachroolab/files/4072467/TAIR.pdf)
