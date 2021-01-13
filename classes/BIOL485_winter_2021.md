@@ -14,7 +14,9 @@ This is the home page for class BIOL 485 - Winter 2021, Agriculture, Agri-Food &
 ### **QUIZ DATES**
 
 **QUIZ #1 - Thursday, Feb. 18, 2021 [Lectures 1-5]** 
+
 **QUIZ #2 - Thursday, Mar. 25, 2021 [Lectures 6-9]** 
+
 **QUIZ #3 - Thursday, Apr. 08, 2021 [Covering papers discussed]** 
 
 ### **PROJECT DATES**
