@@ -3,7 +3,7 @@ layout: page
 title:  "BIOL 485/523/631, Agriculture, Agri-Food & Advanced Topics in Biotechnology, Winter 2021"
 date:   2021
 ---
-This is the home page for class BIOL 485 - Winter 2020, Agriculture, Agri-Food & Advanced Topics in Biotechnology.
+This is the home page for class BIOL 485 - Winter 2021, Agriculture, Agri-Food & Advanced Topics in Biotechnology.
 
 **Syllabus**
 [Course outline - BIOL485 winter, UPDATED Jan 13th, 2021](https://github.com/kachroolab/kachroolab/files/5809437/BIOL485-523.course.outline_Winter2021.pdf). 
