@@ -45,3 +45,8 @@ This is the home page for class BIOL 485 - Winter 2021, Agriculture, Agri-Food &
 
 [Lecture 02]() 
 
+#### Reading material for Lectures 02.
+
+[Plants, Diet and Health.pdf](https://github.com/kachroolab/kachroolab/files/4104744/Plants.Diet.and.Health.pdf)
+
+[Pan Plant PPI map.pdf](https://github.com/kachroolab/kachroolab/files/4104743/Pan.Plant.PPI.map.pdf) **Paper for discussion next week**
