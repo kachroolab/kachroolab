@@ -53,7 +53,7 @@ This is the home page for class BIOL 485 - Winter 2021, Agriculture, Agri-Food &
 
 ### **January 28, 2021**
 
-[Lecture 03](https://github.com/kachroolab/kachroolab/files/5888546/Week3_01282021_Lecture03_reducedfilesize.pdf)
+[Lecture 03](https://github.com/kachroolab/kachroolab/files/5888750/Week3_01282021_Lecture03_reducedfilesize.pdf)
 
 #### Reading material for Lectures 03.
 
