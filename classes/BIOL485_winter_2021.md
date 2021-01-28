@@ -43,10 +43,24 @@ This is the home page for class BIOL 485 - Winter 2021, Agriculture, Agri-Food &
 
 ### **January 21, 2021**
 
-[Lecture 02]() 
+[Lecture 02](https://github.com/kachroolab/kachroolab/files/5888545/Week2_01212021_Lecture02_reducedfilesize.pdf) 
 
 #### Reading material for Lectures 02.
 
 [Plants, Diet and Health.pdf](https://github.com/kachroolab/kachroolab/files/4104744/Plants.Diet.and.Health.pdf)
 
 [Pan Plant PPI map.pdf](https://github.com/kachroolab/kachroolab/files/4104743/Pan.Plant.PPI.map.pdf) **Paper for discussion next week**
+
+### **January 28, 2021**
+
+[Lecture 03](https://github.com/kachroolab/kachroolab/files/5888546/Week3_01282021_Lecture03_reducedfilesize.pdf)
+
+#### Reading material for Lectures 03.
+
+[Gene/Enhancer Trap](https://haseloff.plantsci.cam.ac.uk/tools/gal4system/page138.html)
+
+[Gene-function in Arabidopsis](https://github.com/kachroolab/kachroolab/files/4166942/Plant.gene-Function.approaches.pdf)
+
+[Gene/Enhancer/Promoter Trap](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC149045/)
+
+
