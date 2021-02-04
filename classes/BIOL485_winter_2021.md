@@ -75,11 +75,12 @@ This is the home page for class BIOL 485 - Winter 2021, Agriculture, Agri-Food &
 
 [Plant tropane alkaloid biosynthesis.pdf](https://github.com/kachroolab/kachroolab/files/4199941/Plant.tropane.alkaloid.biosynthesis.pdf)
 
+[Caffeine biosynthesis evolution](https://github.com/kachroolab/kachroolab/files/4199938/Caffeine.biosynthesis.evolution.pdf)
+
 #### Papers for discussion Lecture 05.
 
 [Terpenoid synthesis in E. coli](https://github.com/kachroolab/kachroolab/files/4199942/Terpenoid.synthesis.in.E.coli.pdf)
 
-[Caffeine biosynthesis evolution](https://github.com/kachroolab/kachroolab/files/4199938/Caffeine.biosynthesis.evolution.pdf)
 
 [Cannabinoid synthesis in yeast](https://github.com/kachroolab/kachroolab/files/4199939/Cannabinoid.synthesis.in.yeast.pdf)
 
