@@ -85,3 +85,14 @@ This is the home page for class BIOL 485 - Winter 2021, Agriculture, Agri-Food &
 [Cannabinoid synthesis in yeast](https://github.com/kachroolab/kachroolab/files/4199939/Cannabinoid.synthesis.in.yeast.pdf)
 
 
+### **February 11, 2021**
+
+[Lecture 05](https://github.com/kachroolab/kachroolab/files/5967136/Week5_02112021.pdf)
+
+#### Reading material for Lectures 05.
+
+[Advanced genetic tools for Plant biotechnology.pdf](https://github.com/kachroolab/kachroolab/files/4232302/Advanced.genetic.tools.for.Plant.biotechnology.pdf)
+
+[Mass-Spectometry for proteins.pdf](https://github.com/kachroolab/kachroolab/files/4232304/Mass-Spectometry.for.proteins.pdf)
+
+[Plant breeding and CRISPR.pdf](https://github.com/kachroolab/kachroolab/files/5967131/Plant.breeding.and.CRISPR.pdf)
