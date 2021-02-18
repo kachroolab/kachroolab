@@ -96,3 +96,17 @@ This is the home page for class BIOL 485 - Winter 2021, Agriculture, Agri-Food &
 [Mass-Spectometry for proteins.pdf](https://github.com/kachroolab/kachroolab/files/4232304/Mass-Spectometry.for.proteins.pdf)
 
 [Plant breeding and CRISPR.pdf](https://github.com/kachroolab/kachroolab/files/5967131/Plant.breeding.and.CRISPR.pdf)
+
+### **February 18, 2021**
+
+[Lecture 06](https://github.com/kachroolab/kachroolab/files/6004341/Week6_02182021.pdf)
+
+#### Reading material for Lectures 06 & 07.
+
+[CRISPR in plants.pdf](https://github.com/kachroolab/kachroolab/files/4294268/CRISPR.in.plants.pdf)
+
+[Synthetic Chromosome.pdf](https://github.com/kachroolab/kachroolab/files/4294269/Synthetic.Chromosome.pdf)
+
+[TALENs in plants.pdf](https://github.com/kachroolab/kachroolab/files/4294270/TALENs.in.plants.pdf)
+
+### **QUIZ#1 [Covering Lectures 1-5] on TOP HAT. The quiz will start at 2:45pm & will end at 3:45pm**
