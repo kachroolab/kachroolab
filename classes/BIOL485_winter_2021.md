@@ -110,3 +110,7 @@ This is the home page for class BIOL 485 - Winter 2021, Agriculture, Agri-Food &
 [TALENs in plants.pdf](https://github.com/kachroolab/kachroolab/files/4294270/TALENs.in.plants.pdf)
 
 ### **QUIZ#1 [Covering Lectures 1-5] on TOP HAT. The quiz will start at 2:45pm & will end at 3:45pm**
+
+### **_NO LECTURE ON MARCH 04 2021_**
+
+### **_PROJECT I is due on MARCH 11 2021_**
