@@ -111,6 +111,24 @@ This is the home page for class BIOL 485 - Winter 2021, Agriculture, Agri-Food &
 
 ### **QUIZ#1 [Covering Lectures 1-5] on TOP HAT. The quiz will start at 2:45pm & will end at 3:45pm**
 
+### **February 25, 2021**
+
+[Lecture 07](https://github.com/kachroolab/kachroolab/files/6044548/Week7_02252021.pdf)
+
+#### Reading material for Lectures 07 & 08.
+
+[Engineering COld Toletance in AT.pdf](https://github.com/kachroolab/kachroolab/files/4325676/Engineering.COld.Toletance.in.AT.pdf)
+
+[Engineering Stress Tolerance via CRISPR.pdf](https://github.com/kachroolab/kachroolab/files/4325677/Engineering.Stress.Tolerance.via.CRISPR.pdf)
+
+[Salt_tolerance_tomato.pdf](https://github.com/kachroolab/kachroolab/files/4325678/Salt_tolerance_tomato.pdf)
+
+[Abiotic stress reveiw .pdf](https://github.com/kachroolab/kachroolab/files/4325673/Abiotic.stress.reveiw.pdf)
+
+[CRISPR:Cas9 plants and China 1.pdf](https://github.com/kachroolab/kachroolab/files/4325674/CRISPR.Cas9.plants.and.China.1.pdf)
+
+[CRISPR:Cas9 plants and China 2.pdf](https://github.com/kachroolab/kachroolab/files/4325675/CRISPR.Cas9.plants.and.China.2.pdf)
+
 ### **_NO LECTURE ON MARCH 04 2021_**
 
 ### **_PROJECT I is due on MARCH 11 2021_**
