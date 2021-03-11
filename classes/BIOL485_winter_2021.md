@@ -132,3 +132,15 @@ This is the home page for class BIOL 485 - Winter 2021, Agriculture, Agri-Food &
 ### **_NO LECTURE ON MARCH 04 2021_**
 
 ### **_PROJECT I is due on MARCH 11 2021_**
+
+### **March 11, 2021**
+
+[Lecture 08](https://github.com/kachroolab/kachroolab/files/6124462/Week9_03112021.pdf)
+
+#### Reading material for Lectures 08
+
+[Flavonoid biosynthesis in plants.pdf](https://github.com/kachroolab/kachroolab/files/4388616/Flavonoid.biosynthesis.in.plants.pdf)
+
+[HGT in plants.pdf](https://github.com/kachroolab/kachroolab/files/4388617/HGT.in.plants.pdf)
+
+[Synthesis of active human Insulin in Plants.pdf](https://github.com/kachroolab/kachroolab/files/4388618/Synthesis.of.active.human.Insulin.in.Plants.pdf)
