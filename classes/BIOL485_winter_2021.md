@@ -141,6 +141,8 @@ This is the home page for class BIOL 485 - Winter 2021, Agriculture, Agri-Food &
 
 [Flavonoid biosynthesis in plants.pdf](https://github.com/kachroolab/kachroolab/files/4388616/Flavonoid.biosynthesis.in.plants.pdf)
 
-[HGT in plants.pdf](https://github.com/kachroolab/kachroolab/files/4388617/HGT.in.plants.pdf)
-
 [Synthesis of active human Insulin in Plants.pdf](https://github.com/kachroolab/kachroolab/files/4388618/Synthesis.of.active.human.Insulin.in.Plants.pdf)
+
+[Cold_Stress_Response-1.pdf](https://github.com/kachroolab/kachroolab/files/6124544/Cold_Stress_Response-1.pdf)
+
+[Cold_Stress_Response-2.pdf](https://github.com/kachroolab/kachroolab/files/6124545/Cold_Stress_Response-2.pdf)
