@@ -146,3 +146,23 @@ This is the home page for class BIOL 485 - Winter 2021, Agriculture, Agri-Food &
 [Cold_Stress_Response-1.pdf](https://github.com/kachroolab/kachroolab/files/6124544/Cold_Stress_Response-1.pdf)
 
 [Cold_Stress_Response-2.pdf](https://github.com/kachroolab/kachroolab/files/6124545/Cold_Stress_Response-2.pdf)
+
+### **March 18, 2021**
+
+[Lecture 09](https://github.com/kachroolab/kachroolab/files/6165742/Week10_03182021.pdf)
+
+#### Reading material for Lectures 09
+
+[HGT in plants.pdf](https://github.com/kachroolab/kachroolab/files/4388617/HGT.in.plants.pdf)
+
+[Risk Assessment-1.pdf](https://github.com/kachroolab/kachroolab/files/6165744/Risk.Assessment-1.pdf)
+
+[Risk Assessment-2.pdf](https://github.com/kachroolab/kachroolab/files/6165745/Risk.Assessment-2.pdf)
+
+### **March 25, 2021**
+
+#### [Paper for discussion-1](https://github.com/kachroolab/kachroolab/files/4388639/Paper1.for.discussion-1.pdf)
+
+### **QUIZ#2 [Covering Lectures 6-9] on TOP HAT. The quiz will start at 2:45pm & will end at 3:45pm**
+
+
