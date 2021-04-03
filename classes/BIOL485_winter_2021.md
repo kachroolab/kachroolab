@@ -165,4 +165,8 @@ This is the home page for class BIOL 485 - Winter 2021, Agriculture, Agri-Food &
 
 ### **QUIZ#2 [Covering Lectures 6-9] on TOP HAT. The quiz will start at 2:45pm & will end at 3:45pm**
 
+### **April 01, 2021**
+
+#### [Paper for discussion-2](https://github.com/kachroolab/kachroolab/files/6223245/CRISPRed.tomoatoes.for.urban.agriculture.pdf)
+
 
