@@ -11,13 +11,13 @@
 - name: Mudabir Abdullah
   role: Graduate student
   url: 
-  twitter: "MMudabir"
+  twitter: "MudabirAbdullah"
   Project: Humanizing proteasome complex in yeast
  
 - name: Sarmin Sultana
   role: Master's student
   url: 
-  twitter: "" 
+  twitter: "shormin_sultana"
   
 - name: Devina Singh
   role: Master's student
@@ -37,7 +37,7 @@
 - name: Michelle Vandeloo
   role: Master's student
   url: "https://www.linkedin.com/in/michelle-vandeloo-443a14141/"
-  twitter: ""
+  twitter: "m_vandeloo"
   
 - name: Saba Mesgari
   role: Master's student
@@ -57,3 +57,7 @@
   pubs: "https://scholar.google.com/citations?user=UT460d8AAAAJ&hl=en"
   twitter: "Aashiq_Kachroo"
   
+  name: Sophie Albert
+  role: Biol490 student
+  joined: 2020
+  twitter: ""
