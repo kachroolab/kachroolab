@@ -55,6 +55,10 @@ Follow these guidelines for how to take quiz on TOPHAT:** [Check the info here](
 
 [Lecture 01](https://github.com/kachroolab/kachroolab/files/7124285/Lecture.01.pdf) **Chapters 1 & 2**
 
+### **On-Zoom class on September 13, 2021** 
+
+[Lecture 02](https://github.com/kachroolab/kachroolab/files/7150397/Lecture.02.pdf) **Chapters 1 & 2**
+
 #### Reading material for Lecture 1 & 2.
 
 [Reading material 1-Avery](https://github.com/kachroolab/kachroolab/files/1612069/Avery.1944.pdf)
