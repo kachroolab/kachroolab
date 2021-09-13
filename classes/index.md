@@ -3,9 +3,9 @@ layout: page
 title: Classes
 permalink: /classes/
 ---
-**CURRENT:**
+## **CURRENT:**
 
-- **BIOL 367 Molecular Biology ([fall 2021](/classes/BIOL367_fall_2021.html))**
+## **BIOL 367 Molecular Biology ([fall 2021](/classes/BIOL367_fall_2021.html))**
 
 PAST:
 - BIOL 367 Molecular Biology ([winter 2018](/classes/BIOL367_winter_2018.html))
