@@ -67,6 +67,14 @@ Follow these guidelines for how to take quiz on TOPHAT:** [Check the info here](
 
 [Reading material 3-Watson & Crick](https://github.com/kachroolab/kachroolab/files/1612072/WatsonCrick.1953.pdf) **Must read**
 
+### **September 15, 2021**
+
+[Lecture 03](https://github.com/kachroolab/kachroolab/files/7165374/Lecture.03.pdf) **Chapters 3 & 4**
+
+#### Reading material for Lecture 3.
+
+[Central dogma](https://github.com/kachroolab/kachroolab/files/2373012/The.central.dogma_Crick.pdf)
+
 
 
 
