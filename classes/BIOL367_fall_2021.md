@@ -75,6 +75,21 @@ Follow these guidelines for how to take quiz on TOPHAT:** [Check the info here](
 
 [Central dogma](https://github.com/kachroolab/kachroolab/files/2373012/The.central.dogma_Crick.pdf)
 
+### **On-Zoom class on September 20, 2021**
+
+[Lecture 04](https://github.com/kachroolab/kachroolab/files/7192396/Lecture.04.pdf) **Chapters 2 & 9**
+
+#### Reading material for Lecture 4.
+
+[Arthur Kornberg's famous papers - summary](https://profiles.nlm.nih.gov/ps/retrieve/Narrative/WH/p-nid/208). 
+
+[DNA Helicase movie](https://www.youtube.com/watch?v=YzNuLsqMqyE&feature=youtu.be)
+
+[DNA Replication movie](https://dnalc.cshl.edu/resources/3d/04-mechanism-of-replication-advanced.html)
+
+**Benchling, tutorial 1**
+
+[Single-stranded to Double-stranded DNA](https://benchling.com/s/seq-8aTNukCNhyxSX1ADFUua)
 
 
 
