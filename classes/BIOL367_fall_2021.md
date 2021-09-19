@@ -69,7 +69,7 @@ Follow these guidelines for how to take quiz on TOPHAT:** [Check the info here](
 
 ### **In-person class on September 15, 2021**
 
-[Lecture 03](https://github.com/kachroolab/kachroolab/files/7165374/Lecture.03.pdf) **Chapters 3 & 4**
+[Lecture 03](https://github.com/kachroolab/kachroolab/files/7192432/Lecture.03.pdf) **Chapters 3 & 4** **UPDATED_SEP19 2021**
 
 #### Reading material for Lecture 3.
 
