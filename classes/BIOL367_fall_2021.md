@@ -104,7 +104,18 @@ Follow these guidelines for how to take quiz on TOPHAT:** [Check the info here](
 
 [PCR of EGFP](https://benchling.com/s/seq-hRjIhBueTToQQjuEqOhp)
 
-#### Reading material for Lecture 5 & 6.
+
+### **On-Zoom  class on September 27, 2021** 
+
+[Lecture 05](https://github.com/kachroolab/kachroolab/files/7210626/Lecture.05.pdf) **Chapters 7 & 9** 
+
+### **MID-TERM EXAM 1 on September 29, 2021** 
+
+### **On-Zoom  class on October 04, 2021** - Guest lecture by Trisha Ghosh 
+
+[Lecture 06]-Trisha Ghosh(https://github.com/kachroolab/kachroolab/files/7278906/Lecture.06TrishaGhosh.pdf) **Chapters 7 & 9** 
+
+[Lecture 06]-Aashiq Kachroo(https://github.com/kachroolab/kachroolab/files/7278905/Lecture.06AKversion.pdf) **Chapters 7 & 9** 
 
 [Reading material DNA sequencing 1](https://github.com/kachroolab/kachroolab/files/1639518/DNA.seq.at.40.pdf)
 
@@ -113,10 +124,5 @@ Follow these guidelines for how to take quiz on TOPHAT:** [Check the info here](
 [Reading material DNA sequencing 3](https://github.com/kachroolab/kachroolab/files/2408188/Next.gen.sequencing.2.pdf)
 
 [PCR video](https://dnalc.cshl.edu/view/15475-The-cycles-of-the-polymerase-chain-reaction-PCR-3D-animation.html)
-
-### **On-Zoom  class on September 27, 2021** 
-
-[Lecture 05](https://github.com/kachroolab/kachroolab/files/7210626/Lecture.05.pdf) **Chapters 7 & 9** 
-
 
 
