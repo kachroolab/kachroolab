@@ -113,9 +113,9 @@ Follow these guidelines for how to take quiz on TOPHAT:** [Check the info here](
 
 ### **On-Zoom  class on October 04, 2021** - Guest lecture by Trisha Ghosh 
 
-[Lecture 06]-Trisha Ghosh(https://github.com/kachroolab/kachroolab/files/7278906/Lecture.06TrishaGhosh.pdf) **Chapters 7 & 9** 
+[Lecture 06](https://github.com/kachroolab/kachroolab/files/7278906/Lecture.06TrishaGhosh.pdf) **Chapters 7 & 9** -Trisha Ghosh
 
-[Lecture 06]-Aashiq Kachroo(https://github.com/kachroolab/kachroolab/files/7278905/Lecture.06AKversion.pdf) **Chapters 7 & 9** 
+[Lecture 06](https://github.com/kachroolab/kachroolab/files/7278905/Lecture.06AKversion.pdf) **Chapters 7 & 9** -Aashiq Kachroo 
 
 [Reading material DNA sequencing 1](https://github.com/kachroolab/kachroolab/files/1639518/DNA.seq.at.40.pdf)
 
