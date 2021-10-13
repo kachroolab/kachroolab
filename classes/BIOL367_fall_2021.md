@@ -125,11 +125,21 @@ Follow these guidelines for how to take quiz on TOPHAT:** [Check the info here](
 
 [PCR video](https://dnalc.cshl.edu/view/15475-The-cycles-of-the-polymerase-chain-reaction-PCR-3D-animation.html)
 
-
 ### **In-person  class on October 06, 2021**
 
 [Lecture 07](https://github.com/kachroolab/kachroolab/files/7286666/Lecture.07.pdf) **Chapter 10 & 11**
 
 ### **QUIZ#1 [Covering Lectures 1-6] on TOP HAT. The quiz will start at 10:55am after lecture 8 and end at 11:30am.**
+
+### **In-person  class on October 13, 2021**
+
+[Lecture 08](https://github.com/kachroolab/kachroolab/files/7338101/Lecture.08.pdf) **Chapter 10 & 11**
+
+#### Reading material for Lecture 8.
+
+Check this video at Youtube for the basic understanding of [CRISPR-Cas9](https://www.youtube.com/watch?v=6SL2eEUvycI). 
+
+[DNA Double Strand Break Repair](https://github.com/kachroolab/kachroolab/files/2476633/DSBR.review.pdf) 
+
 
 
