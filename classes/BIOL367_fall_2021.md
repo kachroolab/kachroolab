@@ -105,13 +105,13 @@ Follow these guidelines for how to take quiz on TOPHAT:** [Check the info here](
 [PCR of EGFP](https://benchling.com/s/seq-hRjIhBueTToQQjuEqOhp)
 
 
-### **On-Zoom  class on September 27, 2021** 
+### **On-Zoom class on September 27, 2021** 
 
 [Lecture 05](https://github.com/kachroolab/kachroolab/files/7210626/Lecture.05.pdf) **Chapters 7 & 9** 
 
 ### **MID-TERM EXAM 1 on September 29, 2021** 
 
-### **On-Zoom  class on October 04, 2021** - Guest lecture by Trisha Ghosh 
+### **On-Zoom class on October 04, 2021** - Guest lecture by Trisha Ghosh 
 
 [Lecture 06](https://github.com/kachroolab/kachroolab/files/7278906/Lecture.06TrishaGhosh.pdf) **Chapters 7 & 9** -Trisha Ghosh
 
@@ -125,13 +125,13 @@ Follow these guidelines for how to take quiz on TOPHAT:** [Check the info here](
 
 [PCR video](https://dnalc.cshl.edu/view/15475-The-cycles-of-the-polymerase-chain-reaction-PCR-3D-animation.html)
 
-### **In-person  class on October 06, 2021**
+### **In-person class on October 06, 2021**
 
 [Lecture 07](https://github.com/kachroolab/kachroolab/files/7286666/Lecture.07.pdf) **Chapter 10 & 11**
 
 ### **QUIZ#1 [Covering Lectures 1-6] on TOP HAT. The quiz will start at 10:55am after lecture 8 and end at 11:30am.**
 
-### **In-person  class on October 13, 2021**
+### **In-person class on October 13, 2021**
 
 [Lecture 08](https://github.com/kachroolab/kachroolab/files/7338101/Lecture.08.pdf) **Chapter 10 & 11**
 
@@ -141,5 +141,31 @@ Check this video at Youtube for the basic understanding of [CRISPR-Cas9](https:/
 
 [DNA Double Strand Break Repair](https://github.com/kachroolab/kachroolab/files/2476633/DSBR.review.pdf) 
 
+### **In-person class on October 18, 2021**
 
+[Lecture 07-08](continued) **Chapter 10 & 11**
 
+### **On-zoom class by Mo. Nasr on October 20, 2021** "Recombinant DNA Technology Part I"
+
+[Lecture 09-Mo NASR](https://github.com/kachroolab/kachroolab/files/7405817/Lecture.09_Mo.Nasr_2021.pdf) **Chapter 7**
+
+### **In-person class on October 25, 2021** "Recombinant DNA Technology Part II & Transcription"
+
+[Lecture 08 & 10](https://github.com/kachroolab/kachroolab/files/7405819/Lecture.8.10.pdf) **Chapter 7 & 13** 
+
+#### Reading material for Lecture 09.
+
+Videos focusing on todays lecture can be viewed here 
+(https://www.dnalc.org/resources/animations/).
+(https://www.youtube.com/watch?v=Ik_Pxht1LM0).
+
+[Reading material Restriction endocnulcease 1](https://github.com/kachroolab/kachroolab/files/2476634/RE.2.pdf) 
+
+[Reading material Restriction endocnulcease 2](https://github.com/kachroolab/kachroolab/files/2476635/RE.1.pdf) 
+
+#### Reading material for Lecture 10.
+
+Some relevant videos focusing on todays lecture can be viewed here 
+(https://www.dnalc.org/resources/animations/).
+
+[Transcription-1](https://github.com/kachroolab/kachroolab/files/2484228/Transcription.1.pdf)
