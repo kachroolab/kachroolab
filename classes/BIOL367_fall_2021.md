@@ -6,7 +6,7 @@ date:   2021
 This is the home page for class BIOL 367, Fall 2021, Molecular Biology.
 
 **Syllabus**
-[Course outline - BIOL367, Fall, 2021-Updated SEP 02, 2021](https://github.com/kachroolab/kachroolab/files/7100806/BIOL367_Fall2021.course.outline_09022021.pdf). 
+[Course outline - BIOL367, Fall, 2021-Updated SEP 02, 2021](https://github.com/kachroolab/kachroolab/files/7409575/BIOL367_Fall2021.course.outline_09022021.pdf). 
 **_Reading material provided below is absolutely necessary to comprehensively understand the principles of Molecular Biology that will be taught throughout the course. Therefore these materials are directly relevant for exams and other avenues for the evaluation._** 
 
 **_Office hours (Wednesday 12:30p-1:30p on zoom)-Aashiq Kachroo_**
