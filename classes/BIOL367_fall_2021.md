@@ -169,3 +169,31 @@ Some relevant videos focusing on todays lecture can be viewed here
 (https://www.dnalc.org/resources/animations/).
 
 [Transcription-1](https://github.com/kachroolab/kachroolab/files/2484228/Transcription.1.pdf)
+
+### **November 01, 2021**
+
+[Lecture 11 & 12](https://github.com/kachroolab/kachroolab/files/7497872/Lecture.11.12.pdf) **Chapter 7, 13 & 18** 
+
+#### Reading material for Lecture 11.
+
+The Scientist-battle for the repressor 
+(https://www.youtube.com/watch?v=kdOgoTl9Fog).
+
+[Reading material Transcription](https://github.com/kachroolab/kachroolab/files/2484228/Transcription.1.pdf) 
+
+### **November 08, 2021**
+
+[Lecture 11 & 12](https://github.com/kachroolab/kachroolab/files/7497872/Lecture.11.12.pdf) **Chapter 18, 20**
+
+The Scientist-battle for the repressor 
+(https://www.youtube.com/watch?v=kdOgoTl9Fog).
+
+#### Reading material for Lecture 11 & 12.
+
+[Reading Material 1](https://www.ncbi.nlm.nih.gov/books/NBK21683/)
+
+[Reading Material 2](https://www.ncbi.nlm.nih.gov/books/NBK21954/)
+
+[Reading Material 3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3104267/)
+
+[Reading material Transcription](https://github.com/kachroolab/kachroolab/files/2484228/Transcription.1.pdf) 
