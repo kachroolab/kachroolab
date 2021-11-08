@@ -185,8 +185,7 @@ The Scientist-battle for the repressor
 
 [Lecture 11 & 12](https://github.com/kachroolab/kachroolab/files/7497872/Lecture.11.12.pdf) **Chapter 18, 20**
 
-The Scientist-battle for the repressor 
-(https://www.youtube.com/watch?v=kdOgoTl9Fog).
+[The Scientist-battle for the repressor](https://www.youtube.com/watch?v=kdOgoTl9Fog).
 
 #### Reading material for Lecture 11 & 12.
 
