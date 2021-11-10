@@ -187,7 +187,7 @@ The Scientist-battle for the repressor
 
 [The Scientist-battle for the repressor](https://www.youtube.com/watch?v=kdOgoTl9Fog).
 
-#### Reading material for Lecture 11 & 12.
+#### Reading material for Lecture 11 & 14.
 
 [Reading Material 1](https://www.ncbi.nlm.nih.gov/books/NBK21683/)
 
@@ -196,3 +196,7 @@ The Scientist-battle for the repressor
 [Reading Material 3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3104267/)
 
 [Reading material Transcription](https://github.com/kachroolab/kachroolab/files/2484228/Transcription.1.pdf) 
+
+### **In-person class on November 10, 2021** "Transcription Regulation - Part 2"
+
+[Lecture 13](https://github.com/kachroolab/kachroolab/files/7513120/Lecture.13.pdf) **Chapter 13, 18, 20****
