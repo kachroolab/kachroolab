@@ -199,4 +199,18 @@ The Scientist-battle for the repressor
 
 ### **In-person class on November 10, 2021** "Transcription Regulation - Part 2"
 
-[Lecture 13](https://github.com/kachroolab/kachroolab/files/7513120/Lecture.13.pdf) **Chapter 13, 18, 20****
+[Lecture 13](https://github.com/kachroolab/kachroolab/files/7513120/Lecture.13.pdf) **Chapter 13, 18, 20**
+
+### **On-zoom class on November 15, 2021** "Transcription Regulation - Part 2"
+
+[Lecture 13-continued](https://github.com/kachroolab/kachroolab/files/7513120/Lecture.13.pdf) **Chapter 13, 18, 20**
+
+### **On-zoom class on November 17, 2021** "Eukaryotic transcription - Part 1"
+
+[Lecture 14](https://github.com/kachroolab/kachroolab/files/7555126/Lecture.14.pdf) **Chapter 7, 8, 13**
+
+#### Reading material for Lecture 14.
+
+[Histone code guide](https://github.com/kachroolab/kachroolab/files/2572344/Histone.code.mofication.guide.pdf)
+
+[Reading Material 1](https://github.com/kachroolab/kachroolab/files/1781562/Transcriptio.Euk1.pdf) Transcription regulation.
