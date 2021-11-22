@@ -214,3 +214,13 @@ The Scientist-battle for the repressor
 [Histone code guide](https://github.com/kachroolab/kachroolab/files/2572344/Histone.code.mofication.guide.pdf)
 
 [Reading Material 1](https://github.com/kachroolab/kachroolab/files/1781562/Transcriptio.Euk1.pdf) Transcription regulation.
+
+### **In-person class on November 22, 2021** "Eukaryotic transcription - Part 1"
+
+[Lecture 15](https://github.com/kachroolab/kachroolab/files/7581522/Lecture.15.pdf) **Chapter 7, 8, 13**
+
+#### Reading material for Lecture 15.
+
+[Histone code guide](https://github.com/kachroolab/kachroolab/files/2572344/Histone.code.mofication.guide.pdf)
+
+[Reading Material 1](https://github.com/kachroolab/kachroolab/files/1781562/Transcriptio.Euk1.pdf) Transcription regulation.
