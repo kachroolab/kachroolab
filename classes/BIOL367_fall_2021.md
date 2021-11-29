@@ -224,3 +224,10 @@ The Scientist-battle for the repressor
 [Histone code guide](https://github.com/kachroolab/kachroolab/files/2572344/Histone.code.mofication.guide.pdf)
 
 [Reading Material 1](https://github.com/kachroolab/kachroolab/files/1781562/Transcriptio.Euk1.pdf) Transcription regulation.
+
+[Lecture 16](https://github.com/kachroolab/kachroolab/files/7614713/Lecture.16.pdf) **Chapter 14, 19****
+
+#### Reading material for Lecture 16.
+
+[Reading Material 1](https://github.com/kachroolab/kachroolab/files/1781563/Transcriptio.Euk2.pdf) Chip-Seq.
+
