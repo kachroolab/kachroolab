@@ -225,9 +225,21 @@ The Scientist-battle for the repressor
 
 [Reading Material 1](https://github.com/kachroolab/kachroolab/files/1781562/Transcriptio.Euk1.pdf) Transcription regulation.
 
+### **In-person class on November 29, 2021** "Eukaryotic transcription - Part 2"
+
 [Lecture 16](https://github.com/kachroolab/kachroolab/files/7614713/Lecture.16.pdf) **Chapter 14, 19****
 
 #### Reading material for Lecture 16.
 
 [Reading Material 1](https://github.com/kachroolab/kachroolab/files/1781563/Transcriptio.Euk2.pdf) Chip-Seq.
+
+### **In-person class on December 01, 2020** "Translation"
+
+[Lecture 17](https://github.com/kachroolab/kachroolab/files/7633646/Lecture.17.pdf) **Chapter 15, 16**
+
+#### Reading material for Lecture 17.
+
+[genetic code 1.pdf](https://github.com/kachroolab/kachroolab/files/3856344/genetic.code.1.pdf)
+
+[genetic code 2.pdf](https://github.com/kachroolab/kachroolab/files/3856345/genetic.code.2.pdf)
 
