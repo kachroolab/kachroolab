@@ -17,11 +17,11 @@ This is the home page for class BIOL 485 - Winter 2022, Agriculture, Agri-Food &
 
 **QUIZ #2 - Thursday, Mar. 17, 2022 [Lectures 6-9]** 
 
-**QUIZ #3 - Thursday, Apr. 07, 2021 [Covering papers discussed]** 
+**QUIZ #3 - Thursday, Apr. 07, 2022 [Covering papers discussed]** 
 
 ### **PROJECT DATES**
 
-**Pick a gene day- Thursday, Jan. 27, 2021** 
+**Pick a gene day- Thursday, Jan. 27, 2022** 
 
 ## **_The Project is due on March 10, 2022_**
 
