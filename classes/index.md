@@ -5,9 +5,10 @@ permalink: /classes/
 ---
 ## **CURRENT:**
 
-## **BIOL 367 Molecular Biology ([fall 2021](/classes/BIOL367_fall_2021.html))**
+## **BIOL 485 Molecular Biology ([winter 2022](/classes/BIOL485_winter_2022.html))**
 
 PAST:
+- BIOL 367 Molecular Biology ([fall 2021](/classes/BIOL367_fall_2021.html))
 - BIOL 367 Molecular Biology ([winter 2018](/classes/BIOL367_winter_2018.html))
 - BIOL 367 Molecular Biology ([fall 2018](/classes/BIOL367_fall_2018.html))
 - BIOL 461 Advanced Genetics ([winter 2019](/classes/BIOL461_winter_2019.html))
