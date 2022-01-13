@@ -35,15 +35,13 @@ This is the home page for class BIOL 485 - Winter 2022, Agriculture, Agri-Food &
 
 ### **January 13, 2022**
 
-[Lecture 01](https://github.com/kachroolab/kachroolab/files/5850220/Week1_01142021_Lecture01_reducedfilesize.pdf) 
+[Lecture 01](https://github.com/kachroolab/kachroolab/files/7863040/Week1_01132022.pdf) 
 
 #### Reading material for Lectures 01.
 
 [TAIR annotations and tools](https://github.com/kachroolab/kachroolab/files/4072467/TAIR.pdf)
 
-### **January 20, 2022**
 
-[Lecture 02](https://github.com/kachroolab/kachroolab/files/5888545/Week2_01212021_Lecture02_reducedfilesize.pdf) 
 
 
 
