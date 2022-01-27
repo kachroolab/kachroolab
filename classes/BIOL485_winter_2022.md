@@ -52,6 +52,19 @@ This is the home page for class BIOL 485 - Winter 2022, Agriculture, Agri-Food &
 [Pan Plant PPI map.pdf](https://github.com/kachroolab/kachroolab/files/4104743/Pan.Plant.PPI.map.pdf) **Paper for discussion next week**
 
 
+### **January 27, 2022**
+
+[Lecture 03](https://github.com/kachroolab/kachroolab/files/7952862/Week3_01272022.pdf)
+
+#### Reading material for Lectures 03.
+
+[Gene/Enhancer Trap](https://haseloff.plantsci.cam.ac.uk/tools/gal4system/page138.html)
+
+[Gene-function in Arabidopsis](https://github.com/kachroolab/kachroolab/files/4166942/Plant.gene-Function.approaches.pdf)
+
+[Gene/Enhancer/Promoter Trap](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC149045/)
+
+
 
 
 
