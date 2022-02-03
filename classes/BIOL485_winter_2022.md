@@ -62,7 +62,10 @@ This is the home page for class BIOL 485 - Winter 2022, Agriculture, Agri-Food &
 
 [Gene-function in Arabidopsis](https://github.com/kachroolab/kachroolab/files/4166942/Plant.gene-Function.approaches.pdf)
 
-[Gene/Enhancer/Promoter Trap](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC149045/)
+[Gene/Enhancer/Promoter Trap-1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC149045/)
+
+[Gene/Enhancer/Promoter Trap-2](https://github.com/kachroolab/kachroolab/files/7996986/Enhancer_Gene_trap.pdf)
+
 
 
 
