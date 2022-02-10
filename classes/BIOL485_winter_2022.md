@@ -67,6 +67,25 @@ This is the home page for class BIOL 485 - Winter 2022, Agriculture, Agri-Food &
 [Gene/Enhancer/Promoter Trap-2](https://github.com/kachroolab/kachroolab/files/7996986/Enhancer_Gene_trap.pdf)
 
 
+### **February 10, 2022**
+
+[Lecture 04-05](https://github.com/kachroolab/kachroolab/files/8041308/Week4-5_02102022.pdf)
+
+#### Reading material for Lectures 04 & 05.
+
+[GURT-review.pdf](https://github.com/kachroolab/kachroolab/files/4199940/GURT-review.pdf)
+
+[Plant tropane alkaloid biosynthesis.pdf](https://github.com/kachroolab/kachroolab/files/4199941/Plant.tropane.alkaloid.biosynthesis.pdf)
+
+[Caffeine biosynthesis evolution](https://github.com/kachroolab/kachroolab/files/4199938/Caffeine.biosynthesis.evolution.pdf)
+
+#### Papers for discussion Lecture 05 & 06.
+
+[Terpenoid synthesis in E. coli](https://github.com/kachroolab/kachroolab/files/4199942/Terpenoid.synthesis.in.E.coli.pdf)
+[Cannabinoid synthesis in yeast](https://github.com/kachroolab/kachroolab/files/4199939/Cannabinoid.synthesis.in.yeast.pdf)
+
+
+
 
 
 
