@@ -67,7 +67,7 @@ This is the home page for class BIOL 485 - Winter 2022, Agriculture, Agri-Food &
 [Gene/Enhancer/Promoter Trap-2](https://github.com/kachroolab/kachroolab/files/7996986/Enhancer_Gene_trap.pdf)
 
 
-### **February 10, 2022**
+### **February 10 & 17, 2022**
 
 [Lecture 04-05](https://github.com/kachroolab/kachroolab/files/8041308/Week4-5_02102022.pdf)
 
@@ -83,6 +83,23 @@ This is the home page for class BIOL 485 - Winter 2022, Agriculture, Agri-Food &
 
 [Terpenoid synthesis in E. coli](https://github.com/kachroolab/kachroolab/files/4199942/Terpenoid.synthesis.in.E.coli.pdf)
 [Cannabinoid synthesis in yeast](https://github.com/kachroolab/kachroolab/files/4199939/Cannabinoid.synthesis.in.yeast.pdf)
+
+### **February 24 & March 10, 2022**
+
+[Lecture 05-06](https://github.com/kachroolab/kachroolab/files/8134476/Week5-6_02242022.pdf)
+
+#### Reading material for Lectures 05.
+
+[Advanced genetic tools for Plant biotechnology.pdf](https://github.com/kachroolab/kachroolab/files/4232302/Advanced.genetic.tools.for.Plant.biotechnology.pdf)
+
+[Mass-Spectometry for proteins.pdf](https://github.com/kachroolab/kachroolab/files/4232304/Mass-Spectometry.for.proteins.pdf)
+
+[Plant breeding and CRISPR.pdf](https://github.com/kachroolab/kachroolab/files/5967131/Plant.breeding.and.CRISPR.pdf)
+
+#### Papers for discussion Lecture 06.
+
+[Cannabinoid synthesis in yeast](https://github.com/kachroolab/kachroolab/files/4199939/Cannabinoid.synthesis.in.yeast.pdf)
+
 
 
 
