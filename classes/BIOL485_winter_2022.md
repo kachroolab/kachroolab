@@ -100,6 +100,17 @@ This is the home page for class BIOL 485 - Winter 2022, Agriculture, Agri-Food &
 
 [Cannabinoid synthesis in yeast](https://github.com/kachroolab/kachroolab/files/4199939/Cannabinoid.synthesis.in.yeast.pdf)
 
+### **March 10, 2022**
+
+[Lecture 05-06_UPDATED](https://github.com/kachroolab/kachroolab/files/8225284/Week6_03102022.pdf)
+
+#### Reading material for Lectures 06.
+
+[CRISPR in plants.pdf](https://github.com/kachroolab/kachroolab/files/4294268/CRISPR.in.plants.pdf)
+
+[Synthetic Chromosome.pdf](https://github.com/kachroolab/kachroolab/files/4294269/Synthetic.Chromosome.pdf)
+
+[TALENs in plants.pdf](https://github.com/kachroolab/kachroolab/files/4294270/TALENs.in.plants.pdf)
 
 
 
