@@ -6,7 +6,7 @@ date:   2022
 This is the home page for class BIOL 367, Fall 2022, Molecular Biology.
 
 **Syllabus**
-[Course outline - BIOL367, Fall, 2022-SEP 06, 2022]((https://github.com/kachroolab/kachroolab/files/9498133/BIOL367_Fall2022.course.outline_09062022.pdf). 
+[Course outline - BIOL367, Fall, 2022-SEP 06,2022](https://github.com/kachroolab/kachroolab/files/9498133/BIOL367_Fall2022.course.outline_09062022.pdf) 
 **_Reading material provided below is absolutely necessary to comprehensively understand the principles of Molecular Biology that will be taught throughout the course. Therefore these materials are directly relevant for exams and other avenues for the evaluation._** 
 
 **_Office hours (Wednesday 12:30p-1:30p on zoom)-Aashiq Kachroo_ Please contact via email to schedule an office hour session**
