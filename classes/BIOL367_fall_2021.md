@@ -233,7 +233,7 @@ The Scientist-battle for the repressor
 
 [Reading Material 1](https://github.com/kachroolab/kachroolab/files/1781563/Transcriptio.Euk2.pdf) Chip-Seq.
 
-### **In-person class on December 01, 2020** "Translation"
+### **In-person class on December 01, 2021** "Translation"
 
 [Lecture 17](https://github.com/kachroolab/kachroolab/files/7633646/Lecture.17.pdf) **Chapter 15, 16**
 
@@ -242,4 +242,6 @@ The Scientist-battle for the repressor
 [genetic code 1.pdf](https://github.com/kachroolab/kachroolab/files/3856344/genetic.code.1.pdf)
 
 [genetic code 2.pdf](https://github.com/kachroolab/kachroolab/files/3856345/genetic.code.2.pdf)
+
+
 
