@@ -9,7 +9,7 @@ This is the home page for class BIOL 367, Fall 2022, Molecular Biology.
 [Course outline - BIOL367, Fall, 2022-SEP 06,2022](https://github.com/kachroolab/kachroolab/files/9505681/BIOL367_Fall2022.course.outline_09062022.pdf). 
 **_Reading material provided below is absolutely necessary to comprehensively understand the principles of Molecular Biology that will be taught throughout the course. Therefore these materials are directly relevant for exams and other avenues for the evaluation._** 
 
-**_Office hours (Wednesday 12:30p-1:30p on zoom)-Aashiq Kachroo_ Please contact via email to schedule an office hour session**
+**_Office hours (Wednesday 12:00p-12:30p on zoom)-Aashiq Kachroo_ Please contact via email to schedule an office hour session**
 
 
 ### **QUIZ DATES**
@@ -38,22 +38,23 @@ Here is a schedule for quiz exames over zoom.
 ### **TOPHAT GUIDELINES**
 Follow these guidelines for how to take quiz on TOPHAT:** [Check the info here](https://support.tophat.com/s/article/Student-Starting-a-Test).
 
-[How to prep 1](https://github.com/kachroolab/kachroolab/files/3802306/Lecture.14.pdf)
-
-[How to prep 2](https://github.com/kachroolab/kachroolab/files/2416372/TopHat.2.pdf)
-
-[TopHat tips and tricks](https://github.com/kachroolab/kachroolab/files/2416373/TopHat.3.pdf)
-
-[TopHat test best practices](https://github.com/kachroolab/kachroolab/files/2416374/TopHat.4.pdf)
-
-[TopHat test FAQs](https://github.com/kachroolab/kachroolab/files/2416375/TopHat.5.pdf)
-
-
 ## **LECTURES & READING MATERIAL**
 
-### **In-person class on September 07, 2022** 
+### **In-person class on September 07 & 09, 2022** 
 
-[Lecture 01](https://github.com/kachroolab/kachroolab/files/9505714/Lecture.01.pdf) **Chapters 1 & 2**
+[Lecture 01 & 02](https://github.com/kachroolab/kachroolab/files/9505714/Lecture.01.pdf) **Chapters 1 & 2**
+
+### **In-person class on September 14, 2022** 
+
+[Lecture 03](https://github.com/kachroolab/kachroolab/files/9565987/Lecture.02.pdf) **Chapters 1-4**
+
+#### Reading material for Lecture 1 & 2.
+
+[Reading material 1-Avery](https://github.com/kachroolab/kachroolab/files/1612069/Avery.1944.pdf)
+
+[Reading material 2-Chargaff](https://github.com/kachroolab/kachroolab/files/1612189/Chargaff.1950.pdf)
+
+[Reading material 3-Watson & Crick](https://github.com/kachroolab/kachroolab/files/1612072/WatsonCrick.1953.pdf) **Must read**
 
 
 
