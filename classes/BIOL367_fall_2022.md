@@ -56,5 +56,15 @@ Follow these guidelines for how to take quiz on TOPHAT:** [Check the info here](
 
 [Reading material 3-Watson & Crick](https://github.com/kachroolab/kachroolab/files/1612072/WatsonCrick.1953.pdf) **Must read**
 
+### **On-zoom class on September 16, 2022**
 
+[Lecture 03](https://github.com/kachroolab/kachroolab/files/9584606/Lecture.03.pdf) **Chapters 3 & 4** 
+
+#### Reading material for Lecture 3.
+
+[Central dogma](https://github.com/kachroolab/kachroolab/files/2373012/The.central.dogma_Crick.pdf)
+
+[DNA Topology Videos](https://youtu.be/HyP0cEbqKTc) 
+
+## **QUIZ-1 at 11AM today at zoom** ##
 
