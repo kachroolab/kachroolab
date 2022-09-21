@@ -68,3 +68,14 @@ Follow these guidelines for how to take quiz on TOPHAT:** [Check the info here](
 
 ## **QUIZ-1 at 11AM today at zoom** ##
 
+### **In-person class on September 21, 2022**
+
+[Lecture 04](https://github.com/kachroolab/kachroolab/files/9612138/Lecture.04.pdf) **Chapters 3 & 4** 
+
+#### Reading material for Lecture 3 & 4.
+
+[Central dogma](https://github.com/kachroolab/kachroolab/files/2373012/The.central.dogma_Crick.pdf)
+
+[DNA Topology Videos](https://youtu.be/HyP0cEbqKTc) 
+
+
