@@ -79,3 +79,30 @@ Follow these guidelines for how to take quiz on TOPHAT:** [Check the info here](
 [DNA Topology Videos](https://youtu.be/HyP0cEbqKTc) 
 
 
+**Benchling, tutorial 1**
+
+[Single-stranded to Double-stranded DNA](https://benchling.com/s/seq-8aTNukCNhyxSX1ADFUua)
+
+[Open Reading Frame](https://benchling.com/s/seq-joNMXHm2rItetsAgFM4K)
+
+[PCR of EGFP](https://benchling.com/s/seq-hRjIhBueTToQQjuEqOhp)
+
+
+### **In-person class on September 23, 2022** 
+
+[Lecture 05](https://github.com/kachroolab/kachroolab/files/9630306/Lecture.05.pdf) **Chapters 7 & 9** 
+
+#### Reading material for Lecture 5.
+
+[Arthur Kornberg's famous papers - summary](https://profiles.nlm.nih.gov/ps/retrieve/Narrative/WH/p-nid/208). 
+
+[DNA Helicase movie](https://www.youtube.com/watch?v=YzNuLsqMqyE&feature=youtu.be)
+
+[DNA Replication movie](https://dnalc.cshl.edu/resources/3d/04-mechanism-of-replication-advanced.html)
+
+
+
+
+
+
+
