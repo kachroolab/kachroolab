@@ -92,7 +92,7 @@ Follow these guidelines for how to take quiz on TOPHAT:** [Check the info here](
 
 [Lecture 05](https://github.com/kachroolab/kachroolab/files/9630306/Lecture.05.pdf) **Chapters 7 & 9** 
 
-#### Reading material for Lecture 5.
+#### Reading material for Lecture 5 & 6.
 
 [Arthur Kornberg's famous papers - summary](https://profiles.nlm.nih.gov/ps/retrieve/Narrative/WH/p-nid/208). 
 
@@ -100,6 +100,9 @@ Follow these guidelines for how to take quiz on TOPHAT:** [Check the info here](
 
 [DNA Replication movie](https://dnalc.cshl.edu/resources/3d/04-mechanism-of-replication-advanced.html)
 
+### **In-person class on September 28, 2022** 
+
+[Lecture 06](https://github.com/kachroolab/kachroolab/files/9660698/Lecture.06.pdf) **Chapters 7 & 9** 
 
 
 
