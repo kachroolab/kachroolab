@@ -105,6 +105,19 @@ Follow these guidelines for how to take quiz on TOPHAT:** [Check the info here](
 [Lecture 06](https://github.com/kachroolab/kachroolab/files/9660698/Lecture.06.pdf) **Chapters 7 & 9** 
 
 
+### **In-PERSON class on October 05, 2022**
+
+[Lecture 07](https://github.com/kachroolab/kachroolab/files/9711811/Lecture.07.pdf) **Chapters 7 & 9**
+
+[Reading material DNA sequencing 1](https://github.com/kachroolab/kachroolab/files/1639518/DNA.seq.at.40.pdf)
+
+[Reading material DNA sequencing 2](https://github.com/kachroolab/kachroolab/files/2408189/Next.gen.sequencing.1.pdf)
+
+[Reading material DNA sequencing 3](https://github.com/kachroolab/kachroolab/files/2408188/Next.gen.sequencing.2.pdf)
+
+[PCR video](https://dnalc.cshl.edu/view/15475-The-cycles-of-the-polymerase-chain-reaction-PCR-3D-animation.html)
+
+
 
 
 
