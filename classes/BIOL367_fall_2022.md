@@ -117,6 +117,10 @@ Follow these guidelines for how to take quiz on TOPHAT:** [Check the info here](
 
 [PCR video](https://dnalc.cshl.edu/view/15475-The-cycles-of-the-polymerase-chain-reaction-PCR-3D-animation.html)
 
+### **In-person class on October 07, 2022**
+
+[Lecture 07 & 08](https://github.com/kachroolab/kachroolab/files/9733510/Lecture.08.pdf) **Chapter 10 & 11**
+
 
 
 
