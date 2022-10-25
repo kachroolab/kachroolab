@@ -123,15 +123,16 @@ Follow these guidelines for how to take quiz on TOPHAT:** [Check the info here](
 
 ### **In-person class on October 19, 2022**
 
-[Lecture 09 & 10](https://github.com/kachroolab/kachroolab/files/9815823/Lecture.09.pdf) **Chapter 10 & 11**
+[Lecture 09](https://github.com/kachroolab/kachroolab/files/9815823/Lecture.09.pdf) **Chapter 10 & 11**
 
-#### Reading material for Lecture 9 & 10.
+### **In-person class on October 26, 2022**
 
+[Lecture 10](https://github.com/kachroolab/kachroolab/files/9864399/Lecture.10-11.pdf) **Chapter 10 & 11**
+
+#### Reading material for Lecture 10.
 Check this video at Youtube for the basic understanding of [CRISPR-Cas9](https://www.youtube.com/watch?v=6SL2eEUvycI). 
 
 [DNA Double Strand Break Repair](https://github.com/kachroolab/kachroolab/files/2476633/DSBR.review.pdf) 
-
-
 
 
 
