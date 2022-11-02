@@ -134,6 +134,19 @@ Check this video at Youtube for the basic understanding of [CRISPR-Cas9](https:/
 
 [DNA Double Strand Break Repair](https://github.com/kachroolab/kachroolab/files/2476633/DSBR.review.pdf) 
 
+### **In-person class on November 02, 2022** "Recombinant DNA Technology"
+
+[Lecture 12](https://github.com/kachroolab/kachroolab/files/9915339/Lecture.12.pdf) **Chapter 7**
+
+#### Reading material for Lecture 12.
+
+Videos focusing on todays lecture can be viewed here 
+(https://www.dnalc.org/resources/animations/).
+(https://www.youtube.com/watch?v=Ik_Pxht1LM0).
+
+[Reading material Restriction endocnulcease 1](https://github.com/kachroolab/kachroolab/files/2476634/RE.2.pdf) 
+
+[Reading material Restriction endocnulcease 2](https://github.com/kachroolab/kachroolab/files/2476635/RE.1.pdf) 
 
 
 
