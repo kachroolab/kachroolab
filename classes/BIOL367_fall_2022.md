@@ -140,13 +140,20 @@ Check this video at Youtube for the basic understanding of [CRISPR-Cas9](https:/
 
 #### Reading material for Lecture 12.
 
-Videos focusing on todays lecture can be viewed here 
-(https://www.dnalc.org/resources/animations/).
-(https://www.youtube.com/watch?v=Ik_Pxht1LM0).
 
 [Reading material Restriction endocnulcease 1](https://github.com/kachroolab/kachroolab/files/2476634/RE.2.pdf) 
 
 [Reading material Restriction endocnulcease 2](https://github.com/kachroolab/kachroolab/files/2476635/RE.1.pdf) 
 
 
+### **In-person class on November 09, 2022** "Recombinant DNA Technology Part II & Transcription"
 
+[Lecture 13](https://github.com/kachroolab/kachroolab/files/9966328/Lecture.13.pdf) **Chapter 7 & 13** 
+
+#### Reading material for Lecture 13.
+
+Some relevant videos focusing on todays lecture can be viewed here 
+(https://www.dnalc.org/resources/animations/).
+(https://www.youtube.com/watch?v=Ik_Pxht1LM0).
+
+[Transcription-1](https://github.com/kachroolab/kachroolab/files/2484228/Transcription.1.pdf)
