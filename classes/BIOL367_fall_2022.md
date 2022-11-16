@@ -25,7 +25,7 @@ Here is a schedule for quiz exames over zoom.
 
 **QUIZ 5 - Friday, 18 November, 2022 (30 minutes at the end of the lecture - covering lecturtes 18-21)**
 
-**QUIZ 6 - Friday, 02 December, 2022 (30 minutes at the end of the lecture - covering lecturtes 18-25)**
+**QUIZ 6 - Wednesday, 07 December, 2022 (30 minutes, no lecture on that day - covering lecturtes 18-25)**
 
 
 ## **THERE WILL BE NO FINAL EXAM**
