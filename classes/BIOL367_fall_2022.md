@@ -157,3 +157,19 @@ Some relevant videos focusing on todays lecture can be viewed here
 (https://www.youtube.com/watch?v=Ik_Pxht1LM0).
 
 [Transcription-1](https://github.com/kachroolab/kachroolab/files/2484228/Transcription.1.pdf)
+
+### **In-person class on November 16, 2022** "Transcription & its regulation"
+
+[Lecture 14](https://github.com/kachroolab/kachroolab/files/10017310/Lecture.14.pdf) **Chapter 7, 13 & 18**  
+
+#### Reading material for Lecture 14.
+
+[The Scientist-battle for the repressor](https://www.youtube.com/watch?v=kdOgoTl9Fog).
+
+[Reading Material 1](https://www.ncbi.nlm.nih.gov/books/NBK21683/)
+
+[Reading Material 2](https://www.ncbi.nlm.nih.gov/books/NBK21954/)
+
+[Reading Material 3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3104267/)
+
+[Reading material Transcription](https://github.com/kachroolab/kachroolab/files/2484228/Transcription.1.pdf) 
