@@ -162,7 +162,11 @@ Some relevant videos focusing on todays lecture can be viewed here
 
 [Lecture 14](https://github.com/kachroolab/kachroolab/files/10017310/Lecture.14.pdf) **Chapter 7, 13 & 18**  
 
-#### Reading material for Lecture 14.
+### **In-person class on November 23, 2022** "Prokaryotic transcriptional regulation"
+
+[Lecture 15](https://github.com/kachroolab/kachroolab/files/10071841/Lecture.15.pdf) **Chapter 7, 13 & 18**  
+
+#### Reading material for Lecture 15
 
 [The Scientist-battle for the repressor](https://www.youtube.com/watch?v=kdOgoTl9Fog).
 
