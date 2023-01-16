@@ -27,7 +27,7 @@ This is the home page for class BIOL 485 - Winter 2023, Agriculture, Agri-Food &
 
 ## **FELLOWSHIP PROPOSAL GUIDELINE & SUBMISSION DATE**
 
-[Fellowship proposal guidelines_2022_BIOL485.pdf](https://github.com/kachroolab/kachroolab/files/5809462/Fellowship.proposal.guidelines.pdf)
+[Fellowship proposal guidelines_2022_BIOL485.pdf](https://github.com/kachroolab/kachroolab/files/10429383/Fellowship.proposal.guidelines.pdf)
 
 ## **_The Fellowship Proposal is due on the last day of the course (ie. April 08, 2023)_**
 
@@ -35,7 +35,7 @@ This is the home page for class BIOL 485 - Winter 2023, Agriculture, Agri-Food &
 
 ### **January 12, 2023**
 
-[Lecture 01]
+[Lecture 01](https://github.com/kachroolab/kachroolab/files/10429400/Week1_01122023.pdf)
 
 
 
