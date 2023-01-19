@@ -37,6 +37,17 @@ This is the home page for class BIOL 485 - Winter 2023, Agriculture, Agri-Food &
 
 [Lecture 01](https://github.com/kachroolab/kachroolab/files/10429400/Week1_01122023.pdf)
 
+[TAIR annotations and tools](https://github.com/kachroolab/kachroolab/files/4072467/TAIR.pdf)
+
+### **January 19, 2023**
+
+[Lecture 02](https://github.com/kachroolab/kachroolab/files/10459353/Week2_01192023.pdf) 
+
+#### Reading material for Lectures 02.
+
+[Plants, Diet and Health.pdf](https://github.com/kachroolab/kachroolab/files/4104744/Plants.Diet.and.Health.pdf)
+
+[Pan Plant PPI map.pdf](https://github.com/kachroolab/kachroolab/files/4104743/Pan.Plant.PPI.map.pdf) **Paper for discussion next week**
 
 
 
