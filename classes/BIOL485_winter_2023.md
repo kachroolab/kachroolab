@@ -39,7 +39,7 @@ This is the home page for class BIOL 485 - Winter 2023, Agriculture, Agri-Food &
 
 [TAIR annotations and tools](https://github.com/kachroolab/kachroolab/files/4072467/TAIR.pdf)
 
-### **January 19, 2023**
+### **January 26, 2023**
 
 [Lecture 02](https://github.com/kachroolab/kachroolab/files/10459353/Week2_01192023.pdf) 
 
