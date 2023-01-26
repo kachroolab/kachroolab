@@ -41,7 +41,7 @@ This is the home page for class BIOL 485 - Winter 2023, Agriculture, Agri-Food &
 
 ### **January 26, 2023**
 
-[Lecture 02]() 
+[Lecture 02](https://github.com/kachroolab/kachroolab/files/10510278/Week2_01192023.pdf) 
 
 #### Reading material for Lectures 02.
 
