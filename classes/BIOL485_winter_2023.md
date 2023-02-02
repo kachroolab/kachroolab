@@ -47,6 +47,19 @@ This is the home page for class BIOL 485 - Winter 2023, Agriculture, Agri-Food &
 
 [Plants, Diet and Health.pdf](https://github.com/kachroolab/kachroolab/files/4104744/Plants.Diet.and.Health.pdf)
 
+### **February 02, 2023**
+
+[Lecture 03](https://github.com/kachroolab/kachroolab/files/10570267/Week4_02012023.pdf) 
+
+#### Reading material for Lectures 03.
+
+[Gene/Enhancer Trap](https://haseloff.plantsci.cam.ac.uk/tools/gal4system/page138.html)
+
+[Gene-function in Arabidopsis](https://github.com/kachroolab/kachroolab/files/4166942/Plant.gene-Function.approaches.pdf)
+
+[Gene/Enhancer/Promoter Trap-1](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC149045/)
+
+[Gene/Enhancer/Promoter Trap-2](https://github.com/kachroolab/kachroolab/files/7996986/Enhancer_Gene_trap.pdf)
 
 
 
