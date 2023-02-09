@@ -61,7 +61,7 @@ This is the home page for class BIOL 485 - Winter 2023, Agriculture, Agri-Food &
 
 [Gene/Enhancer/Promoter Trap-2](https://github.com/kachroolab/kachroolab/files/7996986/Enhancer_Gene_trap.pdf)
 
-### **February 10 & 17, 2022**
+### **February 09 & 16, 2023**
 
 [Lecture 04-05](https://github.com/kachroolab/kachroolab/files/10699963/Week4_02092023.pdf)
 
