@@ -15,7 +15,7 @@ This is the home page for class BIOL 485 - Winter 2023, Agriculture, Agri-Food &
 
 **QUIZ #1 - Thursday, Feb. 09, 2023 [Lectures 1-5]** 
 
-**QUIZ #2 - Thursday, Mar. 16, 2023 [Lectures 6-9]** 
+**QUIZ #2 - Thursday, Mar. 23, 2023 [Lectures 6-9]** 
 
 **QUIZ #3 - Thursday, Apr. 06, 2023 [Covering papers discussed]** 
 
@@ -23,7 +23,7 @@ This is the home page for class BIOL 485 - Winter 2023, Agriculture, Agri-Food &
 
 ##**Pick a gene day- Thursday, Jan. 26, 2023** 
 
-## **_The Project is due on March 09, 2023_**
+## **_The Project is due on March 12, 2023_**
 
 ## **FELLOWSHIP PROPOSAL GUIDELINE & SUBMISSION DATE**
 
