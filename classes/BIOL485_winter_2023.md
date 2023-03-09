@@ -80,6 +80,20 @@ This is the home page for class BIOL 485 - Winter 2023, Agriculture, Agri-Food &
 [Terpenoid synthesis in E. coli](https://github.com/kachroolab/kachroolab/files/4199942/Terpenoid.synthesis.in.E.coli.pdf)
 [Cannabinoid synthesis in Yeast](https://github.com/kachroolab/kachroolab/files/4199939/Cannabinoid.synthesis.in.yeast.pdf)
 
+### **March 09, 2023**
+
+[Lecture 07](https://github.com/kachroolab/kachroolab/files/10933409/Week6_03092023.pdf)
+
+#### Reading material for Lectures 07.
+
+[CRISPR in plants.pdf](https://github.com/kachroolab/kachroolab/files/4294268/CRISPR.in.plants.pdf)
+
+[Synthetic Chromosome.pdf](https://github.com/kachroolab/kachroolab/files/4294269/Synthetic.Chromosome.pdf)
+
+[TALENs in plants.pdf](https://github.com/kachroolab/kachroolab/files/4294270/TALENs.in.plants.pdf)
+
+### **_PROJECT I is due on MARCH 12, 2022 before 12am_**
+
 
 
 
