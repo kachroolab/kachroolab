@@ -23,7 +23,7 @@ This is the home page for class BIOL 485 - Winter 2023, Agriculture, Agri-Food &
 
 ##**Pick a gene day- Thursday, Jan. 26, 2023** 
 
-## **_The Project is due on March 12, 2023_**
+## **_The Project is due on March 14, 2023_**
 
 ## **FELLOWSHIP PROPOSAL GUIDELINE & SUBMISSION DATE**
 
@@ -92,7 +92,7 @@ This is the home page for class BIOL 485 - Winter 2023, Agriculture, Agri-Food &
 
 [TALENs in plants.pdf](https://github.com/kachroolab/kachroolab/files/4294270/TALENs.in.plants.pdf)
 
-### **_PROJECT I is due on MARCH 12, 2022 before 12am_**
+### **_PROJECT I is due on MARCH 14, 2022 before 12am_**
 
 
 
