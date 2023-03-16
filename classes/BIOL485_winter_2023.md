@@ -94,6 +94,15 @@ This is the home page for class BIOL 485 - Winter 2023, Agriculture, Agri-Food &
 
 ### **_PROJECT I is due on MARCH 14, 2022 before 12am_**
 
+### **March 16, 2023**
+
+[Lecture 08](https://github.com/kachroolab/kachroolab/files/10992612/Week7_03162023.pdf)
+
+#### Reading material for Lectures 08.
+
+[CRISPR in plants.pdf](https://github.com/kachroolab/kachroolab/files/4294268/CRISPR.in.plants.pdf) & others provided in the lecture slides.
+
+
 
 
 
