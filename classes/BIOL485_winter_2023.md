@@ -102,6 +102,20 @@ This is the home page for class BIOL 485 - Winter 2023, Agriculture, Agri-Food &
 
 [CRISPR in plants.pdf](https://github.com/kachroolab/kachroolab/files/4294268/CRISPR.in.plants.pdf) & others provided in the lecture slides.
 
+### **March 23, 2023**
+
+[Lecture 08](https://github.com/kachroolab/kachroolab/files/11052589/Week8_03232023.pdf)
+
+#### Reading material for Lectures 09
+
+[Flavonoid biosynthesis in plants.pdf](https://github.com/kachroolab/kachroolab/files/4388616/Flavonoid.biosynthesis.in.plants.pdf)
+
+[Synthesis of active human Insulin in Plants.pdf](https://github.com/kachroolab/kachroolab/files/4388618/Synthesis.of.active.human.Insulin.in.Plants.pdf)
+
+[Cold_Stress_Response-1.pdf](https://github.com/kachroolab/kachroolab/files/6124544/Cold_Stress_Response-1.pdf)
+
+[Cold_Stress_Response-2.pdf](https://github.com/kachroolab/kachroolab/files/6124545/Cold_Stress_Response-2.pdf)
+
 
 
 
