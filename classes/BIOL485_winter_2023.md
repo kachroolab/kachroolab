@@ -116,6 +116,21 @@ This is the home page for class BIOL 485 - Winter 2023, Agriculture, Agri-Food &
 
 [Cold_Stress_Response-2.pdf](https://github.com/kachroolab/kachroolab/files/6124545/Cold_Stress_Response-2.pdf)
 
+### **March 30, 2023**
+
+[Lecture 09](https://github.com/kachroolab/kachroolab/files/11113238/Week9_03302023.pdf)
+
+#### Reading material for Lectures 09
+
+[HGT in plants.pdf](https://github.com/kachroolab/kachroolab/files/4388617/HGT.in.plants.pdf)
+
+[Risk Assessment-1.pdf](https://github.com/kachroolab/kachroolab/files/6165744/Risk.Assessment-1.pdf)
+
+[Risk Assessment-2.pdf](https://github.com/kachroolab/kachroolab/files/6165745/Risk.Assessment-2.pdf)
+
+### **PAPERS FOR DISCUSSION** Check on TOPHAT
+
+
 
 
 
