@@ -1,14 +1,18 @@
 - author: S. Sultana$. M. Abdullah$, Jianhui Li, M. Hochstrasser, A. H. Kachroo*
-  year: Preprint
+  year: 2023
   title: Species-specific protein-protein interactions govern the humanization of the 20S proteasome in yeast.
-  ref: "bioRxiv. 2022"
-  doi: https://doi.org/10.1101/2022.06.20.496808
+  ref: "Genetics"
+  doi: 10.1093/genetics/iyad117
+  pmid: 37364278
+  bioRxiv: https://doi.org/10.1101/2022.06.20.496808
   
-- author: M. Abdullah, B. M. Greco, J. M. Laurent, M. Vandeloo, E. M. Marcotte, A. H. Kachroo*
-  year: Preprint
-  title: Rapid, scalable, combinatorial genome engineering by Marker-less Enrichment and Recombination of Genetically Engineered loci (MERGE).
-  ref: "bioRxiv. 2022"
-  doi: https://doi.org/10.1101/2022.06.17.496490
+- author: M. Abdullah, B. M. Greco, J. M. Laurent, R. K. Garge, D. R. Boutz, M. Vandeloo, E. M. Marcotte, A. H. Kachroo*
+  year: 2023
+  title: Rapid, scalable, combinatorial genome engineering by Marker-less Enrichment and Recombination of Genetically Engineered loci in yeast.
+  ref: "Cell Reports Methods"
+  doi: 10.1016/j.crmeth.2023.100464
+  pmid: 37323580
+  bioRxiv: https://doi.org/10.1101/2022.06.17.496490
   
 - author: A. H. Kachroo*, M. Vandeloo, B. M. Greco, M. Abdullah
   year: 2022
