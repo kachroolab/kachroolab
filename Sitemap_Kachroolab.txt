@@ -1,6 +1,6 @@
-http://www.kachroolab.org
-http://www.kachroolab.org/#about
-http://www.kachroolab.org/#news
-http://www.kachroolab.org/positions/
-http://www.kachroolab.org/publications/
-http://www.kachroolab.org/positions/About_the_lab
+http://www.kachroolab.ca
+http://www.kachroolab.ca/#about
+http://www.kachroolab.ca/#news
+http://www.kachroolab.ca/positions/
+http://www.kachroolab.ca/publications/
+http://www.kachroolab.ca/positions/About_the_lab
