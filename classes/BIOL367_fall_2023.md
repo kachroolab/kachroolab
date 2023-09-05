@@ -13,19 +13,19 @@ This is the home page for class BIOL 367, Fall 2023, Molecular Biology.
 
 
 ### **QUIZ DATES**
-Here is a schedule for quiz. 
+Here is a schedule for quiz. The lecture numbers are subjected to change.
 
-**QUIZ 1 - Friday, 16 September, 2022 (30 minutes at the end of the lecture - covering lecturtes 1-3)**
+**QUIZ 1 - Friday, 15 September, 2023 (30 minutes at the end of the lecture - covering lecturtes 1-3)**
 
-**QUIZ 2 - Friday, 30 September, 2022 (30 minutes at the end of the lecture - covering lecturtes 1-7)**
+**QUIZ 2 - Friday, 29 September, 2023 (30 minutes at the end of the lecture - covering lecturtes 1-7)**
 
-**QUIZ 3 - Friday, 14 October, 2022 (30 minutes at the end of the lecture - covering lecturtes 8-11)**
+**QUIZ 3 - Friday, 20 October, 2023 (30 minutes at the end of the lecture - covering lecturtes 8-12)**
 
-**QUIZ 4 - Friday, 04 November, 2022 (30 minutes at the end of the lecture - covering lecturtes 8-17)**
+**QUIZ 4 - Friday, 03 November, 2023 (30 minutes at the end of the lecture - covering lecturtes 8-17)**
 
-**QUIZ 5 - Friday, 18 November, 2022 (30 minutes at the end of the lecture - covering lecturtes 18-21)**
+**QUIZ 5 - Friday, 17 November, 2023 (30 minutes at the end of the lecture - covering lecturtes 18-21)**
 
-**QUIZ 6 - Wednesday, 07 December, 2022 (30 minutes, no lecture on that day - covering lecturtes 18-25)**
+**QUIZ 6 - Wednesday, 08 December, 2023 (30 minutes, no lecture on that day - covering lecturtes 18-25)**
 
 
 ## **THERE WILL BE NO FINAL EXAM**
@@ -40,7 +40,7 @@ Follow these guidelines for how to take quiz on TOPHAT:** [Check the info here](
 
 ## **LECTURES & READING MATERIAL**
 
-### **In-person class on September 07 & 09, 2022** 
+### **In-person class on September 06 & 08, 2023** 
 
 [Lecture 01 & 02](https://github.com/kachroolab/kachroolab/files/9505714/Lecture.01.pdf) **Chapters 1 & 2**
 
