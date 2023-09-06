@@ -23,7 +23,7 @@ Here is a schedule for quiz. The lecture numbers are subjected to change.
 
 **QUIZ 4 - Friday, 03 November, 2023 (30 minutes at the end of the lecture - covering lecturtes 8-17)**
 
-**QUIZ 5 - Friday, 17 November, 2023 (30 minutes at the end of the lecture - covering lecturtes 18-21)**
+**QUIZ 5 - Friday, 24 November, 2023 (30 minutes at the end of the lecture - covering lecturtes 18-21)**
 
 **QUIZ 6 - Friday, 08 December, 2023 (30 minutes, no lecture on that day - covering lecturtes 18-25)**
 
