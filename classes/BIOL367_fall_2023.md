@@ -6,7 +6,7 @@ date:   2023
 This is the home page for class BIOL 367, Fall 2023, Molecular Biology.
 
 **Syllabus**
-[Course outline - BIOL367, Fall, 2023-SEP 06,2023](). 
+[Course outline - BIOL367, Fall, 2023-SEP 06,2023](https://github.com/kachroolab/kachroolab/files/12529902/BIOL367_Fall2023.course.outline_09062023.pdf). 
 **_Reading material provided below is absolutely necessary to comprehensively understand the principles of Molecular Biology that will be taught throughout the course. Therefore these materials are directly relevant for exams and other avenues for the evaluation._** 
 
 **_Office hours (Wednesday 12:00p-1:00p on zoom)-Aashiq Kachroo_ Please contact via email to schedule an office hour session**
