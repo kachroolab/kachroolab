@@ -43,7 +43,7 @@ Follow these guidelines for how to take quiz on TOPHAT:** [Check the info here](
 ### **In-person class on September 06 & 08, 2023** 
 
 [Lecture 01](https://github.com/kachroolab/kachroolab/files/12529927/Lecture.01.pdf) **Chapters 1 & 2**
-[Lecture 02-03.pdf](https://github.com/kachroolab/kachroolab/files/12588720/Lecture.02-03.pdf) **Chapters 1 & 2**
+[Lecture 02-03.pdf](https://github.com/kachroolab/kachroolab/files/12588977/Lecture.02-03.pdf) **Chapters 1 & 2**
 
 #### Reading material for Lecture 1 & 2.
 
