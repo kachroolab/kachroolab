@@ -53,7 +53,7 @@ Follow these guidelines for how to take quiz on TOPHAT:** [Check the info here](
 
 [Reading material 3-Watson & Crick](https://github.com/kachroolab/kachroolab/files/1612072/WatsonCrick.1953.pdf) **Must read**
 
-### **In-person class on September 20, 2022**
+### **In-person class on September 20, 2023**
 
 [Lecture 04](https://github.com/kachroolab/kachroolab/files/12673964/Lecture.04_new.pdf) **Chapters 3 & 4** 
 
@@ -75,9 +75,9 @@ Follow these guidelines for how to take quiz on TOPHAT:** [Check the info here](
 [PCR of EGFP](https://benchling.com/s/seq-hRjIhBueTToQQjuEqOhp)
 
 
-### **In-person class on September 22, 2022** 
+### **In-person class on September 22, 2023** 
 
-[Lecture 05](https://github.com/kachroolab/kachroolab/files/12673969/Lecture.05.pdf) **Chapters 7 & 9** 
+[Lecture 05-UPDATED](https://github.com/kachroolab/kachroolab/files/12693618/Lecture.05_Updated.pdf) **Chapters 7 & 9** 
 
 #### Reading material for Lecture 5 & 6.
 
@@ -86,3 +86,4 @@ Follow these guidelines for how to take quiz on TOPHAT:** [Check the info here](
 [DNA Helicase movie](https://www.youtube.com/watch?v=YzNuLsqMqyE&feature=youtu.be)
 
 [DNA Replication movie](https://dnalc.cshl.edu/resources/3d/04-mechanism-of-replication-advanced.html)
+
