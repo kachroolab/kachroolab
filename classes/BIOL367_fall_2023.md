@@ -87,3 +87,18 @@ Follow these guidelines for how to take quiz on TOPHAT:** [Check the info here](
 
 [DNA Replication movie](https://dnalc.cshl.edu/resources/3d/04-mechanism-of-replication-advanced.html)
 
+### **In-PERSON class on October 04 & 06, 2023**
+
+[Lecture 06-07](https://github.com/kachroolab/kachroolab/files/12797710/Lecture.06-07.pdf) **Chapters 7 & 9**
+
+[Reading material DNA sequencing 1](https://github.com/kachroolab/kachroolab/files/1639518/DNA.seq.at.40.pdf)
+
+[Reading material DNA sequencing 2](https://github.com/kachroolab/kachroolab/files/2408189/Next.gen.sequencing.1.pdf)
+
+[Reading material DNA sequencing 3](https://github.com/kachroolab/kachroolab/files/2408188/Next.gen.sequencing.2.pdf)
+
+[PCR video](https://dnalc.cshl.edu/view/15475-The-cycles-of-the-polymerase-chain-reaction-PCR-3D-animation.html)
+
+[Telomerase FAQ.pdf](https://github.com/kachroolab/kachroolab/files/12797742/Telomerase.FAQ.pdf)
+
+
