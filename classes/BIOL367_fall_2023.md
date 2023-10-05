@@ -101,4 +101,6 @@ Follow these guidelines for how to take quiz on TOPHAT:** [Check the info here](
 
 [Telomerase FAQ.pdf](https://github.com/kachroolab/kachroolab/files/12797742/Telomerase.FAQ.pdf)
 
+[DNA sequencing at 40](https://github.com/kachroolab/kachroolab/files/12821540/nature24286.pdf)
+
 
