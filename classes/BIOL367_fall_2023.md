@@ -103,4 +103,14 @@ Follow these guidelines for how to take quiz on TOPHAT:** [Check the info here](
 
 [DNA sequencing at 40](https://github.com/kachroolab/kachroolab/files/12821540/nature24286.pdf)
 
+### **In-person class on October 18 & October 20, 2023**
+
+[Lecture 08 & 09](https://github.com/kachroolab/kachroolab/files/12965928/Lecture.08-09.pdf) **Chapter 10 & 11**
+
+#### Reading material.
+Check this video at Youtube for the basic understanding of [CRISPR-Cas9](https://www.youtube.com/watch?v=6SL2eEUvycI). 
+
+[DNA Double Strand Break Repair](https://github.com/kachroolab/kachroolab/files/2476633/DSBR.review.pdf) 
+[DNA Repair](https://github.com/kachroolab/kachroolab/files/12966860/s41392-021-00648-7.pdf)
+
 
