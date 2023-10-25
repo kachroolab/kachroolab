@@ -118,7 +118,7 @@ Check this video at Youtube for the basic understanding of [CRISPR-Cas9](https:/
 
 [Lecture 10-11](https://github.com/kachroolab/kachroolab/files/13160517/Lecture.10-11_2023.pdf)
 
-### **In-person class on October 27, 2023** "Recombinant DNA Technology & Transcription"
+### **In-person class on October 27, 2023** "Recombinant DNA Technology & Transcription"
 
 [Lecture 10-11](https://github.com/kachroolab/kachroolab/files/13160517/Lecture.10-11_2023.pdf) **Chapter 7 & 13** 
 
