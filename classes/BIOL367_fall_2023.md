@@ -114,4 +114,25 @@ Check this video at Youtube for the basic understanding of [CRISPR-Cas9](https:/
 
 [DNA Repair_Review](https://github.com/kachroolab/kachroolab/files/12966860/s41392-021-00648-7.pdf)
 
+### **On-zoom class on October 05, 2023** "DSBR, Virus Replication, Recombinant DNA Technology" 
 
+[Lecture 10-11](https://github.com/kachroolab/kachroolab/files/13160517/Lecture.10-11_2023.pdf)
+
+### **In-person class on October 27, 2023** "Recombinant DNA Technology & Transcription"
+
+[Lecture 10-11](https://github.com/kachroolab/kachroolab/files/13160517/Lecture.10-11_2023.pdf) **Chapter 7 & 13** 
+
+#### Reading material for Lecture 10-11.
+
+[Reading material Restriction endocnulcease 1](https://github.com/kachroolab/kachroolab/files/2476634/RE.2.pdf) 
+
+[Reading material Restriction endocnulcease 2](https://github.com/kachroolab/kachroolab/files/2476635/RE.1.pdf) 
+
+Some relevant videos focusing on todays lecture can be viewed here 
+(https://www.dnalc.org/resources/animations/).
+
+(https://www.youtube.com/watch?v=Ik_Pxht1LM0).
+
+[Transcription-1](https://github.com/kachroolab/kachroolab/files/2484228/Transcription.1.pdf)
+
+## **Take Home Assignment due on OCTOBER 27, 2023 at 10:15AM**
