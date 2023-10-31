@@ -128,11 +128,32 @@ Check this video at Youtube for the basic understanding of [CRISPR-Cas9](https:/
 
 [Reading material Restriction endocnulcease 2](https://github.com/kachroolab/kachroolab/files/2476635/RE.1.pdf) 
 
-Some relevant videos focusing on todays lecture can be viewed here 
+
+## **Take Home Assignment due on OCTOBER 27, 2023 at 10:15AM**
+
+#### Reading material for Lecture 13.
+
+### **In-person class on November 01, 2023** "Transcription"
+
+[Lecture 12-13](https://github.com/kachroolab/kachroolab/files/13218292/Lecture.12-13.pdf) **Chapter 7, 13 & 18**  
+
+Some relevant videos focusing on these lecture can be viewed here 
 (https://www.dnalc.org/resources/animations/).
 
 (https://www.youtube.com/watch?v=Ik_Pxht1LM0).
 
+
+#### Reading material for Lecture 12-14.
+
 [Transcription-1](https://github.com/kachroolab/kachroolab/files/2484228/Transcription.1.pdf)
 
-## **Take Home Assignment due on OCTOBER 27, 2023 at 10:15AM**
+[The Scientist-battle for the repressor](https://www.youtube.com/watch?v=kdOgoTl9Fog).
+
+[Reading Material 1](https://www.ncbi.nlm.nih.gov/books/NBK21683/)
+
+[Reading Material 2](https://www.ncbi.nlm.nih.gov/books/NBK21954/)
+
+[Reading Material 3](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3104267/)
+
+[Reading material Transcription](https://github.com/kachroolab/kachroolab/files/2484228/Transcription.1.pdf) 
+
