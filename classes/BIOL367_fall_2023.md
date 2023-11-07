@@ -141,9 +141,17 @@ Some relevant videos focusing on these lecture can be viewed here
 (https://www.youtube.com/watch?v=Ik_Pxht1LM0).
 
 
-#### Reading material for Lecture 12-14.
+#### Reading material for Lecture 12-13.
 
 [Transcription-1](https://github.com/kachroolab/kachroolab/files/2484228/Transcription.1.pdf)
+
+### **In-person class on November 08, 2023** "Transcriptional regulation-I"
+
+[Lecture 14-15](https://github.com/kachroolab/kachroolab/files/13282520/Lecture.14-15.pdf) **Chapter 7, 13 & 18**  
+
+### **In-person class on November 10, 2023** "Transcriptional regulation-II"
+
+#### Reading material for Lecture 14-15
 
 [The Scientist-battle for the repressor](https://www.youtube.com/watch?v=kdOgoTl9Fog).
 
