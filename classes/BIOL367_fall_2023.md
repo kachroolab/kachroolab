@@ -25,7 +25,7 @@ Here is a schedule for quiz. The lecture numbers are subjected to change.
 
 **QUIZ 5 - Friday, 24 November, 2023 (30 minutes at the end of the lecture - covering lecturtes 18-21)**
 
-**QUIZ 6 - Wednesday, 06 December, 2023 (30 minutes, no lecture on that day - covering lecturtes 18-25)**
+## **QUIZ 6 - Friday, 01 December, 2023 (30 minutes, no lecture on that day - covering lecturtes 18-25)**
 
 
 ## **THERE WILL BE NO FINAL EXAM**
