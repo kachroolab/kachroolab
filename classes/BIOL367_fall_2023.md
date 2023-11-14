@@ -163,3 +163,17 @@ Some relevant videos focusing on these lecture can be viewed here
 
 [Reading material Transcription](https://github.com/kachroolab/kachroolab/files/2484228/Transcription.1.pdf) 
 
+### **On-zoom class on November 15, 2023** "Transcriptional regulation-II"
+
+[Lecture 16-17](https://github.com/kachroolab/kachroolab/files/13355077/Lecture.16-17.pdf) **Chapter 7, 13 & 18**  
+
+### **In-person class on November 17, 2023** "Transcriptional regulation-II" **Chapter 14, 19****
+
+#### Reading material for Lecture 16-17
+
+[Histone code guide](https://github.com/kachroolab/kachroolab/files/2572344/Histone.code.mofication.guide.pdf)
+
+[Reading Material 1](https://github.com/kachroolab/kachroolab/files/1781562/Transcriptio.Euk1.pdf) Transcription regulation.
+
+[Reading Material 1](https://github.com/kachroolab/kachroolab/files/1781563/Transcriptio.Euk2.pdf) Chip-Seq.
+
