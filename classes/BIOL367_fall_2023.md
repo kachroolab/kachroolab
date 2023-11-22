@@ -177,3 +177,16 @@ Some relevant videos focusing on these lecture can be viewed here
 
 [Reading Material 1](https://github.com/kachroolab/kachroolab/files/1781563/Transcriptio.Euk2.pdf) Chip-Seq.
 
+### **On-zoom class on November 22 and 24, 2023** "Translation"
+
+[Lecture 17-18](https://github.com/kachroolab/kachroolab/files/13432098/Lecture.18-19.pdf) **Chapter 7, 13 & 18**  
+
+#### Reading material for Lecture 18-19
+
+[genetic code 1.pdf](https://github.com/kachroolab/kachroolab/files/3856344/genetic.code.1.pdf)
+
+[genetic code 2.pdf](https://github.com/kachroolab/kachroolab/files/3856345/genetic.code.2.pdf)
+
+
+
+
