@@ -187,7 +187,9 @@ Some relevant videos focusing on these lecture can be viewed here
 
 [genetic code 2.pdf](https://github.com/kachroolab/kachroolab/files/3856345/genetic.code.2.pdf)
 
-### **In-person class on November 29, 2023** "Translation" **Chapter 7, 13 & 18**  
+### **In-person class on November 29, 2023** "Translation & broader aspects of molecular biology" **Chapter 7, 13 & 18**  
+
+[Lecture 18-19_UPDATED.pdf](https://github.com/kachroolab/kachroolab/files/13492138/Lecture.18-19_UPDATED.pdf)
 
 ## **Take Home Assignment due on DECEMBER 05, 2023 by 12:00AM**
 
