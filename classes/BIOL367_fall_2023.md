@@ -195,6 +195,8 @@ Some relevant videos focusing on these lecture can be viewed here
 
 [Take Home Assignment-2.pdf](https://github.com/kachroolab/kachroolab/files/13490298/Take.Home.Assignment-2.pdf)
 
+## **THERE WILL BE NO FINAL EXAM**
+
 
 
 
