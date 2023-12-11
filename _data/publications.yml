@@ -1,4 +1,4 @@
-- author: S. Sultana$. M. Abdullah$, Jianhui Li, M. Hochstrasser, A. H. Kachroo*
+- author: S. Sultana. M. Abdullah$, Jianhui Li, M. Hochstrasser, A. H. Kachroo
   year: 2023
   title: Species-specific protein-protein interactions govern the humanization of the 20S proteasome in yeast.
   ref: "Genetics"
@@ -6,7 +6,7 @@
   pmid: 37364278
   bioRxiv: https://doi.org/10.1101/2022.06.20.496808
   
-- author: M. Abdullah, B. M. Greco, J. M. Laurent, R. K. Garge, D. R. Boutz, M. Vandeloo, E. M. Marcotte, A. H. Kachroo*
+- author: M. Abdullah, B. M. Greco, J. M. Laurent, R. K. Garge, D. R. Boutz, M. Vandeloo, E. M. Marcotte, A. H. Kachroo
   year: 2023
   title: Rapid, scalable, combinatorial genome engineering by Marker-less Enrichment and Recombination of Genetically Engineered loci in yeast.
   ref: "Cell Reports Methods"
@@ -14,14 +14,14 @@
   pmid: 37323580
   bioRxiv: https://doi.org/10.1101/2022.06.17.496490
   
-- author: A. H. Kachroo*, M. Vandeloo, B. M. Greco, M. Abdullah
+- author: A. H. Kachroo, M. Vandeloo, B. M. Greco, M. Abdullah
   year: 2022
   title: Humanized yeast to model human biology, disease and evolution.
   ref: "Disease Models & Mechanisms"
   doi: 10.1242/dmm.049309
   pmid: 35661208
   
-- author: R. K. Garge, H. J. Cha, C. Lee, J. D. Gollihar, A. H. Kachroo, J. B. Wallingford*, E. M. Marcotte*
+- author: R. K. Garge, H. J. Cha, C. Lee, J. D. Gollihar, A. H. Kachroo, J. B. Wallingford, E. M. Marcotte
   year: 2021
   title: Discovery of new vascular disrupting agents based on evolutionarily conserved drug action, pesticide resistance mutations, and humanized yeast.
   ref: "Genetics"
@@ -29,7 +29,7 @@
   pmcid: PMC8633126
   bioRxiv: 10.1101/2020.09.15.298828
 
-- author: R. K. Garge, J. M. Laurent, A. H. Kachroo*, E. M. Marcotte*
+- author: R. K. Garge, J. M. Laurent, A. H. Kachroo, E. M. Marcotte
   year: 2020
   title: Systematic humanization of the yeast cytoskeleton discerns functionally replaceable from divergent human genes.
   ref: "Genetics"
@@ -37,7 +37,7 @@
   pmcid: PMC7404242
   bioRxiv: 10.1101/2019.12.16.878751
   
-- author: J. M. Laurent, R. K. Garge, A. I. Teufel, C. O. Wilke, A. H. Kachroo*, E. M. Marcotte*
+- author: J. M. Laurent, R. K. Garge, A. I. Teufel, C. O. Wilke, A. H. Kachroo, E. M. Marcotte*
   year: 2020
   title: Humanization of yeast genes with multiple human orthologs reveals functional divergence between paralogs.
   ref: "PLoS Biology"
@@ -45,7 +45,7 @@
   pmcid: PMC7259792
   bioRxiv: 10.1101/668335
 
-- author: A. I. Teufel, M. M. Johnson, J. M. Laurent, A. H. Kachroo, E. M. Marcotte, C. O. Wilke* 
+- author: A. I. Teufel, M. M. Johnson, J. M. Laurent, A. H. Kachroo, E. M. Marcotte, C. O. Wilke
   year: 2019
   title: The many nuanced evolutionary consequences of duplicated genes.
   ref: "Molecular Biology and Evolution"
@@ -53,118 +53,118 @@
   pmcid: PMC6409435
   bioRxiv: 10.1101/366971
 
-- author: A. Akhmetov, J. M. Laurent, J. Gollihar, E. C. Gardner, R. K. Garge, A. D. Ellington, A. H. Kachroo*, E. M. Marcotte*
+- author: A. Akhmetov, J. M. Laurent, J. Gollihar, E. C. Gardner, R. K. Garge, A. D. Ellington, A. H. Kachroo, E. M. Marcotte
   year: 2018
   title: Single-step Precision Genome Editing in Yeast Using CRISPR-Cas9.
   ref: "Bio-protocol"
   doi: 10.21769/BioProtoc.2765
   pmcid: PMC5951413  
 
-- author: A. H. Kachroo$*, J. M. Laurent$, A. Akhmetov, M. Szilagyi-Jones, C. D. McWhite, A. Zhao, E. M. Marcotte*
+- author: A. H. Kachroo, J. M. Laurent$, A. Akhmetov, M. Szilagyi-Jones, C. D. McWhite, A. Zhao, E. M. Marcotte
   year: 2017
   title: Systematic bacterialization of yeast genes identifies a near-universally swappable pathway.
   ref: "eLife"
   doi: 10.7554/eLife.25093
   pmcid: PMC5536947 
   
-- author: J. M. Laurent, J. H. Young, A. H. Kachroo, E. M. Marcotte*
+- author: J. M. Laurent, J. H. Young, A. H. Kachroo, E. M. Marcotte
   year: 2016
   title: Efforts to make and apply humanized yeast.
   ref: "Brief Funct. Genomics 348:921–925"
   doi: 10.1093/bfgp/elv041
   pmcid: PMC4803062
   
-- author: A. H. Kachroo, J. M. Laurent, C. M. Yellman, A. G. Meyer, C. O. Wilke, E. M. Marcotte*
+- author: A. H. Kachroo, J. M. Laurent, C. M. Yellman, A. G. Meyer, C. O. Wilke, E. M. Marcotte
   year: 2015
   title: Systematic humanization of yeast genes reveals conserved functions and genetic modularity.
   ref: "Science 348:921–925"
   doi: 10.1126/science.aaa0769
   pmcid: PMC4718922
   
-- author: M. Jayaram*, C. H. Ma, A. H. Kachroo, P. A. Rowley, P. Guga, H. F. Fan, Y. Voziyanov
+- author: M. Jayaram, C. H. Ma, A. H. Kachroo, P. A. Rowley, P. Guga, H. F. Fan, Y. Voziyanov
   year: 2015
   title: An Overview of Tyrosine Site‐specific Recombination - From an Flp Perspective.
   ref: "Mobile DNA III"
   doi:  10.1128/microbiolspec.MDNA3-0021-2014
   pmid: 26350308
   
-- author: Yen Ting Liu, S. Sau, C. H. Ma, A. H. Kachroo, P. A. Rowley, K. M. Chang, H. F. Fan, M. Jayaram*
+- author: Yen Ting Liu, S. Sau, C. H. Ma, A. H. Kachroo, P. A. Rowley, K. M. Chang, H. F. Fan, M. Jayaram
   year: 2015
   title: The Partitioning and Copy Number Control Systems of the Selfish Yeast Plasmid - An Optimized Molecular Design for Stable Persistence in Host Cells.
   ref: "Microbiology Spectrum"
   doi:  10.1128/microbiolspec.PLAS-0003-2013
   pmcid: PMC4274994
   
-- author: B. Cannon$, A. H. Kachroo$, I. Jarmoskaite, M. Jayaram*, R. Russell*
+- author: B. Cannon, A. H. Kachroo, I. Jarmoskaite, M. Jayaram, R. Russell
   year: 2015
   title: Hexapeptides that inhibit processing of branched DNA structures induce a dynamic ensemble of holliday junction conformations.
   ref: "Journal of Biological Chemistry"
   doi: 10.1074/jbc.M115.663930
   pmcid: PMC4566245
   
-- author: P. A. Rowley$, A. H. Kachroo$, C. H. Ma, A. D. Maciaszek, P. Guga, M. Jayaram*
+- author: P. A. Rowley, A. H. Kachroo, C. H. Ma, A. D. Maciaszek, P. Guga, M. Jayaram
   year: 2015
   title: Stereospecific suppression of active site mutants by methylphosphonate substituted substrates reveals the stereochemical course of site-specific DNA recombination.
   ref: "Nucleic Acids Research"
   doi: 10.1093/nar/gkv513
   pmcid: PMC4499138
   
-- author: Yufeng Qian, A. H. Kachroo, C. M. Yellman, E. M. Marcotte, K. A. Johnson*
+- author: Yufeng Qian, A. H. Kachroo, C. M. Yellman, E. M. Marcotte, K. A. Johnson
   year: 2014
   title: Yeast cells expressing the human mitochondrial DNA polymerase reveal correlations between polymerase fidelity and human disease progression.
   ref: "Journal of Biological Chemistry"
   doi:  10.1074/jbc.M113.526418
   pmcid: PMC3937665
   
-- author: P. A. Rowley$, A. H. Kachroo$, M. Jayaram*
+- author: P. A. Rowley, A. H. Kachroo, M. Jayaram
   year: 2013
   title: Selfish DNA.
   ref: "Brenner's Encyclopedia of Genetics"
   doi: 10.1016/B978-0-12-374984-0.01394-2
   
-- author: JN. Kalyani, N. Ramachandra, A. H. Kachroo, S. Mahadevan, H. S. Savithri*
+- author: JN. Kalyani, N. Ramachandra, A. H. Kachroo, S. Mahadevan, H. S. Savithri
   year: 2012
   title: Functional analysis of the genes encoding diaminopropionate ammonia lyase in Escherichia coli and Salmonella enterica serovar Typhimurium.
   ref: "Journal of Bacteriology"
   doi: 10.1128/JB.01362-12
   pmcid: PMC3458667
  
-- author: P. A. Rowley, A. H. Kachroo, C. H. Ma, A. D. Maciaszek, P. Guga, M. Jayaram*
+- author: P. A. Rowley, A. H. Kachroo, C. H. Ma, A. D. Maciaszek, P. Guga, M. Jayaram
   year: 2010
   title: Electrostatic suppression allows tyrosine site-specific recombination in the absence of a conserved catalytic arginine.
   ref: "Journal of Biological Chemistry"
   doi: 10.1074/jbc.M110.112292
   pmcid: PMC2906291
  
-- author: A. H. Kachroo, P. A. Rowley, C. H. Ma, A. D. Maciaszek, P. Guga, M. Jayaram*
+- author: A. H. Kachroo, P. A. Rowley, C. H. Ma, A. D. Maciaszek, P. Guga, M. Jayaram
   year: 2010
   title: Restoration of catalytic functions in Cre recombinase mutants by electrostatic compensation between active site and DNA substrate.
   ref: "Nucleic Acids Research"
   doi: 10.1093/nar/gkq466
   pmcid: PMC2965224
  
-- author: A. H Kachroo, M. Jayaram, P. A. Rowley*
+- author: A. H Kachroo, M. Jayaram, P. A. Rowley
   year: 2009
   title: Metabolic engineering without plasmids.
   ref: "Nature Biotechnology"
   doi: 10.1038/nbt0809-729
   pmid: 19668179
  
-- author: C. H. Ma, A. H Kachroo, A. Macieszak, T. Y. Chen, P. Guga, M. Jayaram*
+- author: C. H. Ma, A. H Kachroo, A. Macieszak, T. Y. Chen, P. Guga, M. Jayaram
   year: 2009
   title: Reactions of Cre with methylphosphonate DNA - Similarities and contrasts with Flp and vaccinia topoisomerase.
   ref: "PLoS One"
   doi: 10.1371/journal.pone.0007248
   pmcid: PMC2747268
  
-- author: A. H. Kachroo, A. K. Kancherla, NS. Singh, U. Varshney, S. Mahadevan*
+- author: A. H. Kachroo, A. K. Kancherla, NS. Singh, U. Varshney, S. Mahadevan
   year: 2007
   title: Mutations that alter the regulation of the chb operon of Escherichia coli allow utilization of cellobiose.
   ref: "Molecular Microbiology"
   doi:  10.1111/j.1365-2958.2007.05999.x
   pmid: 18028317
   
-- author: A. H. Kachroo*
+- author: A. H. Kachroo
   year: 2004
   title: Order in stress-Lessons from the inanimate world.
   ref: "Journal of Biosciences"
