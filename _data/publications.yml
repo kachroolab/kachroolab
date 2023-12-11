@@ -58,14 +58,14 @@
   title: Single-step Precision Genome Editing in Yeast Using CRISPR-Cas9.
   ref: "Bio-protocol"
   doi: 10.21769/BioProtoc.2765
-  pmcid: PMC5951413  
+  pmcid: PMC5951413
 
 - author: A. H. Kachroo, J. M. Laurent$, A. Akhmetov, M. Szilagyi-Jones, C. D. McWhite, A. Zhao, E. M. Marcotte
   year: 2017
   title: Systematic bacterialization of yeast genes identifies a near-universally swappable pathway.
   ref: "eLife"
   doi: 10.7554/eLife.25093
-  pmcid: PMC5536947 
+  pmcid: PMC5536947
   
 - author: J. M. Laurent, J. H. Young, A. H. Kachroo, E. M. Marcotte
   year: 2016
@@ -170,3 +170,4 @@
   ref: "Journal of Biosciences"
   doi: 10.1007/BF02712104
   pmid: 15625389
+  
