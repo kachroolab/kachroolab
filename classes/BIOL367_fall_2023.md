@@ -191,13 +191,6 @@ Some relevant videos focusing on these lecture can be viewed here
 
 [Lecture 18-19_UPDATED.pdf](https://github.com/kachroolab/kachroolab/files/13492138/Lecture.18-19_UPDATED.pdf)
 
-## **Take Home Assignment due on DECEMBER 05, 2023 by 12:00AM**
-
-[Take Home Assignment-2.pdf](https://github.com/kachroolab/kachroolab/files/13490298/Take.Home.Assignment-2.pdf)
-
-
-## **THERE WILL BE NO FINAL EXAM**
-
 
 
 
