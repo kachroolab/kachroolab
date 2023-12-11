@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Humanization of yeast Proteasome"
+title:  "Humanization of the yeast Proteasome"
 date:   2023-06-01 14:08:00
 ---
 We published two articles focusing on the replaceability of yeast proteasome genes with their human equivalents. 
