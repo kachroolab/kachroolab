@@ -4,7 +4,7 @@ title:  "Humanization of the yeast Proteasome"
 date:   2023-06-01 13:48:00
 ---
 We published two articles focusing on the replaceability of yeast proteasome genes with their human equivalents. 
-1. [Rapid, scalable, combinatorial genome engineering by marker-less enrichment and recombination of genetically engineered loci in yeast](https://doi.org/10.1016/j.crmeth.2023.100464). 
+1.[Rapid, scalable, combinatorial genome engineering by marker-less enrichment and recombination of genetically engineered loci in yeast](https://doi.org/10.1016/j.crmeth.2023.100464). 
 
 Highlights:
 
@@ -18,7 +18,7 @@ Highlights:
 
 ![Graphical abstract](https://github.com/kachroolab/kachroolab/files/13639730/Graphical.Abstract.pdf).
 
-2. [Species-specific protein–protein interactions govern the humanization of the 20S proteasome in yeast](https://doi.org/10.1093/genetics/iyad117). 
+2.[Species-specific protein–protein interactions govern the humanization of the 20S proteasome in yeast](https://doi.org/10.1093/genetics/iyad117). 
 
 Highlights:
 We identified multiple replacement-competent variants of human β2c (PSMB7) in yeast. Structural modeling of the human mutants indicated at least 2 modes of suppression: 
