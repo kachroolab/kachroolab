@@ -5,7 +5,7 @@ permalink: /classes/
 ---
 ## **CURRENT:**
 
-## **BIOL 367 Molecular Biology ([fall 2023](/classes/BIOL367_fall_2023.html))**
+## **BIOL 485 Advanced Topics in Biotechnology ([winter 2024](/classes/BIOL485_winter_2024.html))**
 
 PAST:
 - BIOL 367 Molecular Biology ([winter 2018](/classes/BIOL367_winter_2018.html))
@@ -19,5 +19,6 @@ PAST:
 - BIOL 485 Advanced Topics in Biotechnology ([winter 2022](/classes/BIOL485_winter_2022.html))
 - BIOL 367 Molecular Biology ([fall 2022](/classes/BIOL367_fall_2022.html))
 - BIOL 485 Advanced Topics in Biotechnology ([winter 2023](/classes/BIOL485_winter_2023.html))
+- BIOL 367 Molecular Biology ([fall 2023](/classes/BIOL367_fall_2023.html))
 
 
